@@ -115,3 +115,5 @@ def get_irrigation_event_details(planting_id, access_token):
 irrigation_details = get_irrigation_event_details(planting_id, access_token)
 print("Irrigation Event Details:")
 print(json.dumps(irrigation_details, indent=4))  # Pretty-print JSON data
+
+#get water pressure method
