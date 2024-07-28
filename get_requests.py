@@ -49,7 +49,6 @@ def get_cut_event_data(access_token, id):
     response = requests.get(url, headers=headers)
     return response.json() if response.status_code == 200 else response.status_code
 
-# (ADDED 201 STATUS CODE)
 # GET v2/plantings/{plantingId}/et-weather-events.json
 # Returns a list of ET data associated with a planting.
 def get_et_weather_events(access_token, planting_id):
@@ -123,7 +122,7 @@ def get_cropmanage_irrigation_recommendation(access_token, id):
     response = requests.get(url, headers=headers)
     return response.json() if response.status_code == 200 else response.status_code
 
-# (ONLY ACCESSIBLE FROM CROPMANAGE APPLICATION)
+# (COULD NOT TEST)
 # GET v2/plantings/{plantingId}/irrigation-events/count-events-on-date.{ext}?targetDate={targetDate}
 # Endpoint used to check whether an irrigation event already exists on a specific date, to prevent multiple irrigation events from being created on the same date.
 def get_irrigation_event_exists(access_token, plantingId, targetDate):
@@ -148,7 +147,6 @@ def get_custom_irrigation_recommendation(access_token, plantingId, eventDate, ir
     response = requests.get(url, headers=headers)
     return response.json() if response.status_code == 200 else response.status_code
 
-# (COULD NOT TEST)
 # GET v2/plantings/{plantingId}/wells.{ext}
 # Returns a list of wells associated with a planting.
 def get_wells(access_token, plantingId):
