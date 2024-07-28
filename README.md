@@ -9,6 +9,9 @@
 - <b>put_requests.py</b>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-> File containing methods for all of the PUT requests available on the CropManage API.
 
+- <b>delete_requests.py</b>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-> File containing methods for all of the DELETE requests available on the CropManage API.
+
 - <b>example.py</b>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-> Sample program to test communication with the CropManage API.
 
