@@ -6,6 +6,9 @@
 - <b>post_requests.py</b>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-> File containing methods for all of the POST requests available on the CropManage API.
 
+- <b>post_requests.py</b>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-> File containing methods for all of the PUT requests available on the CropManage API.
+
 - <b>example.py</b>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-> Sample program to test communication with the CropManage API.
 

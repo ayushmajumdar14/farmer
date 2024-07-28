@@ -27,7 +27,7 @@ def put_update_fertilization_event(access_token, id, fertilizationEvent, manager
 # PUT v3/irrigation-events/{id}.{ext}
 # Updates an irrigation event.
 def put_update_irrigation_event(access_token, id, eventDate, irrigationMethodId, managerAmountRecommendation, managerAmountRecommendationHours, waterApplied, waterAppliedHours, isCustomDeficitEnabled, customDeficit=None):
-    url = f"https://api.cropmanage.ucanr.edu/v2/fertilization-events/{id}." + "{ext}"
+    url = f"https://api.cropmanage.ucanr.edu/v3/irrigation-events/{id}." + "{ext}"
 
     headers = {
         "Authorization": f"Bearer {access_token}",
@@ -53,6 +53,158 @@ def put_update_irrigation_event(access_token, id, eventDate, irrigationMethodId,
         "WaterAppliedHours": waterAppliedHours,
         "CustomDeficit": customDeficit,
         "IsCustomDeficitEnabled": isCustomDeficitEnabled
+    }
+
+    # Remove keys with None values
+    data = {key: value for key, value in data.items() if value is not None}
+
+    response = requests.put(url, headers=headers, json=data)
+    return response.json() if response.status_code == 200 else response.status_code
+
+# (COULD NOT TEST)
+# PUT v3/plantings/{plantingId}.json
+# Updates a planting.
+def put_update_planting(access_token, plantingId, defaultCropTypeId, name, wetDate, harvestDate, lotId, coordinates, acres, irrigationSettings, advancedSettings=None, macroTunnelSettings=None, stressSettings=None, perennialCropSettings=None):
+    url = f"https://api.cropmanage.ucanr.edu/v3/plantings/{plantingId}.json"
+
+    headers = {
+        "Authorization": f"Bearer {access_token}",
+    }
+
+    data = {
+        "DefaultCropTypeId": defaultCropTypeId,
+        "Name": name,
+        "WetDate": wetDate,
+        "HarvestDate": harvestDate,
+        "LotId": lotId,
+        "Coordinates": coordinates,
+        "Acres": acres,
+        "IrrigationSettings": irrigationSettings,
+        "AdvancedSettings": advancedSettings,
+        "MacroTunnelSettings": macroTunnelSettings,
+        "StressSettings": stressSettings,
+        "PerennialCropSettings": perennialCropSettings
+    }
+
+    # Remove keys with None values
+    data = {key: value for key, value in data.items() if value is not None}
+
+    response = requests.put(url, headers=headers, json=data)
+    return response.json() if response.status_code == 200 else response.status_code
+
+# (COULD NOT TEST)
+# PUT v3/ranches/{ranchGuid}.json
+# Updates ranch information.
+def put_update_ranch(access_token, ranchGuid, name, coordinates, acres):
+    url = f"https://api.cropmanage.ucanr.edu/v3/ranches/{ranchGuid}.json"
+
+    headers = {
+        "Authorization": f"Bearer {access_token}",
+    }
+
+    data = {
+        "Name": name,
+        "Coordinates": coordinates,
+        "Acres": acres
+    }
+
+    # Remove keys with None values
+    data = {key: value for key, value in data.items() if value is not None}
+
+    response = requests.put(url, headers=headers, json=data)
+    return response.json() if response.status_code == 200 else response.status_code
+
+# (COULD NOT TEST)
+# PUT v3/lots/{id}.json
+# Updates a planting area.
+def put_update_planting_area(access_token, id, name, acres, coordinates, obstructionDepth):
+    url = f"https://api.cropmanage.ucanr.edu/v3/lots/{id}.json"
+
+    headers = {
+        "Authorization": f"Bearer {access_token}",
+    }
+
+    data = {
+        "Name": name,
+        "Acres": acres,
+        "Coordinates": coordinates,
+        "ObstructionDepth": obstructionDepth
+    }
+
+    # Remove keys with None values
+    data = {key: value for key, value in data.items() if value is not None}
+
+    response = requests.put(url, headers=headers, json=data)
+    return response.json() if response.status_code == 200 else response.status_code
+
+# (COULD NOT TEST)
+# PUT v2/ranches/{ranchGuid}/wells/{wellId}.json
+# Updates a well.
+def put_update_well(access_token, ranchGuid, wellId, id, name, electricalConductivity, nitrogenPPM):
+    url = f"https://api.cropmanage.ucanr.edu/v2/ranches/{ranchGuid}/wells/{wellId}.json"
+
+    headers = {
+        "Authorization": f"Bearer {access_token}",
+    }
+
+    data = {
+        "Id": id,
+        "Name": name,
+        "ElectricalConductivity": electricalConductivity,
+        "NitrogenPPM": nitrogenPPM
+    }
+
+    # Remove keys with None values
+    data = {key: value for key, value in data.items() if value is not None}
+
+    response = requests.put(url, headers=headers, json=data)
+    return response.json() if response.status_code == 200 else response.status_code
+
+# (COULD NOT TEST)
+# PUT v2/soil-sample-events/{id}.{ext}
+# Updates a soil sample event.
+def put_update_planting_area(access_token, id, eventDate, sampleTypeId, sampleDepth, cropStageId, soilMoistureId, nitrogen, otherNutrients, dateOnly):
+    url = f"https://api.cropmanage.ucanr.edu/v2/soil-sample-events/{id}." + "{ext}"
+
+    headers = {
+        "Authorization": f"Bearer {access_token}",
+    }
+
+    data = {
+        "Id": id,
+        "EventDate": eventDate,
+        "SampleTypeId": sampleTypeId,
+        "SampleDepth": sampleDepth,
+        "CropStageId": cropStageId,
+        "SoilMoistureId": soilMoistureId,
+        "Nitrogen": nitrogen,
+        "OtherNutrients": otherNutrients,
+        "DateOnly": dateOnly
+    }
+
+    # Remove keys with None values
+    data = {key: value for key, value in data.items() if value is not None}
+
+    response = requests.put(url, headers=headers, json=data)
+    return response.json() if response.status_code == 200 else response.status_code
+
+# (COULD NOT TEST)
+# PUT v3/tissue-sample-events/{eventId}.{ext}
+# Update tissue sample event.
+def put_tissue_sample_event(access_token, eventId, eventDate, locationId, locationDetails, cropStageId, notes, tissueSampleNutrients):
+    url = f"https://api.cropmanage.ucanr.edu/v3/tissue-sample-events/{eventId}." + "{ext}"
+
+    headers = {
+        "Authorization": f"Bearer {access_token}",
+    }
+
+    data = {
+        "EventDate": eventDate,
+        "LocationId": locationId,
+        "LocationDetails": locationDetails,
+        "CropStageId": cropStageId,
+        "Notes": notes,
+        "TissueSampleNutrients": tissueSampleNutrients
     }
 
     # Remove keys with None values
