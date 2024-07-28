@@ -167,6 +167,41 @@ def post_irrigation_recommendation(access_token, eventDate, cropTypeId, wetDate,
     response = requests.post(url, headers=headers, json=data)
     return response.json() if response.status_code == 200 else response.status_code
 
+# (COULD NOT TEST)
+# POST v2/irrigation-recommendations.{ext}
+# Single call Web API which returns multiple recommendations.
+def post_irrigation_recommendations(access_token, distributionUniformities, cropTypeId, wetDate, harvestDate, weatherStationId, irrigationEvents, soilProperties, latitude, longitude, leechingRequirement=0, ageOfCrop=None, cropSensitivity=1, cutEvents=None, macroTunnelStart=None, macroTunnelEnd=None, stress=None):
+    url = f"https://api.cropmanage.ucanr.edu/v2/irrigation-recommendations." + "{ext}"
+
+    headers = {
+        "Authorization": f"Bearer {access_token}",
+    }
+
+    data = {
+        "DistributionUniformities": distributionUniformities,
+        "CropTypeId": cropTypeId,
+        "WetDate": wetDate,
+        "HarvestDate": harvestDate,
+        "WeatherStationId": weatherStationId,
+        "IrrigationEvents": irrigationEvents,
+        "SoilProperties": soilProperties,
+        "CutEvents": cutEvents,
+        "LeechingRequirement": leechingRequirement,
+        "AgeOfCrop": ageOfCrop,
+        "CropSensitivity": cropSensitivity,
+        "MacroTunnelStart": macroTunnelStart,
+        "MacroTunnelEnd": macroTunnelEnd,
+        "Stress": stress,
+        "Latitude": latitude,
+        "Longitude": longitude
+    }
+
+    # Remove keys with None values
+    data = {key: value for key, value in data.items() if value is not None}
+
+    response = requests.post(url, headers=headers, json=data)
+    return response.json() if response.status_code == 200 else response.status_code
+
 # POST v2/season-et.{ext}
 # Endpoint for the public ET calculator.
 def post_season_et(access_token, eventDate, cropTypeId, wetDate, harvestDate, weatherStationId, irrigationEvents, soilProperties, latitude, longitude, distributionUniformity=85, leechingRequirement=0, ageOfCrop=None, cropSensitivity=1, cutEvents=None, macroTunnelStart=None, macroTunnelEnd=None, stress=None):
@@ -199,6 +234,9 @@ def post_season_et(access_token, eventDate, cropTypeId, wetDate, harvestDate, we
     # Remove keys with None values
     data = {key: value for key, value in data.items() if value is not None}
 
+    response = requests.post(url, headers=headers, json=data)
+    return response.json() if response.status_code == 200 else response.status_code
+
 # (COULD NOT TEST)
 # POST v3/plantings/{plantingId}/irrigation-events.{ext}
 # Creates an irrigation event.
@@ -216,14 +254,14 @@ def post_irrigation_event(access_token, plantingId, eventDate, irrigationMethodI
         raise ValueError("Error: waterApplied and waterAppliedHours not properly defined.")
 
     data = {
-        "EventDate": None,
-        "IrrigationMethodId": None,
-        "ManagerAmountRecommendation": None,
-        "ManagerAmountRecommendationHours": None,
-        "WaterApplied": None,
-        "WaterAppliedHours": None,
-        "CustomDeficit": None,
-        "IsCustomDeficitEnabled": None
+        "EventDate": eventDate,
+        "IrrigationMethodId": irrigationMethodId,
+        "ManagerAmountRecommendation": managerAmountRecommendation,
+        "ManagerAmountRecommendationHours": managerAmountRecommendationHours,
+        "WaterApplied": waterApplied,
+        "WaterAppliedHours": waterAppliedHours,
+        "CustomDeficit": customDeficit,
+        "IsCustomDeficitEnabled": isCustomDeficitEnabled
     }
 
     # Remove keys with None values
@@ -235,7 +273,7 @@ def post_irrigation_event(access_token, plantingId, eventDate, irrigationMethodI
 # (COULD NOT TEST)
 # POST v3/ranches/{ranchGuid}/plantings.json
 # Creates a new planting.
-def post_planting(access_token, ranchGuid, defaultCropTypeId, name, wetdate, harvestDate, lotId, coordinates, acres, irrigationSettings, advancedSettings=None, macroTunnelSettings=None, stressSettings=None, perennialCropSettings=None):
+def post_create_planting(access_token, ranchGuid, defaultCropTypeId, name, wetDate, harvestDate, lotId, coordinates, acres, irrigationSettings, advancedSettings=None, macroTunnelSettings=None, stressSettings=None, perennialCropSettings=None):
     url = f"https://api.cropmanage.ucanr.edu/v3/ranches/{ranchGuid}/plantings.json"
 
     headers = {
@@ -243,18 +281,39 @@ def post_planting(access_token, ranchGuid, defaultCropTypeId, name, wetdate, har
     }
 
     data = {
-        "DefaultCropTypeId": None,
-        "Name": None,
-        "WetDate": None,
-        "HarvestDate": None,
-        "LotId": None,
-        "Coordinates": None,
-        "Acres": None,
-        "IrrigationSettings": None,
-        "AdvancedSettings": None,
-        "MacroTunnelSettings": None,
-        "StressSettings": None,
-        "PerennialCropSettings": None
+        "DefaultCropTypeId": defaultCropTypeId,
+        "Name": name,
+        "WetDate": wetDate,
+        "HarvestDate": harvestDate,
+        "LotId": lotId,
+        "Coordinates": coordinates,
+        "Acres": acres,
+        "IrrigationSettings": irrigationSettings,
+        "AdvancedSettings": advancedSettings,
+        "MacroTunnelSettings": macroTunnelSettings,
+        "StressSettings": stressSettings,
+        "PerennialCropSettings": perennialCropSettings
+    }
+
+    # Remove keys with None values
+    data = {key: value for key, value in data.items() if value is not None}
+
+    response = requests.post(url, headers=headers, json=data)
+    return response.json() if response.status_code == 200 else response.status_code
+
+# POST v3/ranches.{ext}
+# Creates a new ranch.
+def post_ranch(access_token, name, coordinates, acres):
+    url = f"https://api.cropmanage.ucanr.edu/v3/ranches." + "{ext}"
+
+    headers = {
+        "Authorization": f"Bearer {access_token}",
+    }
+
+    data = {
+        "Name": name,
+        "Coordinates": coordinates,
+        "Acres": acres
     }   
 
     # Remove keys with None values
@@ -263,8 +322,136 @@ def post_planting(access_token, ranchGuid, defaultCropTypeId, name, wetdate, har
     response = requests.post(url, headers=headers, json=data)
     return response.json() if response.status_code == 200 else response.status_code
 
+# (COULD NOT TEST)
+# POST v3/ranches/{ranchGuid}/lots.json
+# Creates a new planting area.
+def post_ranch(access_token, ranchGuid, name, acres, coordinates, obstructionDepth=None):
+    url = f"https://api.cropmanage.ucanr.edu/v3/ranches/{ranchGuid}/lots.json"
 
+    headers = {
+        "Authorization": f"Bearer {access_token}",
+    }
 
+    data = {
+        "Name": name,
+        "Acres": acres,
+        "Coordinates": coordinates,
+        "Obstruction Depth": obstructionDepth
+    }   
+
+    # Remove keys with None values
+    data = {key: value for key, value in data.items() if value is not None}
+
+    response = requests.post(url, headers=headers, json=data)
+    return response.json() if response.status_code == 200 else response.status_code
+
+# (COULD NOT TEST)
+# POST v2/ranches/{ranchGuid}/wells.json
+# Adds a well to a ranch.
+def post_add_well(access_token, ranchGuid, id, name, electricalConductivity, nitrogenPPM):
+    url = f"https://api.cropmanage.ucanr.edu/v2/ranches/{ranchGuid}/wells.json"
+
+    headers = {
+        "Authorization": f"Bearer {access_token}",
+    }
+
+    data = {
+        "Id": id,
+        "Name": name,
+        "ElectricalConductivity": electricalConductivity,
+        "NitrogenPPM": nitrogenPPM
+    }   
+
+    # Remove keys with None values
+    data = {key: value for key, value in data.items() if value is not None}
+
+    response = requests.post(url, headers=headers, json=data)
+    return response.json() if response.status_code == 200 else response.status_code
+
+# (COULD NOT TEST)
+# POST v2/plantings/{plantingId}/soil-sample-events.{ext}
+# Creates a new soil sample event.
+def post_create_soil_sample_event(access_token, plantingId, eventDate, sampleTypeId, sampleDepth, cropStageId, soilMoistureId, nutrients):
+    url = f"https://api.cropmanage.ucanr.edu/v2/plantings/{plantingId}/soil-sample-events." + "{ext}"
+
+    headers = {
+        "Authorization": f"Bearer {access_token}",
+    }
+
+    data = {
+        "EventDate": eventDate,
+        "SampleTypeId": sampleTypeId,
+        "SampleDepth": sampleDepth,
+        "CropStageId": cropStageId,
+        "SoilMoistureId": soilMoistureId,
+        "Nutrients": nutrients
+    }
+
+    # Remove keys with None values
+    data = {key: value for key, value in data.items() if value is not None}
+
+    response = requests.post(url, headers=headers, json=data)
+    return response.json() if response.status_code == 200 else response.status_code
+
+# (COULD NOT TEST)
+# POST v3/plantings/{plantingId}/tissue-sample-events.{ext}
+# Create tissue sample event.
+def post_create_tissue_sample_event(access_token, plantingId, eventDate, locationId, locationDetails, cropStageId, notes, tissueSampleNutrients):
+    url = f"https://api.cropmanage.ucanr.edu/v3/plantings/{plantingId}/tissue-sample-events." + "{ext}"
+
+    headers = {
+        "Authorization": f"Bearer {access_token}",
+    }
+
+    data = {
+        "EventDate": eventDate,
+        "LocationId": locationId,
+        "LocationDetails": locationDetails,
+        "CropStageId": cropStageId,
+        "Notes": notes,
+        "TissueSampleNutrients": tissueSampleNutrients
+    }
+
+    # Remove keys with None values
+    data = {key: value for key, value in data.items() if value is not None}
+
+    response = requests.post(url, headers=headers, json=data)
+    return response.json() if response.status_code == 200 else response.status_code
+
+# (COULD NOT TEST)
+# POST v2/ranches/{ranchGuid}/users/{userId}.json
+# Add a user to a ranch.
+def post_add_user(access_token, ranchGuid, userId):
+    url = f"https://api.cropmanage.ucanr.edu/v2/ranches/{ranchGuid}/users/{userId}.json"
+
+    headers = {
+        "Authorization": f"Bearer {access_token}",
+    }
+
+    response = requests.post(url, headers=headers)
+    return response.json() if response.status_code == 200 else response.status_code
+
+# (COULD NOT TEST)
+# POST v2/ranches/{ranchGuid}/weather-stations.{ext}
+# Add weather stations to a ranch.
+def post_create_tissue_sample_event(access_token, ranchGuid, ids):
+    url = f"https://api.cropmanage.ucanr.edu/v2/ranches/{ranchGuid}/weather-stations." + "{ext}"
+
+    headers = {
+        "Authorization": f"Bearer {access_token}",
+    }
+
+    data = {
+        "Ids": ids
+    }
+
+    # Remove keys with None values
+    data = {key: value for key, value in data.items() if value is not None}
+
+    response = requests.post(url, headers=headers, json=data)
+    return response.json() if response.status_code == 200 else response.status_code
+
+# (TESTING PURPOSES)
 # Function to get the user's access token
 def get_access_token():
     url = "https://api.cropmanage.ucanr.edu/Token"
@@ -289,10 +476,3 @@ def get_access_token():
     else:
         print("\nFailed to get access token. Reason:", response.json()["error_description"])
         exit()
-
-def main():
-    at = get_access_token()
-    print(post_save_commodity_ranch_association(at, "dac8275a-edc6-4d82-adc3-f0e398537308", 1, [23, 3716]))
-
-if __name__ == "__main__":
-    main()
