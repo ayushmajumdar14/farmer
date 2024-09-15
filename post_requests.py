@@ -1,9 +1,14 @@
 import requests
+import os
+
+access_token = os.getenv("ACCESS_TOKEN")
+base_url_v2 = os.getenv("BASE_CROP_MANAGE_URL_V2")
+base_url_v3 = os.getenv("BASE_CROP_MANAGE_URL_V3")
 
 # POST v2/ranches/{ranchGuid}/commodity-types.{ext}
 # Saves a commodity type ranch association. This association determines what commodity types are available for a ranch.
 def post_save_commodity_ranch_association(access_token, ranchGuid, commodityTypeId, cropTypeIds):
-    url = f"https://api.cropmanage.ucanr.edu/v2/ranches/{ranchGuid}/commodity-types." + "{ext}"
+    url = f"{base_url_v2}ranches/{ranchGuid}/commodity-types." + "{ext}"
 
     headers = {
         "Authorization": f"Bearer {access_token}",
@@ -24,7 +29,7 @@ def post_save_commodity_ranch_association(access_token, ranchGuid, commodityType
 # POST v2/cut-events.{ext}
 # Creates or updates a cut event.
 def post_cut_event(access_token, plantingId, eventDate, maturityId, yieldId, isBookmark, id, dateOnly):
-    url = f"https://api.cropmanage.ucanr.edu/v2/cut-events." + "{ext}"
+    url = f"{base_url_v2}cut-events." + "{ext}"
 
     headers = {
         "Authorization": f"Bearer {access_token}",
@@ -50,7 +55,7 @@ def post_cut_event(access_token, plantingId, eventDate, maturityId, yieldId, isB
 # POST v2/et-weather-events.{ext}
 # Saves an ET weather event.
 def post_et_event(access_token, id, et):
-    url = f"https://api.cropmanage.ucanr.edu/v2/et-weather-events." + "{ext}"
+    url = f"{base_url_v2}et-weather-events." + "{ext}"
 
     headers = {
         "Authorization": f"Bearer {access_token}",
@@ -70,7 +75,7 @@ def post_et_event(access_token, id, et):
 # POST v2/fertilization-recommendation.{ext}
 # Single call API endpoint for fertilization recommendation.
 def post_fertilization_recommendation(access_token, cropTypeId, wetDate, harvestDate, obstructionDepth, eventDate, daysToNextFertilization, fertilizationsPerMonth, ageOfCrop, soilLayers, soilSampleEvents):
-    url = f"https://api.cropmanage.ucanr.edu/v2/fertilization-recommendation." + "{ext}"
+    url = f"{base_url_v2}fertilization-recommendation." + "{ext}"
 
     headers = {
         "Authorization": f"Bearer {access_token}",
@@ -99,7 +104,7 @@ def post_fertilization_recommendation(access_token, cropTypeId, wetDate, harvest
 # POST v2/plantings/{plantingId}/fertilization-events.{ext}
 # Creates a new fertilization event.
 def post_fertilization_event(access_token, plantingId, daysToNextFertilization, fertilizationsPerMonth, eventDate, cropStageId, soilSampleEventDate, fertilizerId):
-    url = f"https://api.cropmanage.ucanr.edu/v2/plantings/{plantingId}/fertilization-events." + "{ext}"
+    url = f"{base_url_v2}plantings/{plantingId}/fertilization-events." + "{ext}"
 
     headers = {
         "Authorization": f"Bearer {access_token}",
@@ -123,7 +128,7 @@ def post_fertilization_event(access_token, plantingId, daysToNextFertilization, 
 # POST v2/ranches/{ranchGuid}/fertilizers/{fertilizerId}.{ext}
 # Add a fertilizer to a ranch.
 def post_cut_event(access_token, ranchGuid, fertilizerId):
-    url = f"https://api.cropmanage.ucanr.edu/v2/ranches/{ranchGuid}/fertilizers/{fertilizerId}." + "{ext}"
+    url = f"{base_url_v2}ranches/{ranchGuid}/fertilizers/{fertilizerId}." + "{ext}"
 
     headers = {
         "Authorization": f"Bearer {access_token}",
@@ -135,7 +140,7 @@ def post_cut_event(access_token, ranchGuid, fertilizerId):
 # POST v2/irrigation-recommendation.{ext}
 # Single call Web API endpoint for irrigation recommendations. This Web API call can be used to request irrigation recommendations from CropManage, without having to first set up ranches or plantings.
 def post_irrigation_recommendation(access_token, eventDate, cropTypeId, wetDate, harvestDate, weatherStationId, irrigationEvents, soilProperties, latitude, longitude, distributionUniformity=85, leechingRequirement=0, ageOfCrop=None, cropSensitivity=1, cutEvents=None, macroTunnelStart=None, macroTunnelEnd=None, stress=None):
-    url = f"https://api.cropmanage.ucanr.edu/v2/irrigation-recommendation." + "{ext}"
+    url = f"{base_url_v2}irrigation-recommendation." + "{ext}"
 
     headers = {
         "Authorization": f"Bearer {access_token}",
@@ -171,7 +176,7 @@ def post_irrigation_recommendation(access_token, eventDate, cropTypeId, wetDate,
 # POST v2/irrigation-recommendations.{ext}
 # Single call Web API which returns multiple recommendations.
 def post_irrigation_recommendations(access_token, distributionUniformities, cropTypeId, wetDate, harvestDate, weatherStationId, irrigationEvents, soilProperties, latitude, longitude, leechingRequirement=0, ageOfCrop=None, cropSensitivity=1, cutEvents=None, macroTunnelStart=None, macroTunnelEnd=None, stress=None):
-    url = f"https://api.cropmanage.ucanr.edu/v2/irrigation-recommendations." + "{ext}"
+    url = f"{base_url_v2}irrigation-recommendations." + "{ext}"
 
     headers = {
         "Authorization": f"Bearer {access_token}",
@@ -205,7 +210,7 @@ def post_irrigation_recommendations(access_token, distributionUniformities, crop
 # POST v2/season-et.{ext}
 # Endpoint for the public ET calculator.
 def post_season_et(access_token, eventDate, cropTypeId, wetDate, harvestDate, weatherStationId, irrigationEvents, soilProperties, latitude, longitude, distributionUniformity=85, leechingRequirement=0, ageOfCrop=None, cropSensitivity=1, cutEvents=None, macroTunnelStart=None, macroTunnelEnd=None, stress=None):
-    url = f"https://api.cropmanage.ucanr.edu/v2/season-et." + "{ext}"
+    url = f"{base_url_v2}season-et." + "{ext}"
 
     headers = {
         "Authorization": f"Bearer {access_token}",
@@ -241,7 +246,7 @@ def post_season_et(access_token, eventDate, cropTypeId, wetDate, harvestDate, we
 # POST v3/plantings/{plantingId}/irrigation-events.{ext}
 # Creates an irrigation event.
 def post_irrigation_event(access_token, plantingId, eventDate, irrigationMethodId, customDeficit, isCustomDeficitEnabled, managerAmountRecommendation=None, managerAmountRecommendationHours=None, waterApplied=None, waterAppliedHours=None):
-    url = f"https://api.cropmanage.ucanr.edu/v3/plantings/{plantingId}/irrigation-events." + "{ext}"
+    url = f"{base_url_v3}plantings/{plantingId}/irrigation-events." + "{ext}"
 
     headers = {
         "Authorization": f"Bearer {access_token}",
@@ -274,7 +279,7 @@ def post_irrigation_event(access_token, plantingId, eventDate, irrigationMethodI
 # POST v3/ranches/{ranchGuid}/plantings.json
 # Creates a new planting.
 def post_create_planting(access_token, ranchGuid, defaultCropTypeId, name, wetDate, harvestDate, lotId, coordinates, acres, irrigationSettings, advancedSettings=None, macroTunnelSettings=None, stressSettings=None, perennialCropSettings=None):
-    url = f"https://api.cropmanage.ucanr.edu/v3/ranches/{ranchGuid}/plantings.json"
+    url = f"{base_url_v3}ranches/{ranchGuid}/plantings.json"
 
     headers = {
         "Authorization": f"Bearer {access_token}",
@@ -304,7 +309,7 @@ def post_create_planting(access_token, ranchGuid, defaultCropTypeId, name, wetDa
 # POST v3/ranches.{ext}
 # Creates a new ranch.
 def post_ranch(access_token, name, coordinates, acres):
-    url = f"https://api.cropmanage.ucanr.edu/v3/ranches." + "{ext}"
+    url = f"{base_url_v3}ranches." + "{ext}"
 
     headers = {
         "Authorization": f"Bearer {access_token}",
@@ -326,7 +331,7 @@ def post_ranch(access_token, name, coordinates, acres):
 # POST v3/ranches/{ranchGuid}/lots.json
 # Creates a new planting area.
 def post_ranch(access_token, ranchGuid, name, acres, coordinates, obstructionDepth=None):
-    url = f"https://api.cropmanage.ucanr.edu/v3/ranches/{ranchGuid}/lots.json"
+    url = f"{base_url_v3}ranches/{ranchGuid}/lots.json"
 
     headers = {
         "Authorization": f"Bearer {access_token}",
@@ -349,7 +354,7 @@ def post_ranch(access_token, ranchGuid, name, acres, coordinates, obstructionDep
 # POST v2/ranches/{ranchGuid}/wells.json
 # Adds a well to a ranch.
 def post_add_well(access_token, ranchGuid, id, name, electricalConductivity, nitrogenPPM):
-    url = f"https://api.cropmanage.ucanr.edu/v2/ranches/{ranchGuid}/wells.json"
+    url = f"{base_url_v2}ranches/{ranchGuid}/wells.json"
 
     headers = {
         "Authorization": f"Bearer {access_token}",
@@ -372,7 +377,7 @@ def post_add_well(access_token, ranchGuid, id, name, electricalConductivity, nit
 # POST v2/plantings/{plantingId}/soil-sample-events.{ext}
 # Creates a new soil sample event.
 def post_create_soil_sample_event(access_token, plantingId, eventDate, sampleTypeId, sampleDepth, cropStageId, soilMoistureId, nutrients):
-    url = f"https://api.cropmanage.ucanr.edu/v2/plantings/{plantingId}/soil-sample-events." + "{ext}"
+    url = f"{base_url_v2}plantings/{plantingId}/soil-sample-events." + "{ext}"
 
     headers = {
         "Authorization": f"Bearer {access_token}",
@@ -397,7 +402,7 @@ def post_create_soil_sample_event(access_token, plantingId, eventDate, sampleTyp
 # POST v3/plantings/{plantingId}/tissue-sample-events.{ext}
 # Create tissue sample event.
 def post_create_tissue_sample_event(access_token, plantingId, eventDate, locationId, locationDetails, cropStageId, notes, tissueSampleNutrients):
-    url = f"https://api.cropmanage.ucanr.edu/v3/plantings/{plantingId}/tissue-sample-events." + "{ext}"
+    url = f"{base_url_v3}plantings/{plantingId}/tissue-sample-events." + "{ext}"
 
     headers = {
         "Authorization": f"Bearer {access_token}",
@@ -422,7 +427,7 @@ def post_create_tissue_sample_event(access_token, plantingId, eventDate, locatio
 # POST v2/ranches/{ranchGuid}/users/{userId}.json
 # Add a user to a ranch.
 def post_add_user(access_token, ranchGuid, userId):
-    url = f"https://api.cropmanage.ucanr.edu/v2/ranches/{ranchGuid}/users/{userId}.json"
+    url = f"{base_url_v2}ranches/{ranchGuid}/users/{userId}.json"
 
     headers = {
         "Authorization": f"Bearer {access_token}",
@@ -435,7 +440,7 @@ def post_add_user(access_token, ranchGuid, userId):
 # POST v2/ranches/{ranchGuid}/weather-stations.{ext}
 # Add weather stations to a ranch.
 def post_create_tissue_sample_event(access_token, ranchGuid, ids):
-    url = f"https://api.cropmanage.ucanr.edu/v2/ranches/{ranchGuid}/weather-stations." + "{ext}"
+    url = f"{base_url_v2}ranches/{ranchGuid}/weather-stations." + "{ext}"
 
     headers = {
         "Authorization": f"Bearer {access_token}",
@@ -450,29 +455,3 @@ def post_create_tissue_sample_event(access_token, ranchGuid, ids):
 
     response = requests.post(url, headers=headers, json=data)
     return response.json() if response.status_code == 200 else response.status_code
-
-# (TESTING PURPOSES)
-# Function to get the user's access token
-def get_access_token():
-    url = "https://api.cropmanage.ucanr.edu/Token"
-    username = "andyboy420019@gmail.com"
-    password = "jTiPc7X!hpC2BA" 
-
-    payload = {
-        'username': username,
-        'password': password,
-        'grant_type': 'password'
-    }
-
-    headers = {
-        'Content-Type': 'application/x-www-form-urlencoded'
-    }
-
-    response = requests.post(url, data=payload, headers=headers)
-
-    if response.status_code == 200:
-        access_token = response.json().get('access_token')
-        return access_token
-    else:
-        print("\nFailed to get access token. Reason:", response.json()["error_description"])
-        exit()

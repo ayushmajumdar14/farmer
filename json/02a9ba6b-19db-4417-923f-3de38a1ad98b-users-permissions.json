@@ -1,0 +1,25 @@
+[
+    {
+        "Site_0_FeatureId": 1,
+        "Site_0_FeatureName": "Ranch",
+        "Site_0_PermissionId": 2,
+        "Site_1_FeatureId": 2,
+        "Site_1_FeatureName": "Planting",
+        "Site_1_PermissionId": 3,
+        "Site_2_FeatureId": 3,
+        "Site_2_FeatureName": "Soil Sample",
+        "Site_2_PermissionId": 3,
+        "Site_3_FeatureId": 4,
+        "Site_3_FeatureName": "Fertilization",
+        "Site_3_PermissionId": 3,
+        "Site_4_FeatureId": 5,
+        "Site_4_FeatureName": "Irrigation",
+        "Site_4_PermissionId": 3,
+        "Site_5_FeatureId": 6,
+        "Site_5_FeatureName": "Data Export",
+        "Site_5_PermissionId": 3,
+        "WebAPIAccess": false,
+        "ranchGuid": "02a9ba6b-19db-4417-923f-3de38a1ad98b",
+        "userId": "a7005d6f-6268-4c07-88af-d3f97add3617"
+    }
+]

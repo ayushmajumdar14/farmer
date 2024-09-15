@@ -1,0 +1,2 @@
+Id,Name,ActiveEvents,CommodityTypeId,CommodityTypeName,HarvestDate,WetDate,HasSoilMoistureFileName,HasFlowMeterFileName,RanchLot_Id,RanchLot_Name,IsNDependent,Ranch_External_GUID
+15751,Corn,,21,Baby Salad Greens,2024-08-05T00:00:00,2024-08-03T00:00:00,False,False,9512,Corn Field,True,02a9ba6b-19db-4417-923f-3de38a1ad98b

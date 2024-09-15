@@ -1,0 +1,145 @@
+[
+    {
+        "Ranch_External_GUID": "6082899a-612c-4426-b5ce-31b55c740239",
+        "CommodityId": 17
+    },
+    {
+        "Ranch_External_GUID": "6082899a-612c-4426-b5ce-31b55c740239",
+        "CommodityId": 18
+    },
+    {
+        "Ranch_External_GUID": "6082899a-612c-4426-b5ce-31b55c740239",
+        "CommodityId": 36
+    },
+    {
+        "0_Id": 6358,
+        "0_Name": "Pak Choi (American Samoa) Untested",
+        "0_UptakeFactor": 0.0,
+        "0_UptakeConstant": 0.0,
+        "0_IsNDependent": true,
+        "0_IsSelected": true,
+        "0_PlantingsCount": 2,
+        "0_Ranch_External_GUID": "6082899a-612c-4426-b5ce-31b55c740239",
+        "0_CommodityId": 31
+    },
+    {
+        "Ranch_External_GUID": "6082899a-612c-4426-b5ce-31b55c740239",
+        "CommodityId": 21
+    },
+    {
+        "Ranch_External_GUID": "6082899a-612c-4426-b5ce-31b55c740239",
+        "CommodityId": 2
+    },
+    {
+        "Ranch_External_GUID": "6082899a-612c-4426-b5ce-31b55c740239",
+        "CommodityId": 19
+    },
+    {
+        "Ranch_External_GUID": "6082899a-612c-4426-b5ce-31b55c740239",
+        "CommodityId": 7
+    },
+    {
+        "Ranch_External_GUID": "6082899a-612c-4426-b5ce-31b55c740239",
+        "CommodityId": 12
+    },
+    {
+        "Ranch_External_GUID": "6082899a-612c-4426-b5ce-31b55c740239",
+        "CommodityId": 38
+    },
+    {
+        "Ranch_External_GUID": "6082899a-612c-4426-b5ce-31b55c740239",
+        "CommodityId": 5
+    },
+    {
+        "Ranch_External_GUID": "6082899a-612c-4426-b5ce-31b55c740239",
+        "CommodityId": 4
+    },
+    {
+        "Ranch_External_GUID": "6082899a-612c-4426-b5ce-31b55c740239",
+        "CommodityId": 37
+    },
+    {
+        "Ranch_External_GUID": "6082899a-612c-4426-b5ce-31b55c740239",
+        "CommodityId": 20
+    },
+    {
+        "Ranch_External_GUID": "6082899a-612c-4426-b5ce-31b55c740239",
+        "CommodityId": 8
+    },
+    {
+        "Ranch_External_GUID": "6082899a-612c-4426-b5ce-31b55c740239",
+        "CommodityId": 27
+    },
+    {
+        "Ranch_External_GUID": "6082899a-612c-4426-b5ce-31b55c740239",
+        "CommodityId": 28
+    },
+    {
+        "Ranch_External_GUID": "6082899a-612c-4426-b5ce-31b55c740239",
+        "CommodityId": 25
+    },
+    {
+        "Ranch_External_GUID": "6082899a-612c-4426-b5ce-31b55c740239",
+        "CommodityId": 40
+    },
+    {
+        "Ranch_External_GUID": "6082899a-612c-4426-b5ce-31b55c740239",
+        "CommodityId": 39
+    },
+    {
+        "Ranch_External_GUID": "6082899a-612c-4426-b5ce-31b55c740239",
+        "CommodityId": 1
+    },
+    {
+        "Ranch_External_GUID": "6082899a-612c-4426-b5ce-31b55c740239",
+        "CommodityId": 22
+    },
+    {
+        "Ranch_External_GUID": "6082899a-612c-4426-b5ce-31b55c740239",
+        "CommodityId": 9
+    },
+    {
+        "Ranch_External_GUID": "6082899a-612c-4426-b5ce-31b55c740239",
+        "CommodityId": 24
+    },
+    {
+        "Ranch_External_GUID": "6082899a-612c-4426-b5ce-31b55c740239",
+        "CommodityId": 35
+    },
+    {
+        "Ranch_External_GUID": "6082899a-612c-4426-b5ce-31b55c740239",
+        "CommodityId": 10
+    },
+    {
+        "Ranch_External_GUID": "6082899a-612c-4426-b5ce-31b55c740239",
+        "CommodityId": 32
+    },
+    {
+        "Ranch_External_GUID": "6082899a-612c-4426-b5ce-31b55c740239",
+        "CommodityId": 34
+    },
+    {
+        "Ranch_External_GUID": "6082899a-612c-4426-b5ce-31b55c740239",
+        "CommodityId": 3
+    },
+    {
+        "Ranch_External_GUID": "6082899a-612c-4426-b5ce-31b55c740239",
+        "CommodityId": 23
+    },
+    {
+        "Ranch_External_GUID": "6082899a-612c-4426-b5ce-31b55c740239",
+        "CommodityId": 6
+    },
+    {
+        "Ranch_External_GUID": "6082899a-612c-4426-b5ce-31b55c740239",
+        "CommodityId": 11
+    },
+    {
+        "Ranch_External_GUID": "6082899a-612c-4426-b5ce-31b55c740239",
+        "CommodityId": 33
+    },
+    {
+        "Ranch_External_GUID": "6082899a-612c-4426-b5ce-31b55c740239",
+        "CommodityId": 26
+    }
+]

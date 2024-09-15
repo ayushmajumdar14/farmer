@@ -1,0 +1,28 @@
+[
+    {
+        "RecommendedIrrigationAmount": 0.0,
+        "RecommendedIrrigationTime": 0.0,
+        "RecommendedIrrigationInterval": 1.0851947861069184,
+        "AvailableWater": 0.27455428088505035,
+        "AverageCropET": 0.253,
+        "AverageRainfall": -1.0,
+        "SumET": 0.0,
+        "ETEvents": null,
+        "ValidRainEventsCount": null,
+        "CropCoefficientSum": 0.0,
+        "LeechingFactor": null,
+        "Distribution": 0.0,
+        "TotalPrecipitation": 0.0,
+        "CIMISRainfall": null,
+        "DaysSinceLastIrrigation": 0.0,
+        "applicationRate": 0.0,
+        "BaseIrrigationAmount": 0.0,
+        "AverageCropCoefficient": 0.0,
+        "LastIrrigationEventDate": "0001-01-01T00:00:00",
+        "WetArea": 1.0,
+        "HasRecentCutEvents": null,
+        "HasRecentIrrigationEvent": null,
+        "CropSensitivity": null,
+        "IsImpactedByMacroTunnel": null
+    }
+]

@@ -1,0 +1,274 @@
+[
+    {
+        "Id": 17,
+        "Name": "Alfalfa",
+        "IconPath": "alfalfa-200x200.jpg",
+        "HarvestOnce": true,
+        "IsActive": false,
+        "CommodityTypeCalculator": "CropManage.Calculations.Calculators.Alfalfa"
+    },
+    {
+        "Id": 18,
+        "Name": "Almond",
+        "IconPath": "almond-tree-200x200.jpg",
+        "HarvestOnce": false,
+        "IsActive": false,
+        "CommodityTypeCalculator": "CropManage.Calculations.Calculators.Almond"
+    },
+    {
+        "Id": 36,
+        "Name": "Artichoke",
+        "IconPath": "thumbnail-commodity-lettuce.jpg",
+        "HarvestOnce": true,
+        "IsActive": false,
+        "CommodityTypeCalculator": "CropManage.Calculations.Calculators.Broccoli"
+    },
+    {
+        "Id": 31,
+        "Name": "Asian Greens",
+        "IconPath": "chinese-cabbage-200x200.jpg",
+        "HarvestOnce": true,
+        "IsActive": false,
+        "CommodityTypeCalculator": "CropManage.Calculations.Calculators.Lettuce"
+    },
+    {
+        "Id": 21,
+        "Name": "Baby Salad Greens",
+        "IconPath": "baby-salad-greens-200x200.jpg",
+        "HarvestOnce": true,
+        "IsActive": false,
+        "CommodityTypeCalculator": "CropManage.Calculations.Calculators.Lettuce"
+    },
+    {
+        "Id": 2,
+        "Name": "Broccoli",
+        "IconPath": "thumbnail-commodity-broccoli.jpg",
+        "HarvestOnce": false,
+        "IsActive": false,
+        "CommodityTypeCalculator": "CropManage.Calculations.Calculators.Broccoli"
+    },
+    {
+        "Id": 19,
+        "Name": "Brussels Sprouts",
+        "IconPath": "brussels-sprout-200x200.jpg",
+        "HarvestOnce": true,
+        "IsActive": false,
+        "CommodityTypeCalculator": "CropManage.Calculations.Calculators.BrusselSprouts"
+    },
+    {
+        "Id": 7,
+        "Name": "Cabbage",
+        "IconPath": "thumbnail-commodity-cabbage.jpg",
+        "HarvestOnce": false,
+        "IsActive": false,
+        "CommodityTypeCalculator": "CropManage.Calculations.Calculators.Cabbage"
+    },
+    {
+        "Id": 12,
+        "Name": "Caneberry",
+        "IconPath": "thumbnail-commodity-caneberry.jpg",
+        "HarvestOnce": false,
+        "IsActive": false,
+        "CommodityTypeCalculator": "CropManage.Calculations.Calculators.Caneberry"
+    },
+    {
+        "Id": 38,
+        "Name": "Carrot",
+        "IconPath": "thumbnail-commodity-lettuce.jpg",
+        "HarvestOnce": true,
+        "IsActive": false,
+        "CommodityTypeCalculator": "CropManage.Calculations.Calculators.Lettuce"
+    },
+    {
+        "Id": 5,
+        "Name": "Cauliflower",
+        "IconPath": "thumbnail-commodity-cauliflower.jpg",
+        "HarvestOnce": false,
+        "IsActive": false,
+        "CommodityTypeCalculator": "CropManage.Calculations.Calculators.Cauliflower"
+    },
+    {
+        "Id": 4,
+        "Name": "Celery",
+        "IconPath": "celery-200x200.jpg",
+        "HarvestOnce": true,
+        "IsActive": false,
+        "CommodityTypeCalculator": "CropManage.Calculations.Calculators.Celery"
+    },
+    {
+        "Id": 37,
+        "Name": "Chicory",
+        "IconPath": "thumbnail-commodity-lettuce.jpg",
+        "HarvestOnce": true,
+        "IsActive": false,
+        "CommodityTypeCalculator": "CropManage.Calculations.Calculators.Lettuce"
+    },
+    {
+        "Id": 20,
+        "Name": "Chinese Cabbage",
+        "IconPath": "chinese-cabbage-200x200.jpg",
+        "HarvestOnce": true,
+        "IsActive": false,
+        "CommodityTypeCalculator": "CropManage.Calculations.Calculators.Lettuce"
+    },
+    {
+        "Id": 8,
+        "Name": "Cilantro",
+        "IconPath": "thumbnail-commodity-cilantro.jpg",
+        "HarvestOnce": true,
+        "IsActive": false,
+        "CommodityTypeCalculator": "CropManage.Calculations.Calculators.Cilantro"
+    },
+    {
+        "Id": 27,
+        "Name": "Cucumber",
+        "IconPath": "cucumber-200x200.jpg",
+        "HarvestOnce": true,
+        "IsActive": false,
+        "CommodityTypeCalculator": "CropManage.Calculations.Calculators.ProcessingTomato"
+    },
+    {
+        "Id": 28,
+        "Name": "Edible Hibiscus",
+        "IconPath": "edible-hibiscus-200x200.jpg",
+        "HarvestOnce": true,
+        "IsActive": false,
+        "CommodityTypeCalculator": "CropManage.Calculations.Calculators.Caneberry"
+    },
+    {
+        "Id": 25,
+        "Name": "Eggplant",
+        "IconPath": "eggplant-200x200.jpg",
+        "HarvestOnce": true,
+        "IsActive": false,
+        "CommodityTypeCalculator": "CropManage.Calculations.Calculators.ProcessingTomato"
+    },
+    {
+        "Id": 40,
+        "Name": "Fennel",
+        "IconPath": "thumbnail-commodity-lettuce.jpg",
+        "HarvestOnce": true,
+        "IsActive": false,
+        "CommodityTypeCalculator": "CropManage.Calculations.Calculators.Lettuce"
+    },
+    {
+        "Id": 39,
+        "Name": "Grape",
+        "IconPath": "table-grape-80x80.jpg",
+        "HarvestOnce": false,
+        "IsActive": false,
+        "CommodityTypeCalculator": "CropManage.Calculations.Calculators.Pistachio"
+    },
+    {
+        "Id": 1,
+        "Name": "Lettuce",
+        "IconPath": "thumbnail-commodity-lettuce.jpg",
+        "HarvestOnce": true,
+        "IsActive": false,
+        "CommodityTypeCalculator": "CropManage.Calculations.Calculators.Lettuce"
+    },
+    {
+        "Id": 22,
+        "Name": "Maize",
+        "IconPath": "maize-200x200.jpg",
+        "HarvestOnce": true,
+        "IsActive": false,
+        "CommodityTypeCalculator": "CropManage.Calculations.Calculators.ProcessingTomato"
+    },
+    {
+        "Id": 9,
+        "Name": "Mizuna",
+        "IconPath": "thumbnail-commodity-mizuna.jpg",
+        "HarvestOnce": true,
+        "IsActive": false,
+        "CommodityTypeCalculator": "CropManage.Calculations.Calculators.Mizuna"
+    },
+    {
+        "Id": 24,
+        "Name": "Onion",
+        "IconPath": "onion-200x200.jpg",
+        "HarvestOnce": true,
+        "IsActive": false,
+        "CommodityTypeCalculator": "CropManage.Calculations.Calculators.ProcessingTomato"
+    },
+    {
+        "Id": 35,
+        "Name": "Pear",
+        "IconPath": "pear-tree-200x200.jpg",
+        "HarvestOnce": false,
+        "IsActive": false,
+        "CommodityTypeCalculator": "CropManage.Calculations.Calculators.Walnut"
+    },
+    {
+        "Id": 10,
+        "Name": "Peppers",
+        "IconPath": "thumbnail-commodity-pepper.jpg",
+        "HarvestOnce": false,
+        "IsActive": false,
+        "CommodityTypeCalculator": "CropManage.Calculations.Calculators.Peppers"
+    },
+    {
+        "Id": 32,
+        "Name": "Pistachio",
+        "IconPath": "pistachio-tree-200x200.jpg",
+        "HarvestOnce": false,
+        "IsActive": false,
+        "CommodityTypeCalculator": "CropManage.Calculations.Calculators.Pistachio"
+    },
+    {
+        "Id": 34,
+        "Name": "Prune",
+        "IconPath": "prune-tree-200x200.jpg",
+        "HarvestOnce": false,
+        "IsActive": false,
+        "CommodityTypeCalculator": "CropManage.Calculations.Calculators.Walnut"
+    },
+    {
+        "Id": 3,
+        "Name": "Spinach",
+        "IconPath": "thumbnail-commodity-spinach.jpg",
+        "HarvestOnce": true,
+        "IsActive": false,
+        "CommodityTypeCalculator": "CropManage.Calculations.Calculators.Spinach"
+    },
+    {
+        "Id": 23,
+        "Name": "Squash",
+        "IconPath": "squash-200x200.jpg",
+        "HarvestOnce": true,
+        "IsActive": false,
+        "CommodityTypeCalculator": "CropManage.Calculations.Calculators.ProcessingTomato"
+    },
+    {
+        "Id": 6,
+        "Name": "Strawberry",
+        "IconPath": "thumbnail-commodity-strawberry.jpg",
+        "HarvestOnce": false,
+        "IsActive": false,
+        "CommodityTypeCalculator": "CropManage.Calculations.Calculators.Strawberry"
+    },
+    {
+        "Id": 11,
+        "Name": "Tomato",
+        "IconPath": "thumbnail-commodity-processing_tomato.jpg",
+        "HarvestOnce": true,
+        "IsActive": false,
+        "CommodityTypeCalculator": "CropManage.Calculations.Calculators.ProcessingTomato"
+    },
+    {
+        "Id": 33,
+        "Name": "Walnut",
+        "IconPath": "walnut-tree-200x200.jpg",
+        "HarvestOnce": false,
+        "IsActive": false,
+        "CommodityTypeCalculator": "CropManage.Calculations.Calculators.Walnut"
+    },
+    {
+        "Id": 26,
+        "Name": "Watermelon",
+        "IconPath": "watermelon-200x200.jpg",
+        "HarvestOnce": true,
+        "IsActive": false,
+        "CommodityTypeCalculator": "CropManage.Calculations.Calculators.ProcessingTomato"
+    }
+]

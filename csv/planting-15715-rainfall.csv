@@ -1,0 +1,2 @@
+StartDate,EndDate,WeatherStations_0,WeatherStations_1,WeatherStations_2,WeatherStations_3,RainfallModel_0_EventDate,RainfallModel_0_RainfallAmount,RainfallModel_0_ET,RainfallModel_0_Source,AveragedDataMode,PlantingId
+2024-07-17T00:00:00,2024-07-20T00:00:00,Salinas North,San Juan Valley,Salinas South II,Laguna Seca,2024-08-11T00:00:00-07:00,0.1,0.0,,False,15715

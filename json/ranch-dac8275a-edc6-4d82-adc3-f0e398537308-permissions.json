@@ -1,0 +1,14 @@
+[
+    {
+        "RanchName": "Test Ranch",
+        "RanchExternalGuid": "dac8275a-edc6-4d82-adc3-f0e398537308",
+        "UserIsRanchOwner": false,
+        "UserCanEditPlanting": true,
+        "UserCanEditFertilizationEvent": true,
+        "UserCanEditIrrigationEvent": true,
+        "UserCanEditSoilSampleEvent": true,
+        "UserCanEditRanch": true,
+        "UserCanDataExport": true,
+        "HasActivePlantings": false
+    }
+]

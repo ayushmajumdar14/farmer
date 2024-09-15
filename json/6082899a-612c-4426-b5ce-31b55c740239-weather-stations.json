@@ -1,0 +1,13 @@
+[
+    {
+        "Id": 101,
+        "External_Id": "171",
+        "Name": "Union City",
+        "Distance": 11,
+        "NearestCity": "Union City",
+        "County": "Alameda",
+        "Priority": 1,
+        "ActiveStation_Id": 101,
+        "ActiveStation_Active": true
+    }
+]

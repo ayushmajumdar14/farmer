@@ -1,0 +1,154 @@
+[
+    {
+        "Ranch_External_GUID": "02a9ba6b-19db-4417-923f-3de38a1ad98b",
+        "CommodityId": 17
+    },
+    {
+        "Ranch_External_GUID": "02a9ba6b-19db-4417-923f-3de38a1ad98b",
+        "CommodityId": 18
+    },
+    {
+        "Ranch_External_GUID": "02a9ba6b-19db-4417-923f-3de38a1ad98b",
+        "CommodityId": 36
+    },
+    {
+        "Ranch_External_GUID": "02a9ba6b-19db-4417-923f-3de38a1ad98b",
+        "CommodityId": 31
+    },
+    {
+        "0_Id": 6361,
+        "0_Name": "Arugula baby green (Hawaii/Untested)",
+        "0_UptakeFactor": 0.0,
+        "0_UptakeConstant": 0.0,
+        "0_IsNDependent": true,
+        "0_IsSelected": true,
+        "0_PlantingsCount": 1,
+        "0_Ranch_External_GUID": "02a9ba6b-19db-4417-923f-3de38a1ad98b",
+        "0_CommodityId": 21,
+        "1_Id": 6346,
+        "1_Name": "Red Russian Kale baby green (Hawaii/Untested)",
+        "1_UptakeFactor": 0.0,
+        "1_UptakeConstant": 0.0,
+        "1_IsNDependent": true,
+        "1_IsSelected": true,
+        "1_PlantingsCount": 0,
+        "1_Ranch_External_GUID": "02a9ba6b-19db-4417-923f-3de38a1ad98b",
+        "1_CommodityId": 21
+    },
+    {
+        "Ranch_External_GUID": "02a9ba6b-19db-4417-923f-3de38a1ad98b",
+        "CommodityId": 2
+    },
+    {
+        "Ranch_External_GUID": "02a9ba6b-19db-4417-923f-3de38a1ad98b",
+        "CommodityId": 19
+    },
+    {
+        "Ranch_External_GUID": "02a9ba6b-19db-4417-923f-3de38a1ad98b",
+        "CommodityId": 7
+    },
+    {
+        "Ranch_External_GUID": "02a9ba6b-19db-4417-923f-3de38a1ad98b",
+        "CommodityId": 12
+    },
+    {
+        "Ranch_External_GUID": "02a9ba6b-19db-4417-923f-3de38a1ad98b",
+        "CommodityId": 38
+    },
+    {
+        "Ranch_External_GUID": "02a9ba6b-19db-4417-923f-3de38a1ad98b",
+        "CommodityId": 5
+    },
+    {
+        "Ranch_External_GUID": "02a9ba6b-19db-4417-923f-3de38a1ad98b",
+        "CommodityId": 4
+    },
+    {
+        "Ranch_External_GUID": "02a9ba6b-19db-4417-923f-3de38a1ad98b",
+        "CommodityId": 37
+    },
+    {
+        "Ranch_External_GUID": "02a9ba6b-19db-4417-923f-3de38a1ad98b",
+        "CommodityId": 20
+    },
+    {
+        "Ranch_External_GUID": "02a9ba6b-19db-4417-923f-3de38a1ad98b",
+        "CommodityId": 8
+    },
+    {
+        "Ranch_External_GUID": "02a9ba6b-19db-4417-923f-3de38a1ad98b",
+        "CommodityId": 27
+    },
+    {
+        "Ranch_External_GUID": "02a9ba6b-19db-4417-923f-3de38a1ad98b",
+        "CommodityId": 28
+    },
+    {
+        "Ranch_External_GUID": "02a9ba6b-19db-4417-923f-3de38a1ad98b",
+        "CommodityId": 25
+    },
+    {
+        "Ranch_External_GUID": "02a9ba6b-19db-4417-923f-3de38a1ad98b",
+        "CommodityId": 40
+    },
+    {
+        "Ranch_External_GUID": "02a9ba6b-19db-4417-923f-3de38a1ad98b",
+        "CommodityId": 39
+    },
+    {
+        "Ranch_External_GUID": "02a9ba6b-19db-4417-923f-3de38a1ad98b",
+        "CommodityId": 1
+    },
+    {
+        "Ranch_External_GUID": "02a9ba6b-19db-4417-923f-3de38a1ad98b",
+        "CommodityId": 22
+    },
+    {
+        "Ranch_External_GUID": "02a9ba6b-19db-4417-923f-3de38a1ad98b",
+        "CommodityId": 9
+    },
+    {
+        "Ranch_External_GUID": "02a9ba6b-19db-4417-923f-3de38a1ad98b",
+        "CommodityId": 24
+    },
+    {
+        "Ranch_External_GUID": "02a9ba6b-19db-4417-923f-3de38a1ad98b",
+        "CommodityId": 35
+    },
+    {
+        "Ranch_External_GUID": "02a9ba6b-19db-4417-923f-3de38a1ad98b",
+        "CommodityId": 10
+    },
+    {
+        "Ranch_External_GUID": "02a9ba6b-19db-4417-923f-3de38a1ad98b",
+        "CommodityId": 32
+    },
+    {
+        "Ranch_External_GUID": "02a9ba6b-19db-4417-923f-3de38a1ad98b",
+        "CommodityId": 34
+    },
+    {
+        "Ranch_External_GUID": "02a9ba6b-19db-4417-923f-3de38a1ad98b",
+        "CommodityId": 3
+    },
+    {
+        "Ranch_External_GUID": "02a9ba6b-19db-4417-923f-3de38a1ad98b",
+        "CommodityId": 23
+    },
+    {
+        "Ranch_External_GUID": "02a9ba6b-19db-4417-923f-3de38a1ad98b",
+        "CommodityId": 6
+    },
+    {
+        "Ranch_External_GUID": "02a9ba6b-19db-4417-923f-3de38a1ad98b",
+        "CommodityId": 11
+    },
+    {
+        "Ranch_External_GUID": "02a9ba6b-19db-4417-923f-3de38a1ad98b",
+        "CommodityId": 33
+    },
+    {
+        "Ranch_External_GUID": "02a9ba6b-19db-4417-923f-3de38a1ad98b",
+        "CommodityId": 26
+    }
+]

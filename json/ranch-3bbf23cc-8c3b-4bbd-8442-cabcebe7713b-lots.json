@@ -1,0 +1,14 @@
+[
+    {
+        "RanchId": 4482,
+        "Acres": 40.0,
+        "ObstructionDepth": null,
+        "CreateDT": "2024-06-24T16:10:19.557",
+        "LastUpdateDT": "2024-06-24T16:10:19.557",
+        "Deleted": false,
+        "Coordinates": "36.267551,-121.188844",
+        "Id": 9487,
+        "Name": "4",
+        "Ranch_External_GUID": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "RanchName": "Kyle's Ranch",
+        "Acres": 5.0,
+        "Coordinates": "38.559377,-123.248692",
+        "RanchOwner": "a7005d6f-6268-4c07-88af-d3f97add3617",
+        "RanchOwnerFullName": "Kyle Delmo",
+        "RanchOwnerEmail": "kyle.delmo@gmail.com",
+        "UseSpatialCIMIS": false,
+        "UseCIMISAverageMode": false,
+        "SpatialETAvailable": true,
+        "WeatherAPI_Id": 1,
+        "Id": 4510,
+        "Ranch_External_GUID": "31e52c98-b512-445f-acd8-ae240da113e0"
+    }
+]

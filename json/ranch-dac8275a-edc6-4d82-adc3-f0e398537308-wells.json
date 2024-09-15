@@ -1,0 +1,12 @@
+[
+    {
+        "Id": 4308,
+        "RanchId": 4504,
+        "Name": "Salinas Water",
+        "ElectricalConductivity": 5.0,
+        "NitrogenPPM": 10.0,
+        "CreatedDT": "2024-07-18T23:37:39.937",
+        "LastUpdateDT": "2024-07-18T23:37:39.937",
+        "Deleted": false
+    }
+]

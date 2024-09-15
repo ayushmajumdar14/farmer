@@ -1,0 +1,1670 @@
+[
+    {
+        "Id": 14,
+        "Name": "Chualar silty loam"
+    },
+    {
+        "Id": 15,
+        "Name": "Chualar sandy loam"
+    },
+    {
+        "Id": 16,
+        "Name": "Chualar loam"
+    },
+    {
+        "Id": 17,
+        "Name": "Chualar clay loam"
+    },
+    {
+        "Id": 18,
+        "Name": "Salinas loam"
+    },
+    {
+        "Id": 20,
+        "Name": "Molera Test"
+    },
+    {
+        "Id": 24,
+        "Name": "Mocho silt loam"
+    },
+    {
+        "Id": 25,
+        "Name": "Pico fine sandy loam"
+    },
+    {
+        "Id": 26,
+        "Name": "Metz complex"
+    },
+    {
+        "Id": 27,
+        "Name": "Elder sandy loam"
+    },
+    {
+        "Id": 28,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 29,
+        "Name": "Mocho silty clay loam"
+    },
+    {
+        "Id": 30,
+        "Name": "Clear Lake clay"
+    },
+    {
+        "Id": 31,
+        "Name": "Pacheco clay loam"
+    },
+    {
+        "Id": 32,
+        "Name": "Placentia sandy loam"
+    },
+    {
+        "Id": 33,
+        "Name": "Danville sandy clay loam"
+    },
+    {
+        "Id": 34,
+        "Name": "Placentia sandy loam 2 to 9% slope"
+    },
+    {
+        "Id": 35,
+        "Name": "Cropley silty clay"
+    },
+    {
+        "Id": 36,
+        "Name": "Xerorthents loamy"
+    },
+    {
+        "Id": 37,
+        "Name": "Xerothents sand"
+    },
+    {
+        "Id": 38,
+        "Name": "Gregonio sandy loam"
+    },
+    {
+        "Id": 39,
+        "Name": "Psamments"
+    },
+    {
+        "Id": 40,
+        "Name": "Chualar loam, 2 to 5 percent slopes"
+    },
+    {
+        "Id": 41,
+        "Name": "Arroyo Seco gravelly loam"
+    },
+    {
+        "Id": 42,
+        "Name": "Danville sandy clay loam 2-9% slope"
+    },
+    {
+        "Id": 43,
+        "Name": "Pacheco silt loam"
+    },
+    {
+        "Id": 44,
+        "Name": "Pacheco fine sandy loam"
+    },
+    {
+        "Id": 45,
+        "Name": "Antioch very fine sandy loam"
+    },
+    {
+        "Id": 46,
+        "Name": "Metz Loamy Sand"
+    },
+    {
+        "Id": 47,
+        "Name": "Metz Fine Sandy Loam"
+    },
+    {
+        "Id": 57,
+        "Name": "Boggs sandy loam, partially drained"
+    },
+    {
+        "Id": 58,
+        "Name": "Antioch very fine sandy loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 61,
+        "Name": "Mocho silt loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 65,
+        "Name": "Danville sandy clay loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 70,
+        "Name": "Arroyo Seco gravelly loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 71,
+        "Name": "Elder sandy loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 72,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 73,
+        "Name": "Arnold loamy sand 9 to 15 percent slopes"
+    },
+    {
+        "Id": 82,
+        "Name": "Arroyo Seco gravelly sandy loam, 5 to 9 percent slopes"
+    },
+    {
+        "Id": 84,
+        "Name": "Elkhorn fine sandy loam, thin surface variant, 15 to 30 percent slopes"
+    },
+    {
+        "Id": 86,
+        "Name": "Sorrento silt loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 88,
+        "Name": "Sorrento silty clay loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 93,
+        "Name": "Yolo silty clay loam, 2 to 9 percent slopes"
+    },
+    {
+        "Id": 103,
+        "Name": "Cropley silty clay, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 109,
+        "Name": "Mocho silty clay loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 113,
+        "Name": "Arburua-Contra Costa-Wisflat complex, 30 to 50 percent slopes"
+    },
+    {
+        "Id": 115,
+        "Name": "Placentia sandy loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 121,
+        "Name": "Capay silty clay"
+    },
+    {
+        "Id": 129,
+        "Name": "Arroyo Seco gravelly loam, 2 to 5 percent slopes"
+    },
+    {
+        "Id": 131,
+        "Name": "Arroyo Seco gravelly sandy loam, 2 to 5 percent slopes"
+    },
+    {
+        "Id": 134,
+        "Name": "Camarillo loam"
+    },
+    {
+        "Id": 137,
+        "Name": "Arroyo Seco gravelly sandy loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 139,
+        "Name": "Placentia sandy loam, 2 to 9 percent slopes"
+    },
+    {
+        "Id": 155,
+        "Name": "Chualar loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 160,
+        "Name": "Arnold loamy sand, 15 to 50 percent slopes"
+    },
+    {
+        "Id": 167,
+        "Name": "Conejo clay loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 168,
+        "Name": "Baywood loamy sand, 15 to 30 percent slopes"
+    },
+    {
+        "Id": 169,
+        "Name": "Arbuckle gravelly loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 171,
+        "Name": "Elkhorn sandy loam, 9 to 15 percent slopes"
+    },
+    {
+        "Id": 176,
+        "Name": "Indio silt loam"
+    },
+    {
+        "Id": 188,
+        "Name": "Rincon clay loam, 0 to 2 percent slope"
+    },
+    {
+        "Id": 190,
+        "Name": "Brentwood clay loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 197,
+        "Name": "Mocho silty clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 198,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 218,
+        "Name": "Clear Lake clay, hardpan substratum, drained, 0 to 1 percent slopes"
+    },
+    {
+        "Id": 230,
+        "Name": "Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 273,
+        "Name": "Placentia sandy loam, 2 to 9 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 5532,
+        "Name": "Oceano loamy sand, 2 to 15 percent slopes"
+    },
+    {
+        "Id": 5682,
+        "Name": "Clear Lake clay, sandy substratum, drained, 0 to 1 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 5880,
+        "Name": "Placentia sandy loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 6534,
+        "Name": "Clear Lake clay, 0 to 1 percent slopes, frequently flooded, MLRA 14"
+    },
+    {
+        "Id": 7992,
+        "Name": "Rincon clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 8221,
+        "Name": "Lockwood loam, 2 to 9 percent slopes"
+    },
+    {
+        "Id": 20543,
+        "Name": "Danville sandy clay loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 20546,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 20578,
+        "Name": "Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 20579,
+        "Name": "Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 20580,
+        "Name": "Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 20581,
+        "Name": "Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 20582,
+        "Name": "Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 20583,
+        "Name": "Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 20584,
+        "Name": "Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 20585,
+        "Name": "Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21179,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21180,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21181,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21182,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21183,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21184,
+        "Name": "Mocho silty clay loam"
+    },
+    {
+        "Id": 21185,
+        "Name": "Mocho silty clay loam"
+    },
+    {
+        "Id": 21187,
+        "Name": "Mocho silty clay loam"
+    },
+    {
+        "Id": 21188,
+        "Name": "Mocho silty clay loam"
+    },
+    {
+        "Id": 21189,
+        "Name": "Mocho silty clay loam"
+    },
+    {
+        "Id": 21190,
+        "Name": "Mocho silty clay loam"
+    },
+    {
+        "Id": 21195,
+        "Name": "Antioch very fine sandy loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 21200,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21202,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21203,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21208,
+        "Name": "Mocho silty clay loam"
+    },
+    {
+        "Id": 21209,
+        "Name": "Mocho silty clay loam"
+    },
+    {
+        "Id": 21211,
+        "Name": "Mocho silt loam"
+    },
+    {
+        "Id": 21213,
+        "Name": "Mocho silt loam"
+    },
+    {
+        "Id": 21216,
+        "Name": "Mocho silty clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21217,
+        "Name": "Mocho silty clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21219,
+        "Name": "Mocho silt loam"
+    },
+    {
+        "Id": 21221,
+        "Name": "Mocho silty clay loam"
+    },
+    {
+        "Id": 21223,
+        "Name": "Mocho silt loam"
+    },
+    {
+        "Id": 21225,
+        "Name": "Mocho silt loam"
+    },
+    {
+        "Id": 21234,
+        "Name": "Mocho silty clay loam"
+    },
+    {
+        "Id": 21258,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21259,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21265,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21267,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21474,
+        "Name": "Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21475,
+        "Name": "Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21476,
+        "Name": "Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21480,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21481,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21482,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21483,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21484,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21485,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21486,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21495,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21496,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21507,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21508,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21509,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21521,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21522,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21532,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21533,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21552,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21553,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21557,
+        "Name": "Chualar loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 21558,
+        "Name": "Chualar loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 21559,
+        "Name": "Chualar loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 21560,
+        "Name": "Chualar loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 21561,
+        "Name": "Chualar loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 21564,
+        "Name": "Lockwood loam, 2 to 9 percent slopes"
+    },
+    {
+        "Id": 21574,
+        "Name": "Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21579,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21580,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21581,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21585,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21586,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21587,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21588,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21589,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21590,
+        "Name": "Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21591,
+        "Name": "Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21593,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21594,
+        "Name": "Placentia sandy loam, 2 to 9 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21596,
+        "Name": "Mocho silt loam"
+    },
+    {
+        "Id": 21597,
+        "Name": "Mocho silt loam"
+    },
+    {
+        "Id": 21598,
+        "Name": "Mocho silt loam"
+    },
+    {
+        "Id": 21599,
+        "Name": "Mocho silt loam"
+    },
+    {
+        "Id": 21602,
+        "Name": "Cropley silty clay"
+    },
+    {
+        "Id": 21603,
+        "Name": "Cropley silty clay"
+    },
+    {
+        "Id": 21604,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21605,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21609,
+        "Name": "Mocho silty clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21610,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21611,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21612,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21614,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21616,
+        "Name": "Mocho silt loam"
+    },
+    {
+        "Id": 21617,
+        "Name": "Mocho silt loam"
+    },
+    {
+        "Id": 21618,
+        "Name": "Mocho silt loam"
+    },
+    {
+        "Id": 21621,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21622,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21623,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21624,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21625,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21626,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21627,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21628,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21629,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21631,
+        "Name": "Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21633,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21634,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21636,
+        "Name": "Xerorthents loamy"
+    },
+    {
+        "Id": 21637,
+        "Name": "Xerorthents loamy"
+    },
+    {
+        "Id": 21638,
+        "Name": "Mocho silt loam"
+    },
+    {
+        "Id": 21639,
+        "Name": "Mocho silt loam"
+    },
+    {
+        "Id": 21640,
+        "Name": "Cropley silty clay, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 21641,
+        "Name": "Cropley silty clay, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 21642,
+        "Name": "Cropley silty clay, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 21656,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21657,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21658,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21659,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21661,
+        "Name": "Pacheco fine sandy loam"
+    },
+    {
+        "Id": 21687,
+        "Name": "Chualar loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 21690,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21691,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21693,
+        "Name": "Metz Loamy Sand"
+    },
+    {
+        "Id": 21694,
+        "Name": "Metz Loamy Sand"
+    },
+    {
+        "Id": 21704,
+        "Name": "Mocho silt loam"
+    },
+    {
+        "Id": 21705,
+        "Name": "Mocho silt loam"
+    },
+    {
+        "Id": 21706,
+        "Name": "Mocho silt loam"
+    },
+    {
+        "Id": 21707,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21708,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21709,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21710,
+        "Name": "Mocho silt loam"
+    },
+    {
+        "Id": 21711,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21735,
+        "Name": "Cropley silty clay, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 21736,
+        "Name": "Cropley silty clay, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 21737,
+        "Name": "Cropley silty clay, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 21738,
+        "Name": "Cropley silty clay, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 21739,
+        "Name": "Chualar loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 21751,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21754,
+        "Name": "Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21755,
+        "Name": "Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21760,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21761,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21771,
+        "Name": "Metz Fine Sandy Loam"
+    },
+    {
+        "Id": 21772,
+        "Name": "Metz Fine Sandy Loam"
+    },
+    {
+        "Id": 21773,
+        "Name": "Metz Fine Sandy Loam"
+    },
+    {
+        "Id": 21774,
+        "Name": "Metz Fine Sandy Loam"
+    },
+    {
+        "Id": 21784,
+        "Name": "Yolo silt loam, 0 to 2 percent slopes, MLRA 17"
+    },
+    {
+        "Id": 21788,
+        "Name": "Mocho silt loam"
+    },
+    {
+        "Id": 21789,
+        "Name": "Mocho silt loam"
+    },
+    {
+        "Id": 21790,
+        "Name": "Mocho silt loam"
+    },
+    {
+        "Id": 21791,
+        "Name": "Mocho silt loam"
+    },
+    {
+        "Id": 21792,
+        "Name": "Mocho silt loam"
+    },
+    {
+        "Id": 21793,
+        "Name": "Mocho silt loam"
+    },
+    {
+        "Id": 21794,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21795,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21796,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21797,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21799,
+        "Name": "Mocho silt loam"
+    },
+    {
+        "Id": 21800,
+        "Name": "Mocho silt loam"
+    },
+    {
+        "Id": 21802,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21804,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21805,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21806,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21807,
+        "Name": "Mocho silt loam"
+    },
+    {
+        "Id": 21808,
+        "Name": "Mocho silt loam"
+    },
+    {
+        "Id": 21812,
+        "Name": "Mocho silty clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21815,
+        "Name": "Placentia sandy loam, 2 to 9 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21816,
+        "Name": "Placentia sandy loam, 2 to 9 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21818,
+        "Name": "Metz complex"
+    },
+    {
+        "Id": 21820,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21822,
+        "Name": "Pico fine sandy loam"
+    },
+    {
+        "Id": 21823,
+        "Name": "Placentia sandy loam, 2 to 9 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21824,
+        "Name": "Placentia sandy loam, 2 to 9 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21825,
+        "Name": "Mocho silty clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21826,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21834,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21835,
+        "Name": "Yolo silt loam, 0 to 2 percent slopes, MLRA 17"
+    },
+    {
+        "Id": 21836,
+        "Name": "Yolo silt loam, 0 to 2 percent slopes, MLRA 17"
+    },
+    {
+        "Id": 21837,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21858,
+        "Name": "Chualar loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 21860,
+        "Name": "Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21861,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21862,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21863,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21864,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21865,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21866,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21867,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21868,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21869,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21870,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21871,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21872,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21873,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21874,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21875,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21876,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21878,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21879,
+        "Name": "Metz Fine Sandy Loam"
+    },
+    {
+        "Id": 21887,
+        "Name": "Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21888,
+        "Name": "Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21889,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21890,
+        "Name": "Cropley silty clay"
+    },
+    {
+        "Id": 21891,
+        "Name": "Cropley silty clay"
+    },
+    {
+        "Id": 21892,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21893,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21894,
+        "Name": "Elder sandy loam"
+    },
+    {
+        "Id": 21895,
+        "Name": "Xerorthents loamy"
+    },
+    {
+        "Id": 21896,
+        "Name": "Xerorthents loamy"
+    },
+    {
+        "Id": 21897,
+        "Name": "Elder sandy loam"
+    },
+    {
+        "Id": 21920,
+        "Name": "Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21922,
+        "Name": "Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21925,
+        "Name": "Metz Fine Sandy Loam"
+    },
+    {
+        "Id": 21927,
+        "Name": "Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21930,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21931,
+        "Name": "Antioch very fine sandy loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 21932,
+        "Name": "Chualar loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 21936,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21937,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21938,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21939,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21940,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21941,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 21943,
+        "Name": "Placentia sandy loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21944,
+        "Name": "Placentia sandy loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 21950,
+        "Name": "Antioch very fine sandy loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 21951,
+        "Name": "Antioch very fine sandy loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 21968,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 22016,
+        "Name": "Arroyo Seco gravelly loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 22018,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 22027,
+        "Name": "Antioch very fine sandy loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 22028,
+        "Name": "Antioch very fine sandy loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 22029,
+        "Name": "Antioch very fine sandy loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 22030,
+        "Name": "Chualar loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 22031,
+        "Name": "Chualar loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 22032,
+        "Name": "Antioch very fine sandy loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 22034,
+        "Name": "Chualar loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 22035,
+        "Name": "Chualar loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 22036,
+        "Name": "Chualar loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 22039,
+        "Name": "Placentia sandy loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 22061,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 22065,
+        "Name": "Arroyo Seco gravelly loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 22084,
+        "Name": "Elkhorn sandy loam, 9 to 15 percent slopes"
+    },
+    {
+        "Id": 22085,
+        "Name": "Elkhorn sandy loam, 9 to 15 percent slopes"
+    },
+    {
+        "Id": 22086,
+        "Name": "Placentia sandy loam, 2 to 9 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 22087,
+        "Name": "Chualar loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 22088,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 22091,
+        "Name": "Danville sandy clay loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 22092,
+        "Name": "Chualar loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 22097,
+        "Name": "Chualar loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 22098,
+        "Name": "Chualar loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 22099,
+        "Name": "Chualar loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 22100,
+        "Name": "Chualar loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 22101,
+        "Name": "Chualar loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 22102,
+        "Name": "Chualar loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 22110,
+        "Name": "Elkhorn sandy loam, 9 to 15 percent slopes"
+    },
+    {
+        "Id": 22111,
+        "Name": "Elkhorn sandy loam, 9 to 15 percent slopes"
+    },
+    {
+        "Id": 22112,
+        "Name": "Arroyo Seco gravelly loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 22113,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 22116,
+        "Name": "Cropley silty clay, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 22127,
+        "Name": "Rincon clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 22128,
+        "Name": "Rincon clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 22130,
+        "Name": "Rincon clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 22131,
+        "Name": "Rincon clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 22152,
+        "Name": "Pico fine sandy loam"
+    },
+    {
+        "Id": 22153,
+        "Name": "Pico fine sandy loam"
+    },
+    {
+        "Id": 22154,
+        "Name": "Pico fine sandy loam"
+    },
+    {
+        "Id": 22155,
+        "Name": "Pico fine sandy loam"
+    },
+    {
+        "Id": 22156,
+        "Name": "Pico fine sandy loam"
+    },
+    {
+        "Id": 22157,
+        "Name": "Pico fine sandy loam"
+    },
+    {
+        "Id": 22158,
+        "Name": "Pico fine sandy loam"
+    },
+    {
+        "Id": 22159,
+        "Name": "Pico fine sandy loam"
+    },
+    {
+        "Id": 22160,
+        "Name": "Pico fine sandy loam"
+    },
+    {
+        "Id": 22161,
+        "Name": "Pico fine sandy loam"
+    },
+    {
+        "Id": 22162,
+        "Name": "Pico fine sandy loam"
+    },
+    {
+        "Id": 22164,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 22165,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 22166,
+        "Name": "Pico fine sandy loam"
+    },
+    {
+        "Id": 22167,
+        "Name": "Pico fine sandy loam"
+    },
+    {
+        "Id": 22173,
+        "Name": "Arroyo Seco gravelly loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 22187,
+        "Name": "Danville sandy clay loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 22197,
+        "Name": "Arroyo Seco gravelly loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 22198,
+        "Name": "Chualar loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 22202,
+        "Name": "Cropley silty clay, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 22203,
+        "Name": "Cropley silty clay, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 22208,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 22233,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 22234,
+        "Name": "Danville sandy clay loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 22235,
+        "Name": "Danville sandy clay loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 22633,
+        "Name": "Oceano loamy sand, 2 to 15 percent slopes"
+    },
+    {
+        "Id": 22739,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 22749,
+        "Name": "Arroyo Seco gravelly loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 22835,
+        "Name": "Rincon clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 22836,
+        "Name": "Rincon clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 22837,
+        "Name": "Rincon clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 22884,
+        "Name": "Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 22885,
+        "Name": "Mocho silt loam"
+    },
+    {
+        "Id": 22887,
+        "Name": "Mocho silt loam"
+    },
+    {
+        "Id": 22889,
+        "Name": "Mocho silt loam"
+    },
+    {
+        "Id": 22890,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 22891,
+        "Name": "Xerorthents loamy"
+    },
+    {
+        "Id": 22892,
+        "Name": "Xerorthents loamy"
+    },
+    {
+        "Id": 22893,
+        "Name": "Mocho silt loam"
+    },
+    {
+        "Id": 22894,
+        "Name": "Mocho silt loam"
+    },
+    {
+        "Id": 22895,
+        "Name": "Mocho silt loam"
+    },
+    {
+        "Id": 22896,
+        "Name": "Mocho silt loam"
+    },
+    {
+        "Id": 22897,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 22898,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 22899,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 22900,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 22901,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 22902,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 22903,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 22904,
+        "Name": "Mocho silt loam"
+    },
+    {
+        "Id": 22905,
+        "Name": "Cropley silty clay"
+    },
+    {
+        "Id": 22906,
+        "Name": "Mocho silt loam"
+    },
+    {
+        "Id": 22907,
+        "Name": "Cropley silty clay"
+    },
+    {
+        "Id": 22911,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 22912,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 22913,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 22918,
+        "Name": "Danville sandy clay loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 22919,
+        "Name": "Danville sandy clay loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 22920,
+        "Name": "Chualar loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 22921,
+        "Name": "Chualar loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 22922,
+        "Name": "Cropley silty clay, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 22924,
+        "Name": "Arroyo Seco gravelly loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 22925,
+        "Name": "Arroyo Seco gravelly loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 22961,
+        "Name": "Pacheco fine sandy loam"
+    },
+    {
+        "Id": 22981,
+        "Name": "Pacheco fine sandy loam"
+    },
+    {
+        "Id": 22990,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+    },
+    {
+        "Id": 23011,
+        "Name": "Salinas clay loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 23044,
+        "Name": "Pacheco fine sandy loam"
+    },
+    {
+        "Id": 23050,
+        "Name": "Pacheco fine sandy loam"
+    },
+    {
+        "Id": 23054,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 23057,
+        "Name": "Cropley silty clay"
+    },
+    {
+        "Id": 23058,
+        "Name": "Mocho silt loam"
+    },
+    {
+        "Id": 23060,
+        "Name": "Cropley silty clay"
+    },
+    {
+        "Id": 23061,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 23062,
+        "Name": "Salinas clay loam"
+    },
+    {
+        "Id": 23407,
+        "Name": "Arroyo Seco gravelly loam, 0 to 2 percent slopes"
+    },
+    {
+        "Id": 23506,
+        "Name": "Yolo silt loam, 0 to 2 percent slopes, MLRA 17"
+    },
+    {
+        "Id": 23533,
+        "Name": "Yolo silty clay loam, 2 to 9 percent slopes"
+    },
+    {
+        "Id": 23666,
+        "Name": "Arroyo Seco gravelly loam, 0 to 2 percent slopes"
+    }
+]

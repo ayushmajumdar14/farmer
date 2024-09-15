@@ -1,0 +1,2 @@
+RanchName,RanchExternalGuid,UserIsRanchOwner,UserCanEditPlanting,UserCanEditFertilizationEvent,UserCanEditIrrigationEvent,UserCanEditSoilSampleEvent,UserCanEditRanch,UserCanDataExport,HasActivePlantings
+My Ranch 1,02a9ba6b-19db-4417-923f-3de38a1ad98b,False,True,True,True,True,False,True,False

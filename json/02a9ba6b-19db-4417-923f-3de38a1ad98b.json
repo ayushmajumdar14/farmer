@@ -1,0 +1,16 @@
+[
+    {
+        "RanchName": "My Ranch 1",
+        "Acres": 10.0,
+        "Coordinates": "36.72394,-121.668407",
+        "RanchOwner": "c08bcfa1-f14f-43c5-b769-ec6a8a0533c2",
+        "RanchOwnerFullName": "Eel Cee",
+        "RanchOwnerEmail": "eelcee@hotmail.com",
+        "UseSpatialCIMIS": false,
+        "UseCIMISAverageMode": false,
+        "SpatialETAvailable": true,
+        "WeatherAPI_Id": 1,
+        "Id": 4505,
+        "Ranch_External_GUID": "02a9ba6b-19db-4417-923f-3de38a1ad98b"
+    }
+]

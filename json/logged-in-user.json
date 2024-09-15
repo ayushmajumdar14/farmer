@@ -1,0 +1,12 @@
+[
+    {
+        "FirstName": "Kyle",
+        "LastName": "Delmo",
+        "LanguageCodeId": 1,
+        "BETACommoditiesEnabled": true,
+        "Roles_0_Id": 2,
+        "Roles_0_Name": "User",
+        "Id": "a7005d6f-6268-4c07-88af-d3f97add3617",
+        "ServerVersion": "2.4.6"
+    }
+]

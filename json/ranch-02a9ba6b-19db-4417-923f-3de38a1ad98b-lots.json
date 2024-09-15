@@ -1,0 +1,26 @@
+[
+    {
+        "RanchId": 4505,
+        "Acres": 10.0,
+        "ObstructionDepth": null,
+        "CreateDT": "2024-07-19T18:21:32.73",
+        "LastUpdateDT": "2024-07-19T18:21:32.73",
+        "Deleted": false,
+        "Coordinates": "36.723018,-121.667736",
+        "Id": 9512,
+        "Name": "Corn Field",
+        "Ranch_External_GUID": "02a9ba6b-19db-4417-923f-3de38a1ad98b"
+    },
+    {
+        "RanchId": 4505,
+        "Acres": 10.0,
+        "ObstructionDepth": null,
+        "CreateDT": "2024-08-03T07:19:47.997",
+        "LastUpdateDT": "2024-08-03T07:20:06.79",
+        "Deleted": false,
+        "Coordinates": "36.725338,-121.663248",
+        "Id": 9525,
+        "Name": "Strawberry Area",
+        "Ranch_External_GUID": "02a9ba6b-19db-4417-923f-3de38a1ad98b"
+    }
+]

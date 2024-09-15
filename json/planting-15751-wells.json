@@ -1,0 +1,11 @@
+[
+    {
+        "Id": 13027,
+        "LotPlantingId": 15751,
+        "WellId": 4309,
+        "Percentage": 100,
+        "IsUsed": false,
+        "NitrogenPPM": 10.0,
+        "Name": "wells"
+    }
+]

@@ -1,0 +1,5 @@
+Id,External_Id,Name,Distance,NearestCity,County,Priority,ActiveStation_Id,ActiveStation_Active
+54,116,Salinas North,3,Salinas,Monterey,1,54,True
+77,143,San Juan Valley,11,Hollister,San Benito,2,77,True
+139,214,Salinas South II,9,Salinas,Monterey,3,139,True
+151,229,Laguna Seca,14,Monterey,Monterey ,4,151,True

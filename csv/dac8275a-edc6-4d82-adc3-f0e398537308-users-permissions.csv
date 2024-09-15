@@ -1,0 +1,3 @@
+Site_0_FeatureId,Site_0_FeatureName,Site_0_PermissionId,Site_1_FeatureId,Site_1_FeatureName,Site_1_PermissionId,Site_2_FeatureId,Site_2_FeatureName,Site_2_PermissionId,Site_3_FeatureId,Site_3_FeatureName,Site_3_PermissionId,Site_4_FeatureId,Site_4_FeatureName,Site_4_PermissionId,Site_5_FeatureId,Site_5_FeatureName,Site_5_PermissionId,WebAPIAccess,ranchGuid,userId
+1,Ranch,3,2,Planting,3,3,Soil Sample,3,4,Fertilization,3,5,Irrigation,3,6,Data Export,3,False,dac8275a-edc6-4d82-adc3-f0e398537308,a7005d6f-6268-4c07-88af-d3f97add3617
+1,Ranch,3,2,Planting,3,3,Soil Sample,3,4,Fertilization,3,5,Irrigation,3,6,Data Export,3,False,dac8275a-edc6-4d82-adc3-f0e398537308,ce67680f-00b1-4922-b9c2-3fb00d5aca7e

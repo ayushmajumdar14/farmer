@@ -1,0 +1,50 @@
+[
+    {
+        "RanchId": 4504,
+        "Acres": 50.0,
+        "ObstructionDepth": null,
+        "CreateDT": "2024-07-18T23:36:16.203",
+        "LastUpdateDT": "2024-07-18T23:36:16.203",
+        "Deleted": false,
+        "Coordinates": "36.72698,-121.638576",
+        "Id": 9511,
+        "Name": "Cabbage Plantation ",
+        "Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308"
+    },
+    {
+        "RanchId": 4504,
+        "Acres": 50.0,
+        "ObstructionDepth": null,
+        "CreateDT": "2024-07-18T23:35:47.577",
+        "LastUpdateDT": "2024-07-18T23:35:47.577",
+        "Deleted": false,
+        "Coordinates": "36.726426,-121.63555",
+        "Id": 9510,
+        "Name": "Corn Field",
+        "Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308"
+    },
+    {
+        "RanchId": 4504,
+        "Acres": 50.0,
+        "ObstructionDepth": null,
+        "CreateDT": "2024-07-18T23:34:21.203",
+        "LastUpdateDT": "2024-07-18T23:34:21.203",
+        "Deleted": false,
+        "Coordinates": "36.72381,-121.641281",
+        "Id": 9508,
+        "Name": "Lettuce plantation ",
+        "Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308"
+    },
+    {
+        "RanchId": 4504,
+        "Acres": 50.0,
+        "ObstructionDepth": null,
+        "CreateDT": "2024-07-18T23:34:49.017",
+        "LastUpdateDT": "2024-07-18T23:34:49.017",
+        "Deleted": false,
+        "Coordinates": "36.723312,-121.63656",
+        "Id": 9509,
+        "Name": "Strawberries Plantation",
+        "Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308"
+    }
+]

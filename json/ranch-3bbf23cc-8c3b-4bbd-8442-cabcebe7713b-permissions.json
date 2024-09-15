@@ -1,0 +1,14 @@
+[
+    {
+        "RanchName": "UCCE 6",
+        "RanchExternalGuid": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b",
+        "UserIsRanchOwner": false,
+        "UserCanEditPlanting": true,
+        "UserCanEditFertilizationEvent": true,
+        "UserCanEditIrrigationEvent": true,
+        "UserCanEditSoilSampleEvent": true,
+        "UserCanEditRanch": true,
+        "UserCanDataExport": false,
+        "HasActivePlantings": false
+    }
+]

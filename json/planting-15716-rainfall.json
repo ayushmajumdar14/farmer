@@ -1,0 +1,16 @@
+[
+    {
+        "StartDate": "2024-07-17T00:00:00",
+        "EndDate": "2024-07-20T00:00:00",
+        "WeatherStations_0": "Salinas North",
+        "WeatherStations_1": "San Juan Valley",
+        "WeatherStations_2": "Salinas South II",
+        "WeatherStations_3": "Laguna Seca",
+        "RainfallModel_0_EventDate": "2024-08-11T00:00:00-07:00",
+        "RainfallModel_0_RainfallAmount": 0.1,
+        "RainfallModel_0_ET": 0.0,
+        "RainfallModel_0_Source": null,
+        "AveragedDataMode": false,
+        "PlantingId": 15716
+    }
+]

@@ -1,0 +1,3 @@
+UserFullName,UserId,Email,Role,IsOwner
+Kyle Delmo,a7005d6f-6268-4c07-88af-d3f97add3617,kyle.delmo@gmail.com,Owner,True
+Andy  Hernandez,fe8ee7d9-5930-427a-9d37-98a0f24d94a1,andyboy420019@gmail.com,User,False

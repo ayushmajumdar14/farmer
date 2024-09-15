@@ -1,0 +1,2 @@
+RanchName,Acres,Coordinates,RanchOwner,RanchOwnerFullName,RanchOwnerEmail,UseSpatialCIMIS,UseCIMISAverageMode,SpatialETAvailable,WeatherAPI_Id,Id,Ranch_External_GUID
+My Ranch 1,10.0,"36.72394,-121.668407",c08bcfa1-f14f-43c5-b769-ec6a8a0533c2,Eel Cee,eelcee@hotmail.com,False,False,True,1,4505,02a9ba6b-19db-4417-923f-3de38a1ad98b

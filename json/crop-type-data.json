@@ -1,0 +1,368 @@
+{
+  "CommodityTypeId": { "0": 17 },
+  "PreviousCropName": { "0": "Alfalfa" },
+  "IsPreviousCrop": { "0": false },
+  "IsDefault": { "0": true },
+  "DefaultCropTypeId": { "0": null },
+  "FertA": { "0": 1.2021 },
+  "FertB": { "0": 0.1102 },
+  "FertYo": { "0": 0.8275 },
+  "GermDays": { "0": 0.16 },
+  "MaxDays": { "0": 0.8 },
+  "MaxUptake": { "0": 120.0 },
+  "CanopyA": { "0": 4.0 },
+  "CanopyB": { "0": -13.876 },
+  "CanopyGMax": { "0": 90.0 },
+  "CanopyMin": { "0": 30.0 },
+  "CanopyIntercept": { "0": 0.0 },
+  "CanopyC": { "0": 1.0 },
+  "CanopyD": { "0": 0.0 },
+  "CanopyE": { "0": null },
+  "CanopyF": { "0": null },
+  "EarlyFruit": { "0": null },
+  "WaterStressStart": { "0": null },
+  "WaterStressEnd": { "0": null },
+  "StressStart": { "0": null },
+  "StressEnd": { "0": null },
+  "IsStressable": { "0": false },
+  "CanopyMaxFraction": { "0": 1.0 },
+  "SoilNThreshold": { "0": 15.0 },
+  "SoilNThresholdMid": { "0": 20.0 },
+  "SoilNThresholdLate": { "0": 15.0 },
+  "SoilNThresholdFraction": { "0": 0.2 },
+  "SoilNThresholdFractionMid": { "0": 0.75 },
+  "TargetTension1": { "0": 60.0 },
+  "TargetTension2": { "0": 45.0 },
+  "TargetTension3": { "0": 35.0 },
+  "TargetTension4": { "0": 25.0 },
+  "TensionDry": { "0": null },
+  "TensionMoist": { "0": null },
+  "TensionWet": { "0": null },
+  "MinRootDepth": { "0": 2.0 },
+  "MaxRootDepth": { "0": 3.0 },
+  "CropMineralizationRate": { "0": 0.0 },
+  "MaxNRec": { "0": 60.0 },
+  "PrevCropK": { "0": 0.0 },
+  "HarvestIntervalFraction": { "0": 0.0 },
+  "DaysToEndDate": { "0": 364.0 },
+  "RootDepthThreshold": { "0": 0.0 },
+  "SoilNRatioA": { "0": 0.0 },
+  "SoilNRatioB": { "0": 0.0 },
+  "SoilNRatioC": { "0": 0.0 },
+  "NFertilizerFactorA": { "0": 0.0 },
+  "NFertilizerFactorB": { "0": 0.0 },
+  "NFertilizerFactorC": { "0": 0.0 },
+  "NFertilizerFactorD": { "0": 0.0 },
+  "NUptakeThreshold": { "0": 0.0 },
+  "StrawberryFertilizationInterval": { "0": 14 },
+  "BedWidth": { "0": 40.0 },
+  "Rows": { "0": 6.0 },
+  "BasalKC": { "0": 0.2 },
+  "SeasonalKCs": {
+    "0": [
+      {
+        "Id": 1,
+        "CropTypeId": 6302,
+        "Month": 1,
+        "KcMax": null,
+        "NiToMaxCanopy": 35,
+        "Density": null,
+        "Cover": null
+      },
+      {
+        "Id": 2,
+        "CropTypeId": 6302,
+        "Month": 2,
+        "KcMax": null,
+        "NiToMaxCanopy": 40,
+        "Density": null,
+        "Cover": null
+      },
+      {
+        "Id": 3,
+        "CropTypeId": 6302,
+        "Month": 3,
+        "KcMax": null,
+        "NiToMaxCanopy": 37,
+        "Density": null,
+        "Cover": null
+      },
+      {
+        "Id": 4,
+        "CropTypeId": 6302,
+        "Month": 4,
+        "KcMax": null,
+        "NiToMaxCanopy": 35,
+        "Density": null,
+        "Cover": null
+      },
+      {
+        "Id": 5,
+        "CropTypeId": 6302,
+        "Month": 5,
+        "KcMax": null,
+        "NiToMaxCanopy": 35,
+        "Density": null,
+        "Cover": null
+      },
+      {
+        "Id": 6,
+        "CropTypeId": 6302,
+        "Month": 6,
+        "KcMax": null,
+        "NiToMaxCanopy": 35,
+        "Density": null,
+        "Cover": null
+      },
+      {
+        "Id": 7,
+        "CropTypeId": 6302,
+        "Month": 7,
+        "KcMax": null,
+        "NiToMaxCanopy": 35,
+        "Density": null,
+        "Cover": null
+      },
+      {
+        "Id": 8,
+        "CropTypeId": 6302,
+        "Month": 8,
+        "KcMax": null,
+        "NiToMaxCanopy": 35,
+        "Density": null,
+        "Cover": null
+      },
+      {
+        "Id": 9,
+        "CropTypeId": 6302,
+        "Month": 9,
+        "KcMax": null,
+        "NiToMaxCanopy": 37,
+        "Density": null,
+        "Cover": null
+      },
+      {
+        "Id": 10,
+        "CropTypeId": 6302,
+        "Month": 10,
+        "KcMax": null,
+        "NiToMaxCanopy": 39,
+        "Density": null,
+        "Cover": null
+      },
+      {
+        "Id": 11,
+        "CropTypeId": 6302,
+        "Month": 11,
+        "KcMax": null,
+        "NiToMaxCanopy": 42,
+        "Density": null,
+        "Cover": null
+      },
+      {
+        "Id": 12,
+        "CropTypeId": 6302,
+        "Month": 12,
+        "KcMax": null,
+        "NiToMaxCanopy": 45,
+        "Density": null,
+        "Cover": null
+      }
+    ]
+  },
+  "TreeNutrientThresholds": {
+    "0": [
+      {
+        "Id": 36,
+        "CropTypeId": 6302,
+        "NutrientId": 1,
+        "SeasonAverage": null,
+        "Threshold": null,
+        "Recorded": null,
+        "TissueFactor": null,
+        "TissueCoefficientA": null,
+        "TissueCoefficientB": null,
+        "NutrientSymbol": "N",
+        "NutrientUnit": "%",
+        "NutrientName": "Nitrogen"
+      },
+      {
+        "Id": 37,
+        "CropTypeId": 6302,
+        "NutrientId": 3,
+        "SeasonAverage": null,
+        "Threshold": null,
+        "Recorded": null,
+        "TissueFactor": null,
+        "TissueCoefficientA": null,
+        "TissueCoefficientB": null,
+        "NutrientSymbol": "K",
+        "NutrientUnit": "%",
+        "NutrientName": "Potassium"
+      },
+      {
+        "Id": 38,
+        "CropTypeId": 6302,
+        "NutrientId": 4,
+        "SeasonAverage": null,
+        "Threshold": null,
+        "Recorded": null,
+        "TissueFactor": null,
+        "TissueCoefficientA": null,
+        "TissueCoefficientB": null,
+        "NutrientSymbol": "Ca",
+        "NutrientUnit": "%",
+        "NutrientName": "Calcium"
+      },
+      {
+        "Id": 39,
+        "CropTypeId": 6302,
+        "NutrientId": 5,
+        "SeasonAverage": null,
+        "Threshold": null,
+        "Recorded": null,
+        "TissueFactor": null,
+        "TissueCoefficientA": null,
+        "TissueCoefficientB": null,
+        "NutrientSymbol": "Mg",
+        "NutrientUnit": "%",
+        "NutrientName": "Magnesium"
+      },
+      {
+        "Id": 40,
+        "CropTypeId": 6302,
+        "NutrientId": 11,
+        "SeasonAverage": null,
+        "Threshold": null,
+        "Recorded": null,
+        "TissueFactor": null,
+        "TissueCoefficientA": null,
+        "TissueCoefficientB": null,
+        "NutrientSymbol": "B",
+        "NutrientUnit": "ppm",
+        "NutrientName": "Boron"
+      }
+    ]
+  },
+  "VegetativeNDemands": {
+    "0": [
+      {
+        "Id": 61,
+        "CropTypeId": 6302,
+        "YearMin": 0,
+        "YearMax": 1,
+        "Low": 0,
+        "High": 0
+      },
+      {
+        "Id": 62,
+        "CropTypeId": 6302,
+        "YearMin": 2,
+        "YearMax": 4,
+        "Low": 0,
+        "High": 0
+      },
+      {
+        "Id": 63,
+        "CropTypeId": 6302,
+        "YearMin": 5,
+        "YearMax": 8,
+        "Low": 0,
+        "High": 0
+      },
+      {
+        "Id": 64,
+        "CropTypeId": 6302,
+        "YearMin": 9,
+        "YearMax": 16,
+        "Low": 0,
+        "High": 0
+      },
+      {
+        "Id": 65,
+        "CropTypeId": 6302,
+        "YearMin": 17,
+        "YearMax": 1000000,
+        "Low": 0,
+        "High": 0
+      }
+    ]
+  },
+  "PerennialRootDepths": {
+    "0": [
+      {
+        "Id": 16,
+        "CropTypeId": 6302,
+        "YearMin": 0,
+        "YearMax": 1,
+        "Max": 2.0,
+        "Min": 0.3
+      },
+      {
+        "Id": 17,
+        "CropTypeId": 6302,
+        "YearMin": 1,
+        "YearMax": 2,
+        "Max": 3.0,
+        "Min": 2.0
+      },
+      {
+        "Id": 18,
+        "CropTypeId": 6302,
+        "YearMin": 2,
+        "YearMax": 3,
+        "Max": 4.0,
+        "Min": 3.0
+      },
+      {
+        "Id": 19,
+        "CropTypeId": 6302,
+        "YearMin": 3,
+        "YearMax": 4,
+        "Max": 4.0,
+        "Min": 4.0
+      },
+      {
+        "Id": 20,
+        "CropTypeId": 6302,
+        "YearMin": 4,
+        "YearMax": 1000000,
+        "Max": 4.0,
+        "Min": 4.0
+      }
+    ]
+  },
+  "PerennialCanopies": { "0": [] },
+  "Kccov_quad": { "0": null },
+  "Kccov_slope": { "0": null },
+  "Kccov_int": { "0": null },
+  "CovDensityFactor": { "0": null },
+  "LeafSenesce": { "0": null },
+  "WetAreaDrip": { "0": null },
+  "WetAreaMicroSprinkler": { "0": null },
+  "InadequateSummerLeafN": { "0": null },
+  "ExcessiveSummerLeafN": { "0": null },
+  "NFertilizerAdjustment": { "0": null },
+  "FertilizerUseEfficiency": { "0": null },
+  "CoverCropN": { "0": 0.0 },
+  "CompostN": { "0": 0.0 },
+  "ManureN": { "0": 0.0 },
+  "CropSensitivity": { "0": null },
+  "TreeInterceptCoefficient": { "0": null },
+  "TreeLeafNCoefficient": { "0": null },
+  "TreeIlr4Coefficient": { "0": null },
+  "TreeIlr8Coefficient": { "0": null },
+  "TreeIlrProductCoefficient": { "0": null },
+  "MaxAge": { "0": 9 },
+  "IsMacroTunnelEnabled": { "0": false },
+  "DripIrrigationFactor": { "0": 0.2 },
+  "SprinklerIrrigationFactor": { "0": 1.0 },
+  "FloodIrrigationFactor": { "0": 1.0 },
+  "Id": { "0": 6302 },
+  "Name": { "0": "Alfalfa" },
+  "UptakeFactor": { "0": 0.0 },
+  "UptakeConstant": { "0": 0.0 },
+  "IsNDependent": { "0": false },
+  "IsSelected": { "0": false },
+  "PlantingsCount": { "0": 0 }
+}

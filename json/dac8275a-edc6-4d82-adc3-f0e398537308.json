@@ -1,0 +1,16 @@
+[
+    {
+        "RanchName": "Test Ranch",
+        "Acres": 300.0,
+        "Coordinates": "36.723937,-121.637938",
+        "RanchOwner": "fe8ee7d9-5930-427a-9d37-98a0f24d94a1",
+        "RanchOwnerFullName": "Andy  Hernandez",
+        "RanchOwnerEmail": "andyboy420019@gmail.com",
+        "UseSpatialCIMIS": false,
+        "UseCIMISAverageMode": false,
+        "SpatialETAvailable": true,
+        "WeatherAPI_Id": 1,
+        "Id": 4504,
+        "Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308"
+    }
+]

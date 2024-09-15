@@ -1,0 +1,32 @@
+[
+    {
+        "Id": 15672,
+        "Name": "Asian Green Planting",
+        "ActiveEvents": null,
+        "CommodityTypeId": 31,
+        "CommodityTypeName": "Asian Greens",
+        "HarvestDate": "2024-11-29T00:00:00",
+        "WetDate": "2024-06-24T00:00:00",
+        "HasSoilMoistureFileName": false,
+        "HasFlowMeterFileName": false,
+        "RanchLot_Id": 9486,
+        "RanchLot_Name": "Hello",
+        "IsNDependent": true,
+        "Ranch_External_GUID": "6082899a-612c-4426-b5ce-31b55c740239"
+    },
+    {
+        "Id": 15707,
+        "Name": "Army",
+        "ActiveEvents": null,
+        "CommodityTypeId": 31,
+        "CommodityTypeName": "Asian Greens",
+        "HarvestDate": "2024-07-20T00:00:00",
+        "WetDate": "2024-07-14T00:00:00",
+        "HasSoilMoistureFileName": false,
+        "HasFlowMeterFileName": false,
+        "RanchLot_Id": 9486,
+        "RanchLot_Name": "Hello",
+        "IsNDependent": true,
+        "Ranch_External_GUID": "6082899a-612c-4426-b5ce-31b55c740239"
+    }
+]

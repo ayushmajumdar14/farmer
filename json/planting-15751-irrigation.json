@@ -1,0 +1,23 @@
+[
+    {
+        "AverageReferenceET": 0.0,
+        "ReferenceET": 0.0,
+        "AvailableSoilMoisture": 0.0,
+        "CanopyCover": 15.75431836518318,
+        "AvgCanopy": 0.0,
+        "CropCoefficient": 1.15,
+        "TotalCropET": 0.0,
+        "CropStage": null,
+        "CummulativeWaterAppliedAndRainfall": 0.0,
+        "EventDate": "8/3/2024",
+        "IsOnWetDate": true,
+        "Id": 8446942,
+        "IrrigationInterval": "N/A",
+        "IrrigationMethod": "Germination Sprinkler",
+        "Rainfall": 0.0,
+        "ContributingRainfall": 1.68,
+        "Ratio": 0.3,
+        "WaterApplied": null,
+        "PlantingId": 15751
+    }
+]

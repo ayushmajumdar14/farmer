@@ -1,0 +1,2 @@
+RanchName,RanchExternalGuid,UserIsRanchOwner,UserCanEditPlanting,UserCanEditFertilizationEvent,UserCanEditIrrigationEvent,UserCanEditSoilSampleEvent,UserCanEditRanch,UserCanDataExport,HasActivePlantings
+Kyle's Ranch,31e52c98-b512-445f-acd8-ae240da113e0,True,True,True,True,True,True,True,False

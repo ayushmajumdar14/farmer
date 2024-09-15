@@ -1,0 +1,16 @@
+[
+    {
+        "UserFullName": "Kyle Delmo",
+        "UserId": "a7005d6f-6268-4c07-88af-d3f97add3617",
+        "Email": "kyle.delmo@gmail.com",
+        "Role": "Owner",
+        "IsOwner": true
+    },
+    {
+        "UserFullName": "Andy  Hernandez",
+        "UserId": "fe8ee7d9-5930-427a-9d37-98a0f24d94a1",
+        "Email": "andyboy420019@gmail.com",
+        "Role": "User",
+        "IsOwner": false
+    }
+]

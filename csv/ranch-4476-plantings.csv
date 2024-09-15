@@ -1,0 +1,3 @@
+Id,Name,ActiveEvents,CommodityTypeId,CommodityTypeName,HarvestDate,WetDate,HasSoilMoistureFileName,HasFlowMeterFileName,RanchLot_Id,RanchLot_Name,IsNDependent,Ranch_External_GUID
+15672,Asian Green Planting,,31,Asian Greens,2024-11-29T00:00:00,2024-06-24T00:00:00,False,False,9486,Hello,True,6082899a-612c-4426-b5ce-31b55c740239
+15707,Army,,31,Asian Greens,2024-07-20T00:00:00,2024-07-14T00:00:00,False,False,9486,Hello,True,6082899a-612c-4426-b5ce-31b55c740239

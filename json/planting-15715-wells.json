@@ -1,0 +1,11 @@
+[
+    {
+        "Id": 12990,
+        "LotPlantingId": 15715,
+        "WellId": 4308,
+        "Percentage": 100,
+        "IsUsed": false,
+        "NitrogenPPM": 10.0,
+        "Name": "Salinas Water"
+    }
+]

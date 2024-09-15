@@ -1,0 +1,112 @@
+[
+    {
+        "Id": 17,
+        "Name": "American Samoa",
+        "UTCOffset": -11
+    },
+    {
+        "Id": 22,
+        "Name": "Arizona",
+        "UTCOffset": null
+    },
+    {
+        "Id": 9,
+        "Name": "Bay Area",
+        "UTCOffset": null
+    },
+    {
+        "Id": 4,
+        "Name": "Central Coast",
+        "UTCOffset": null
+    },
+    {
+        "Id": 8,
+        "Name": "Delta",
+        "UTCOffset": null
+    },
+    {
+        "Id": 12,
+        "Name": "Desert Region",
+        "UTCOffset": null
+    },
+    {
+        "Id": 18,
+        "Name": "Guam",
+        "UTCOffset": 10
+    },
+    {
+        "Id": 16,
+        "Name": "Hawaii -- Big Island",
+        "UTCOffset": -10
+    },
+    {
+        "Id": 20,
+        "Name": "Hawaii -- Maui",
+        "UTCOffset": -10
+    },
+    {
+        "Id": 19,
+        "Name": "Hawaii -- O'ahu",
+        "UTCOffset": -10
+    },
+    {
+        "Id": 15,
+        "Name": "North Bay",
+        "UTCOffset": null
+    },
+    {
+        "Id": 2,
+        "Name": "North Coast",
+        "UTCOffset": null
+    },
+    {
+        "Id": 1,
+        "Name": "North Mountain Region",
+        "UTCOffset": null
+    },
+    {
+        "Id": 6,
+        "Name": "North Sacramento Valley",
+        "UTCOffset": null
+    },
+    {
+        "Id": 10,
+        "Name": "North San Joaquin Valley",
+        "UTCOffset": null
+    },
+    {
+        "Id": 21,
+        "Name": "Sierra",
+        "UTCOffset": null
+    },
+    {
+        "Id": 11,
+        "Name": "Sierra Foothills",
+        "UTCOffset": null
+    },
+    {
+        "Id": 3,
+        "Name": "South Coast",
+        "UTCOffset": null
+    },
+    {
+        "Id": 14,
+        "Name": "South Inland",
+        "UTCOffset": null
+    },
+    {
+        "Id": 7,
+        "Name": "South Sacramento Valley",
+        "UTCOffset": null
+    },
+    {
+        "Id": 13,
+        "Name": "South San Joaquin Valley",
+        "UTCOffset": null
+    },
+    {
+        "Id": 5,
+        "Name": "South-central Coast",
+        "UTCOffset": null
+    }
+]

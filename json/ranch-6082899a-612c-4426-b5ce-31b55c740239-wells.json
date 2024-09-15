@@ -1,0 +1,12 @@
+[
+    {
+        "Id": 4292,
+        "RanchId": 4476,
+        "Name": "Evian",
+        "ElectricalConductivity": 1000.0,
+        "NitrogenPPM": 1000.0,
+        "CreatedDT": "2024-06-24T14:26:28.773",
+        "LastUpdateDT": "2024-06-24T14:26:28.773",
+        "Deleted": false
+    }
+]

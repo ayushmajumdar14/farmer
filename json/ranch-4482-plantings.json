@@ -1,0 +1,17 @@
+[
+    {
+        "Id": 15673,
+        "Name": "Lettuce Romaine",
+        "ActiveEvents": "6/29/2024",
+        "CommodityTypeId": 1,
+        "CommodityTypeName": "Lettuce",
+        "HarvestDate": "2024-08-14T00:00:00",
+        "WetDate": "2024-06-01T00:00:00",
+        "HasSoilMoistureFileName": false,
+        "HasFlowMeterFileName": false,
+        "RanchLot_Id": 9487,
+        "RanchLot_Name": "4",
+        "IsNDependent": true,
+        "Ranch_External_GUID": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b"
+    }
+]

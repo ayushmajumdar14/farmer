@@ -1,0 +1,2 @@
+RanchName,Acres,Coordinates,RanchOwner,RanchOwnerFullName,RanchOwnerEmail,UseSpatialCIMIS,UseCIMISAverageMode,SpatialETAvailable,WeatherAPI_Id,Id,Ranch_External_GUID
+Test Ranch,300.0,"36.723937,-121.637938",fe8ee7d9-5930-427a-9d37-98a0f24d94a1,Andy  Hernandez,andyboy420019@gmail.com,False,False,True,1,4504,dac8275a-edc6-4d82-adc3-f0e398537308

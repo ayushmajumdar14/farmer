@@ -1,0 +1,75 @@
+Id,IsPreviousCrop,Name,MaxUptake,MaxNRec,MaxAge,CropMineralizationRate,PrevCropK,CommodityTypeName,BedWidth,Rows
+6302,False,Alfalfa,120.0,60.0,9,0.0,0.0,Alfalfa,40.0,6.0
+6303,False,Almond Sacramento Valley,120.0,50.0,14,0.0,0.0,Almond,40.0,2.0
+13861,False,Almond Southern San Joaquin Valley,120.0,50.0,14,0.0,0.0,Almond,40.0,2.0
+10484,False,Annual Artichoke 40-inch beds summer,275.0,60.0,0,0.0,0.0,Artichoke,40.0,1.0
+10480,False,Annual Artichoke 80-inch beds summer,275.0,60.0,0,0.0,0.0,Artichoke,80.0,1.0
+6361,False,Arugula baby green (Hawaii/Untested),80.0,50.0,0,0.0,0.0,Baby Salad Greens,0.6,1.0
+13174,False,"Bok choy  2 rows, 40-inch beds, summer",200.0,50.0,0,0.0,0.0,Chinese Cabbage,40.0,2.0
+6362,False,Broccoli (Hawaii),337.0,50.0,0,0.0,0.0,Broccoli,0.6,1.0
+15,False,"Broccoli 2 row, 40-inch bed, summer",337.0,120.0,0,0.0,0.0,Broccoli,40.0,2.0
+13,False,"Broccoli 2 row, 40-inch bed, winter",249.0,100.0,0,0.0,0.0,Broccoli,40.0,2.0
+11436,False,"Brussels sprouts 1 row, 40 inch bed (summer/fall harvest)",440.0,60.0,0,0.0,0.0,Brussels Sprouts,40.0,1.0
+11437,False,"Brussels sprouts 1 row, 40 inch bed (winter harvest)",325.0,60.0,0,0.0,0.0,Brussels Sprouts,40.0,1.0
+20,False,"Cabbage-green, transplanted, 2 row, 40-inch bed",317.0,75.0,0,0.0,0.0,Cabbage,40.0,2.0
+21,False,"Cabbage-red, transplanted, 2 row, 40-inch bed",386.0,75.0,0,0.0,0.0,Cabbage,40.0,2.0
+11465,False,Carrot Freshmarket  Desert winter 40-inch bed 10 rows,245.0,60.0,0,0.0,0.0,Carrot,40.0,10.0
+17,False,"Cauliflower-transplanted, 1 row, 40-inch bed, summer",283.0,75.0,0,0.0,0.0,Cauliflower,40.0,1.0
+18,False,"Cauliflower-transplanted, 1 row, 40-inch bed, winter",274.0,75.0,0,0.0,0.0,Cauliflower,40.0,1.0
+28,False,"Celery transplant, 40-inch bed, 2 rows",257.0,70.0,0,0.0,0.0,Celery,40.0,2.0
+6357,False,Cherry Tomato (Guam) Untested,220.0,50.0,0,0.0,0.0,Tomato,0.6,1.6
+6356,False,Chili pepper (Guam)  Untested,300.0,50.0,0,0.0,0.0,Peppers,0.6,1.6
+6360,False,Chinese Cabbage/Wong Bok (American Samoa)/Untested,317.0,50.0,0,0.0,0.0,Chinese Cabbage,40.0,1.0
+6359,False,Chinese cabbage/Wong Bok (Hawaii/Untested),317.0,50.0,0,0.0,0.0,Chinese Cabbage,40.0,1.0
+6353,False,Cilantro (Hawaii/Untested),96.0,50.0,0,0.0,0.0,Cilantro,0.0,0.0
+4436,False,Cilantro 80-inch bed,96.0,100.0,0,0.0,0.0,Cilantro,80.0,30.0
+6352,False,Cucumber (American Samoa) Untested,220.0,50.0,0,0.0,0.0,Cucumber,0.6,1.6
+6351,False,Edible Hibiscus (American Samoa) Untested,160.0,90.0,0,0.0,0.0,Edible Hibiscus,0.6,1.6
+6350,False,Eggplant (Guam) Untested,220.0,50.0,0,0.0,0.0,Eggplant,0.6,1.6
+10770,False,"Endive, 5 row, 80-inch bed",114.0,60.0,0,0.0,0.0,Chicory,80.0,5.0
+10769,False,"Escarole, 5 row, 80-inch bed",114.0,60.0,0,0.0,0.0,Chicory,80.0,5.0
+14748,False,Fennel transplant 40-inch beds,240.0,70.0,0,0.0,0.0,Fennel,40.0,2.0
+23,False,"Lettuce - Iceberg 3 row, 42-inch bed",150.0,70.0,0,0.0,0.0,Lettuce,42.0,3.0
+3716,False,Lettuce-Baby (green) 80-inch bed,80.0,100.0,0,0.0,0.0,Lettuce,80.0,36.0
+3714,False,Lettuce-Baby (red) 80-inch bed,50.0,100.0,0,0.0,0.0,Lettuce,80.0,36.0
+10768,False,"Lettuce-Green Leaf, 5 row, 80-inch bed",114.0,60.0,0,0.0,0.0,Lettuce,80.0,5.0
+24,False,"Lettuce-Green Leaf, 6-row, 80-inch bed",114.0,60.0,0,0.0,0.0,Lettuce,80.0,6.0
+5,False,"Lettuce-Iceberg, 2 row, 40-inch bed",130.0,60.0,0,0.0,0.0,Lettuce,40.0,2.0
+4,False,"Lettuce-Iceberg, 5 row, 80-inch bed",150.0,70.0,0,0.0,0.0,Lettuce,80.0,5.0
+3,False,"Lettuce-Iceberg, 6 row, 80-inch bed",150.0,70.0,0,0.0,0.0,Lettuce,80.0,6.0
+10765,False,"Lettuce-Red Leaf, 5 row, 80-inch bed",90.0,60.0,0,0.0,0.0,Lettuce,80.0,5.0
+3719,False,"Lettuce-Red Leaf, 6 row, 80-inch bed",90.0,60.0,0,0.0,0.0,Lettuce,80.0,6.0
+1,False,"Lettuce-Romaine, 2 row, 40-inch bed",120.0,60.0,0,0.0,0.0,Lettuce,40.0,2.0
+11,False,"Lettuce-Romaine, 5 row, 80-inch bed",145.0,60.0,0,0.0,0.0,Lettuce,80.0,5.0
+2,False,"Lettuce-Romaine, 6 row, 80-inch bed",145.0,60.0,0,0.0,0.0,Lettuce,80.0,6.0
+3717,False,Mizuna 80-inch bed,112.0,100.0,0,0.0,0.0,Mizuna,80.0,36.0
+12043,False,"Napa Cabbage  2 rows, 40-inch beds summer",192.0,50.0,0,0.0,0.0,Chinese Cabbage,40.0,2.0
+6349,False,Onion (Hawaii) Untested,150.0,40.0,0,0.0,0.0,Onion,60.0,4.0
+6358,False,Pak Choi (American Samoa) Untested,120.0,50.0,0,0.0,0.0,Asian Greens,0.6,1.0
+13207,False,Pear Sacramento Valley,120.0,50.0,14,0.0,0.0,Pear,40.0,2.0
+10544,False,Pistachio Sacramento Valley,120.0,50.0,14,0.0,0.0,Pistachio,40.0,2.0
+10560,False,Pistachio San Joaquin Valley,120.0,50.0,14,0.0,0.0,Pistachio,40.0,2.0
+4439,False,Processing tomato transplanted 60-inch bed,220.0,100.0,0,0.0,0.0,Tomato,60.0,2.0
+13205,False,Prune Sacramento Valley,120.0,50.0,14,0.0,0.0,Prune,40.0,2.0
+6727,False,"Raspberry proprietary variety #1, 2nd year, 88-inch row spacing",164.0,30.0,1,0.0,0.0,Caneberry,88.0,1.0
+5055,False,"Raspberry proprietary variety#1, 1st year early planting, 88-inch row spacing",162.0,30.0,1,0.0,0.0,Caneberry,88.0,1.0
+4440,False,"Raspberry proprietary variety#1, 1st year late planting, 88-inch row spacing",156.0,30.0,1,0.0,0.0,Caneberry,88.0,1.0
+4438,False,"Red Bell pepper transplanted 1-row, 40-inch bed",300.0,50.0,0,0.0,0.0,Peppers,40.0,1.0
+6347,False,Red cabbage (Hawaii/Untested),317.0,50.0,0,0.0,0.0,Cabbage,0.6,1.0
+6346,False,Red Russian Kale baby green (Hawaii/Untested),80.0,50.0,0,0.0,0.0,Baby Salad Greens,0.6,1.0
+6345,False,Romaine (Hawaii/Untested),120.0,50.0,0,0.0,0.0,Lettuce,0.6,1.0
+6344,False,Seed corn (Hawaii),220.0,40.0,0,0.0,0.0,Maize,63.0,2.0
+25,False,Spinach (baby)  80-inch bed,80.0,100.0,0,0.0,0.0,Spinach,80.0,36.0
+27,False,Spinach (bunch) 80-inch bed,130.0,100.0,0,0.0,0.0,Spinach,80.0,20.0
+26,False,Spinach (teen)  80-inch bed,96.0,100.0,0,0.0,0.0,Spinach,80.0,36.0
+15728,False,Strawberry Nursery (Mother and Daughter),214.0,50.0,0,0.0,0.0,Strawberry,80.0,7.0
+3060,False,"Strawberry, 4 row, 68-inch bed, fall Oxnard",214.0,50.0,0,0.0,0.0,Strawberry,68.0,4.0
+12,False,"Strawberry-Albion, 2 row, 52-inch bed",170.0,50.0,0,0.0,0.0,Strawberry,52.0,2.0
+16,False,"Strawberry-Albion, 4 row, 64-inch bed",203.0,40.0,0,0.0,0.0,Strawberry,64.0,4.0
+22,False,"Strawberry-Proprietary#1, 2 row, 48-inch bed",214.0,40.0,0,0.0,0.0,Strawberry,48.0,2.0
+19,False,"Strawberry-Proprietary#1, 2 row, 52-inch bed",214.0,50.0,0,0.0,0.0,Strawberry,52.0,2.0
+10193,False,Walnut Sacramento Valley,120.0,50.0,14,0.0,0.0,Walnut,40.0,2.0
+13862,False,Walnut Southern San Joaquin Valley,120.0,50.0,14,0.0,0.0,Walnut,40.0,2.0
+6343,False,Watermelon (Guam) Untested,200.0,50.0,0,0.0,0.0,Watermelon,80.0,1.0
+13843,False,Wine Grape Central Coast,120.0,15.0,14,0.0,0.0,Grape,40.0,2.0
+6342,False,Zucchini (Hawaii/Untested),220.0,50.0,0,0.0,0.0,Squash,0.6,1.6

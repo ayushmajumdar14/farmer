@@ -1,0 +1,2 @@
+StartDate,EndDate,WeatherStations_0,WeatherStations_1,RainfallModel_0_EventDate,RainfallModel_0_RainfallAmount,RainfallModel_0_ET,RainfallModel_0_Source,AveragedDataMode,PlantingId
+2024-06-01T00:00:00,2024-08-14T00:00:00,King City-Oasis Rd.,Arroyo Seco,2024-08-11T00:00:00-07:00,0.1,0.0,,False,15673

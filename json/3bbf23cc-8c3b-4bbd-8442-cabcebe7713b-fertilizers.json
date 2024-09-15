@@ -1,0 +1,47 @@
+[
+    {
+        "Editable": false,
+        "PercentageN": 19.0,
+        "PoundsPerGallons": null,
+        "Usage": 0,
+        "Nutrients": null,
+        "Description": null,
+        "FormulationType_Id": 2,
+        "FormulationType_Name": "Wet",
+        "LbsPerGallon": 10.55,
+        "OwnerRanchId": null,
+        "IsPrivate": false,
+        "Id": 25,
+        "Name": "AN 19-0-0"
+    },
+    {
+        "Editable": false,
+        "PercentageN": 20.0,
+        "PoundsPerGallons": null,
+        "Usage": 0,
+        "Nutrients": null,
+        "Description": null,
+        "FormulationType_Id": 2,
+        "FormulationType_Name": "Wet",
+        "LbsPerGallon": 10.5,
+        "OwnerRanchId": 767,
+        "IsPrivate": false,
+        "Id": 293,
+        "Name": "AN20"
+    },
+    {
+        "Editable": false,
+        "PercentageN": 17.0,
+        "PoundsPerGallons": null,
+        "Usage": 1,
+        "Nutrients": null,
+        "Description": null,
+        "FormulationType_Id": 2,
+        "FormulationType_Name": "Wet",
+        "LbsPerGallon": 12.6,
+        "OwnerRanchId": 934,
+        "IsPrivate": false,
+        "Id": 329,
+        "Name": "CAN 17"
+    }
+]

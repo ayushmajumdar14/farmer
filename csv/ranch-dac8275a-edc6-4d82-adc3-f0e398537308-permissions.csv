@@ -1,0 +1,2 @@
+RanchName,RanchExternalGuid,UserIsRanchOwner,UserCanEditPlanting,UserCanEditFertilizationEvent,UserCanEditIrrigationEvent,UserCanEditSoilSampleEvent,UserCanEditRanch,UserCanDataExport,HasActivePlantings
+Test Ranch,dac8275a-edc6-4d82-adc3-f0e398537308,False,True,True,True,True,True,True,False

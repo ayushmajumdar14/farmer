@@ -1,0 +1,6 @@
+UserFullName,UserId,Email,Role,IsOwner
+Michael Cahn,94FAC096-0509-4805-BB50-6FF7F893D6AB,mdcahn@ucdavis.edu,Owner,True
+Andy  Hernandez,fe8ee7d9-5930-427a-9d37-98a0f24d94a1,andyboy420019@gmail.com,User,False
+Kyle Delmo,a7005d6f-6268-4c07-88af-d3f97add3617,kyle.delmo@gmail.com,User,False
+Madison Foletta,ce67680f-00b1-4922-b9c2-3fb00d5aca7e,foletta18@gmail.com,User,False
+Paramveer Singh,c4606d0b-03f0-423d-86bb-cff36df1d373,psbsingh@ucanr.edu,User,False

@@ -1,0 +1,139 @@
+Id,Name,CommodityTypes,CommodityId,CommodityName
+3,Planting,,17,Alfalfa
+21,Harvest,,17,Alfalfa
+20,Pre-harvest,,18,Almond
+21,Harvest,,18,Almond
+30,Leaf budbreak,,18,Almond
+31,Hull split,,18,Almond
+32,Bloom,,18,Almond
+33,Post harvest,,18,Almond
+34,midseason,,18,Almond
+1,Pre-irrigation,,36,Artichoke
+3,Planting,,36,Artichoke
+20,Pre-harvest,,36,Artichoke
+21,Harvest,,36,Artichoke
+1,Pre-irrigation,,31,Asian Greens
+3,Planting,,31,Asian Greens
+20,Pre-harvest,,31,Asian Greens
+21,Harvest,,31,Asian Greens
+1,Pre-irrigation,,21,Baby Salad Greens
+3,Planting,,21,Baby Salad Greens
+20,Pre-harvest,,21,Baby Salad Greens
+21,Harvest,,21,Baby Salad Greens
+1,Pre-irrigation,,2,Broccoli
+3,Planting,,2,Broccoli
+20,Pre-harvest,,2,Broccoli
+21,Harvest,,2,Broccoli
+25,Heading,,2,Broccoli
+1,Pre-irrigation,,19,Brussels Sprouts
+3,Planting,,19,Brussels Sprouts
+20,Pre-harvest,,19,Brussels Sprouts
+21,Harvest,,19,Brussels Sprouts
+1,Pre-irrigation,,7,Cabbage
+3,Planting,,7,Cabbage
+20,Pre-harvest,,7,Cabbage
+21,Harvest,,7,Cabbage
+25,Heading,,7,Cabbage
+3,Planting,,12,Caneberry
+21,Harvest,,12,Caneberry
+1,Pre-irrigation,,38,Carrot
+3,Planting,,38,Carrot
+20,Pre-harvest,,38,Carrot
+21,Harvest,,38,Carrot
+1,Pre-irrigation,,5,Cauliflower
+3,Planting,,5,Cauliflower
+20,Pre-harvest,,5,Cauliflower
+21,Harvest,,5,Cauliflower
+25,Heading,,5,Cauliflower
+1,Pre-irrigation,,4,Celery
+3,Planting,,4,Celery
+20,Pre-harvest,,4,Celery
+21,Harvest,,4,Celery
+1,Pre-irrigation,,37,Chicory
+3,Planting,,37,Chicory
+20,Pre-harvest,,37,Chicory
+21,Harvest,,37,Chicory
+24,Rosette,,37,Chicory
+1,Pre-irrigation,,20,Chinese Cabbage
+3,Planting,,20,Chinese Cabbage
+20,Pre-harvest,,20,Chinese Cabbage
+21,Harvest,,20,Chinese Cabbage
+24,Rosette,,20,Chinese Cabbage
+25,Heading,,20,Chinese Cabbage
+1,Pre-irrigation,,8,Cilantro
+3,Planting,,8,Cilantro
+20,Pre-harvest,,8,Cilantro
+21,Harvest,,8,Cilantro
+1,Pre-irrigation,,27,Cucumber
+3,Planting,,27,Cucumber
+20,Pre-harvest,,27,Cucumber
+21,Harvest,,27,Cucumber
+1,Pre-irrigation,,28,Edible Hibiscus
+3,Planting,,28,Edible Hibiscus
+20,Pre-harvest,,28,Edible Hibiscus
+21,Harvest,,28,Edible Hibiscus
+1,Pre-irrigation,,25,Eggplant
+3,Planting,,25,Eggplant
+20,Pre-harvest,,25,Eggplant
+21,Harvest,,25,Eggplant
+1,Pre-irrigation,,1,Lettuce
+3,Planting,,1,Lettuce
+20,Pre-harvest,,1,Lettuce
+21,Harvest,,1,Lettuce
+24,Rosette,,1,Lettuce
+25,Heading,,1,Lettuce
+1,Pre-irrigation,,22,Maize
+3,Planting,,22,Maize
+20,Pre-harvest,,22,Maize
+21,Harvest,,22,Maize
+1,Pre-irrigation,,9,Mizuna
+3,Planting,,9,Mizuna
+20,Pre-harvest,,9,Mizuna
+21,Harvest,,9,Mizuna
+1,Pre-irrigation,,24,Onion
+3,Planting,,24,Onion
+20,Pre-harvest,,24,Onion
+21,Harvest,,24,Onion
+20,Pre-harvest,,35,Pear
+21,Harvest,,35,Pear
+30,Leaf budbreak,,35,Pear
+33,Post harvest,,35,Pear
+1,Pre-irrigation,,10,Peppers
+3,Planting,,10,Peppers
+20,Pre-harvest,,10,Peppers
+21,Harvest,,10,Peppers
+20,Pre-harvest,,32,Pistachio
+21,Harvest,,32,Pistachio
+30,Leaf budbreak,,32,Pistachio
+32,Bloom,,32,Pistachio
+33,Post harvest,,32,Pistachio
+34,midseason,,32,Pistachio
+20,Pre-harvest,,34,Prune
+21,Harvest,,34,Prune
+30,Leaf budbreak,,34,Prune
+33,Post harvest,,34,Prune
+1,Pre-irrigation,,3,Spinach
+3,Planting,,3,Spinach
+20,Pre-harvest,,3,Spinach
+21,Harvest,,3,Spinach
+1,Pre-irrigation,,23,Squash
+3,Planting,,23,Squash
+20,Pre-harvest,,23,Squash
+21,Harvest,,23,Squash
+1,Pre-irrigation,,6,Strawberry
+3,Planting,,6,Strawberry
+21,Harvest,,6,Strawberry
+1,Pre-irrigation,,11,Tomato
+3,Planting,,11,Tomato
+20,Pre-harvest,,11,Tomato
+21,Harvest,,11,Tomato
+20,Pre-harvest,,33,Walnut
+21,Harvest,,33,Walnut
+30,Leaf budbreak,,33,Walnut
+32,Bloom,,33,Walnut
+33,Post harvest,,33,Walnut
+34,midseason,,33,Walnut
+1,Pre-irrigation,,26,Watermelon
+3,Planting,,26,Watermelon
+20,Pre-harvest,,26,Watermelon
+21,Harvest,,26,Watermelon

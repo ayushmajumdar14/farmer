@@ -1,0 +1,11 @@
+[
+    {
+        "Id": 2754,
+        "EventId": 8403534,
+        "WellId": 4293,
+        "Percentage": 100,
+        "Percentage_default": null,
+        "NitrogenPPM": 4.0,
+        "Name": "well 3"
+    }
+]

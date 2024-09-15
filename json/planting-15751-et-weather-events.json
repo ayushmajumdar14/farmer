@@ -1,0 +1,31 @@
+[
+    {
+        "ETEvents_0_Id": 8446939,
+        "ETEvents_0_EventDate": "2024-08-05T00:00:00",
+        "ETEvents_0_ET": 0.13,
+        "ETEvents_0_Source": "Historical ET",
+        "ETEvents_1_Id": 8446937,
+        "ETEvents_1_EventDate": "2024-08-04T00:00:00",
+        "ETEvents_1_ET": 0.12,
+        "ETEvents_1_Source": "Historical ET",
+        "ETEvents_2_Id": 8446935,
+        "ETEvents_2_EventDate": "2024-08-03T00:00:00",
+        "ETEvents_2_ET": 0.13,
+        "ETEvents_2_Source": "Historical ET",
+        "ETFromStations_0_StationName": "Salinas North",
+        "ETFromStations_0_StationPriority": 1,
+        "ETFromStations_0_WeatherEvents_0_EventDate": "2024-08-03T00:00:00",
+        "ETFromStations_0_WeatherEvents_0_RainfallAmount": 0.0,
+        "ETFromStations_0_WeatherEvents_0_ET": 0.0,
+        "ETFromStations_0_WeatherEvents_0_Source": null,
+        "ETFromStations_0_WeatherEvents_1_EventDate": "2024-08-04T00:00:00",
+        "ETFromStations_0_WeatherEvents_1_RainfallAmount": 0.0,
+        "ETFromStations_0_WeatherEvents_1_ET": 0.0,
+        "ETFromStations_0_WeatherEvents_1_Source": null,
+        "ETFromStations_0_WeatherEvents_2_EventDate": "2024-08-05T00:00:00",
+        "ETFromStations_0_WeatherEvents_2_RainfallAmount": 0.0,
+        "ETFromStations_0_WeatherEvents_2_ET": 0.0,
+        "ETFromStations_0_WeatherEvents_2_Source": null,
+        "ETFromSpatial": null
+    }
+]

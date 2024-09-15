@@ -1,0 +1,18 @@
+{
+    "Well": {
+        "Id": 4293,
+        "RanchId": 4482,
+        "Name": "well 3",
+        "ElectricalConductivity": 1.2,
+        "NitrogenPPM": 4.0,
+        "CreatedDT": "2024-06-24T16:13:58.823",
+        "LastUpdateDT": "2024-06-24T16:13:58.823",
+        "Deleted": false
+    },
+    "Id": 2754,
+    "EventId": 8403534,
+    "WellId": 4293,
+    "Percentage": 100,
+    "Percentage_default": null,
+    "NitrogenPPM": 4.0
+}

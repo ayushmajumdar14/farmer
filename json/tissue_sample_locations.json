@@ -1,0 +1,26 @@
+[
+    {
+        "Id": 1,
+        "Name": "Above Ground Biomass",
+        "ExternalID": 1,
+        "DisplayOrder": 1
+    },
+    {
+        "Id": 3,
+        "Name": "Petiole",
+        "ExternalID": 3,
+        "DisplayOrder": 2
+    },
+    {
+        "Id": 2,
+        "Name": "Whole Leaf",
+        "ExternalID": 2,
+        "DisplayOrder": 3
+    },
+    {
+        "Id": 4,
+        "Name": "Other",
+        "ExternalID": 4,
+        "DisplayOrder": 4
+    }
+]

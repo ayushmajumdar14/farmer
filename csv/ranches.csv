@@ -1,0 +1,6 @@
+Id,Ranch_External_GUID,Name,ActivePlantings,UserIsRanchOwner,UserCanEditRanch,UserCanEditPlanting,UserCanExportData,CreatedByUserId,CreatedByFullName,RanchOwnerId,RanchOwnerFullName
+4476,6082899a-612c-4426-b5ce-31b55c740239,Dressing,2,True,True,True,True,a7005d6f-6268-4c07-88af-d3f97add3617,Kyle Delmo,a7005d6f-6268-4c07-88af-d3f97add3617,Kyle Delmo
+4510,31e52c98-b512-445f-acd8-ae240da113e0,Kyle's Ranch,0,True,True,True,True,a7005d6f-6268-4c07-88af-d3f97add3617,Kyle Delmo,a7005d6f-6268-4c07-88af-d3f97add3617,Kyle Delmo
+4505,02a9ba6b-19db-4417-923f-3de38a1ad98b,My Ranch 1,1,False,False,True,True,c08bcfa1-f14f-43c5-b769-ec6a8a0533c2,Eel Cee,c08bcfa1-f14f-43c5-b769-ec6a8a0533c2,Eel Cee
+4504,dac8275a-edc6-4d82-adc3-f0e398537308,Test Ranch,4,False,True,True,True,fe8ee7d9-5930-427a-9d37-98a0f24d94a1,Andy  Hernandez,fe8ee7d9-5930-427a-9d37-98a0f24d94a1,Andy  Hernandez
+4482,3bbf23cc-8c3b-4bbd-8442-cabcebe7713b,UCCE 6,1,False,True,True,False,94FAC096-0509-4805-BB50-6FF7F893D6AB,Michael Cahn,94FAC096-0509-4805-BB50-6FF7F893D6AB,Michael Cahn

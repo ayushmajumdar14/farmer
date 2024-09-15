@@ -1,0 +1,16 @@
+[
+    {
+        "RanchName": "UCCE 6",
+        "Acres": 50.0,
+        "Coordinates": "36.268816,-121.190645",
+        "RanchOwner": "94FAC096-0509-4805-BB50-6FF7F893D6AB",
+        "RanchOwnerFullName": "Michael Cahn",
+        "RanchOwnerEmail": "mdcahn@ucdavis.edu",
+        "UseSpatialCIMIS": false,
+        "UseCIMISAverageMode": false,
+        "SpatialETAvailable": true,
+        "WeatherAPI_Id": 1,
+        "Id": 4482,
+        "Ranch_External_GUID": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b"
+    }
+]

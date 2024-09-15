@@ -1,0 +1,2 @@
+RanchName,Acres,Coordinates,RanchOwner,RanchOwnerFullName,RanchOwnerEmail,UseSpatialCIMIS,UseCIMISAverageMode,SpatialETAvailable,WeatherAPI_Id,Id,Ranch_External_GUID
+Dressing,5.0,"37.559377,-122.248692",a7005d6f-6268-4c07-88af-d3f97add3617,Kyle Delmo,kyle.delmo@gmail.com,False,False,True,1,4476,6082899a-612c-4426-b5ce-31b55c740239

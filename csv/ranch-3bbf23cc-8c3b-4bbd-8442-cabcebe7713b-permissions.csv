@@ -1,0 +1,2 @@
+RanchName,RanchExternalGuid,UserIsRanchOwner,UserCanEditPlanting,UserCanEditFertilizationEvent,UserCanEditIrrigationEvent,UserCanEditSoilSampleEvent,UserCanEditRanch,UserCanDataExport,HasActivePlantings
+UCCE 6,3bbf23cc-8c3b-4bbd-8442-cabcebe7713b,False,True,True,True,True,True,False,False

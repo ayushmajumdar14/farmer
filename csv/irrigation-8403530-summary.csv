@@ -1,0 +1,2 @@
+RecommendedIrrigationAmount,RecommendedIrrigationTime,RecommendedIrrigationInterval,AvailableWater,AverageCropET,AverageRainfall,SumET,ETEvents,ValidRainEventsCount,CropCoefficientSum,LeechingFactor,Distribution,TotalPrecipitation,CIMISRainfall,DaysSinceLastIrrigation,applicationRate,BaseIrrigationAmount,AverageCropCoefficient,LastIrrigationEventDate,WetArea,HasRecentCutEvents,HasRecentIrrigationEvent,CropSensitivity,IsImpactedByMacroTunnel
+0.0,0.0,1.2909570042790661,0.27455428088505035,0.212675,-1.0,0.0,,,0.0,,0.0,0.0,,0.0,0.0,0.0,0.0,0001-01-01T00:00:00,1.0,,,,

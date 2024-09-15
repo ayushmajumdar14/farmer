@@ -1,0 +1,12 @@
+[
+    {
+        "Id": 4309,
+        "RanchId": 4505,
+        "Name": "wells",
+        "ElectricalConductivity": 10.0,
+        "NitrogenPPM": 10.0,
+        "CreatedDT": "2024-07-19T18:24:25.057",
+        "LastUpdateDT": "2024-07-19T18:24:25.057",
+        "Deleted": false
+    }
+]

@@ -1,0 +1,864 @@
+Color_Id,Color_Name,Manufacturer_Id,Manufacturer_Name,Series_Id,Series_Name,Id,ManufacturerId,SeriesId,ColorId,OrificeDiameter,Pressure,ApplicationRate
+2,black,1,Bowsmith,16,Fan-Jet 30,22,1,16,2,0.0,10,4.4
+2,black,1,Bowsmith,16,Fan-Jet 30,23,1,16,2,0.0,15,5.2
+2,black,1,Bowsmith,16,Fan-Jet 30,24,1,16,2,0.0,20,6.0
+2,black,1,Bowsmith,16,Fan-Jet 30,25,1,16,2,0.0,25,6.7
+2,black,1,Bowsmith,16,Fan-Jet 30,26,1,16,2,0.0,30,7.4
+3,orange,1,Bowsmith,17,Fan-Jet 35,27,1,17,3,0.0,10,5.9
+3,orange,1,Bowsmith,17,Fan-Jet 35,28,1,17,3,0.0,15,7.3
+3,orange,1,Bowsmith,17,Fan-Jet 35,29,1,17,3,0.0,20,8.4
+3,orange,1,Bowsmith,17,Fan-Jet 35,30,1,17,3,0.0,25,9.4
+3,orange,1,Bowsmith,17,Fan-Jet 35,31,1,17,3,0.0,30,10.3
+4,blue,1,Bowsmith,18,Fan-Jet 40,32,1,18,4,0.0,10,7.5
+4,blue,1,Bowsmith,18,Fan-Jet 40,33,1,18,4,0.0,15,9.3
+4,blue,1,Bowsmith,18,Fan-Jet 40,34,1,18,4,0.0,20,10.7
+4,blue,1,Bowsmith,18,Fan-Jet 40,35,1,18,4,0.0,25,12.0
+4,blue,1,Bowsmith,18,Fan-Jet 40,36,1,18,4,0.0,30,13.1
+6,violet,1,Bowsmith,19,Fan-Jet 45,37,1,19,6,0.0,10,10.0
+6,violet,1,Bowsmith,19,Fan-Jet 45,38,1,19,6,0.0,15,12.2
+6,violet,1,Bowsmith,19,Fan-Jet 45,39,1,19,6,0.0,20,14.1
+6,violet,1,Bowsmith,19,Fan-Jet 45,40,1,19,6,0.0,25,15.8
+6,violet,1,Bowsmith,19,Fan-Jet 45,41,1,19,6,0.0,30,17.3
+7,green,1,Bowsmith,20,Fan-Jet 50,42,1,20,7,0.0,10,11.8
+7,green,1,Bowsmith,20,Fan-Jet 50,43,1,20,7,0.0,15,14.4
+7,green,1,Bowsmith,20,Fan-Jet 50,44,1,20,7,0.0,20,16.7
+7,green,1,Bowsmith,20,Fan-Jet 50,45,1,20,7,0.0,25,18.6
+7,green,1,Bowsmith,20,Fan-Jet 50,46,1,20,7,0.0,30,20.4
+15,yellow,1,Bowsmith,21,Fan-Jet 55,47,1,21,15,0.0,10,13.7
+15,yellow,1,Bowsmith,21,Fan-Jet 55,48,1,21,15,0.0,15,17.8
+15,yellow,1,Bowsmith,21,Fan-Jet 55,49,1,21,15,0.0,20,20.5
+15,yellow,1,Bowsmith,21,Fan-Jet 55,50,1,21,15,0.0,25,22.9
+15,yellow,1,Bowsmith,21,Fan-Jet 55,51,1,21,15,0.0,30,25.1
+16,red,1,Bowsmith,22,Fan-Jet 60,52,1,22,16,0.0,10,17.0
+16,red,1,Bowsmith,22,Fan-Jet 60,53,1,22,16,0.0,15,20.8
+16,red,1,Bowsmith,22,Fan-Jet 60,54,1,22,16,0.0,20,24.0
+16,red,1,Bowsmith,22,Fan-Jet 60,55,1,22,16,0.0,25,26.8
+16,red,1,Bowsmith,22,Fan-Jet 60,56,1,22,16,0.0,30,29.4
+4,blue,1,Bowsmith,4,Fan-Jet PC PC-10,4,1,4,4,0.0,up to 50,10.0
+5,gray,1,Bowsmith,5,Fan-Jet PC PC-12,5,1,5,5,0.0,up to 50,12.0
+6,violet,1,Bowsmith,6,Fan-Jet PC PC-14,6,1,6,6,0.0,up to 50,14.0
+7,green,1,Bowsmith,7,Fan-Jet PC PC-18,7,1,7,7,0.0,up to 50,18.0
+1,brown,1,Bowsmith,1,Fan-Jet PC PC-4,1,1,1,1,0.0,up to 50,4.0
+2,black,1,Bowsmith,2,Fan-Jet PC PC-6,2,1,2,2,0.0,up to 50,6.0
+3,orange,1,Bowsmith,3,Fan-Jet PC PC-8,3,1,3,3,0.0,up to 50,8.0
+4,blue,1,Bowsmith,11,Fan-Jet PCND PCND-10,11,1,11,4,0.0,up to 50,10.0
+5,gray,1,Bowsmith,12,Fan-Jet PCND PCND-12,12,1,12,5,0.0,up to 50,12.0
+6,violet,1,Bowsmith,13,Fan-Jet PCND PCND-14,13,1,13,6,0.0,up to 50,14.0
+7,green,1,Bowsmith,14,Fan-Jet PCND PCND-18,14,1,14,7,0.0,up to 50,18.0
+1,brown,1,Bowsmith,8,Fan-Jet PCND PCND-4,8,1,8,1,0.0,up to 50,4.0
+2,black,1,Bowsmith,9,Fan-Jet PCND PCND-6,9,1,9,2,0.0,up to 50,6.0
+3,orange,1,Bowsmith,10,Fan-Jet PCND PCND-8,10,1,10,3,0.0,up to 50,8.0
+8,#30 black,1,Bowsmith,15,Fan-Jet Plus ,15,1,15,8,0.0,20,6.0
+9,#35 orange,1,Bowsmith,15,Fan-Jet Plus ,16,1,15,9,0.0,20,8.4
+10,#40 blue,1,Bowsmith,15,Fan-Jet Plus ,17,1,15,10,0.0,20,10.7
+11,#45 violet,1,Bowsmith,15,Fan-Jet Plus ,18,1,15,11,0.0,20,14.2
+12,#50 green,1,Bowsmith,15,Fan-Jet Plus ,19,1,15,12,0.0,20,16.7
+13,#55 yellow,1,Bowsmith,15,Fan-Jet Plus ,20,1,15,13,0.0,20,20.5
+14,#60 red,1,Bowsmith,15,Fan-Jet Plus ,21,1,15,14,0.0,20,24.0
+19,black xl,3,Jain,25,2002 AquaSmart Product ,140,3,25,19,0.0,25,10.1
+19,black xl,3,Jain,25,2002 AquaSmart Product ,141,3,25,19,0.0,30,10.7
+19,black xl,3,Jain,25,2002 AquaSmart Product ,142,3,25,19,0.0,35,9.9
+19,black xl,3,Jain,25,2002 AquaSmart Product ,143,3,25,19,0.0,40,9.9
+19,black xl,3,Jain,25,2002 AquaSmart Product ,144,3,25,19,0.0,45,10.0
+19,black xl,3,Jain,25,2002 AquaSmart Product ,145,3,25,19,0.0,50,10.4
+19,black xl,3,Jain,25,2002 AquaSmart Product ,146,3,25,19,0.0,55,10.5
+19,black xl,3,Jain,25,2002 AquaSmart Product ,147,3,25,19,0.0,60,10.7
+4,blue,3,Jain,25,2002 AquaSmart Product ,96,3,25,4,0.0,20,12.5
+4,blue,3,Jain,25,2002 AquaSmart Product ,97,3,25,4,0.0,25,12.2
+4,blue,3,Jain,25,2002 AquaSmart Product ,98,3,25,4,0.0,30,12.4
+4,blue,3,Jain,25,2002 AquaSmart Product ,99,3,25,4,0.0,35,12.4
+4,blue,3,Jain,25,2002 AquaSmart Product ,100,3,25,4,0.0,40,12.3
+4,blue,3,Jain,25,2002 AquaSmart Product ,101,3,25,4,0.0,45,12.3
+4,blue,3,Jain,25,2002 AquaSmart Product ,102,3,25,4,0.0,50,12.3
+4,blue,3,Jain,25,2002 AquaSmart Product ,103,3,25,4,0.0,55,12.2
+4,blue,3,Jain,25,2002 AquaSmart Product ,104,3,25,4,0.0,60,12.2
+1,brown,3,Jain,25,2002 AquaSmart Product ,87,3,25,1,0.0,20,9.1
+1,brown,3,Jain,25,2002 AquaSmart Product ,88,3,25,1,0.0,25,9.3
+1,brown,3,Jain,25,2002 AquaSmart Product ,89,3,25,1,0.0,30,9.2
+1,brown,3,Jain,25,2002 AquaSmart Product ,90,3,25,1,0.0,35,9.1
+1,brown,3,Jain,25,2002 AquaSmart Product ,91,3,25,1,0.0,40,9.1
+1,brown,3,Jain,25,2002 AquaSmart Product ,92,3,25,1,0.0,45,9.1
+1,brown,3,Jain,25,2002 AquaSmart Product ,93,3,25,1,0.0,50,9.1
+1,brown,3,Jain,25,2002 AquaSmart Product ,94,3,25,1,0.0,55,9.1
+1,brown,3,Jain,25,2002 AquaSmart Product ,95,3,25,1,0.0,60,9.1
+5,gray,3,Jain,25,2002 AquaSmart Product ,78,3,25,5,0.0,20,7.4
+5,gray,3,Jain,25,2002 AquaSmart Product ,79,3,25,5,0.0,25,7.4
+5,gray,3,Jain,25,2002 AquaSmart Product ,80,3,25,5,0.0,30,7.4
+5,gray,3,Jain,25,2002 AquaSmart Product ,81,3,25,5,0.0,35,7.4
+5,gray,3,Jain,25,2002 AquaSmart Product ,82,3,25,5,0.0,40,7.5
+5,gray,3,Jain,25,2002 AquaSmart Product ,83,3,25,5,0.0,45,7.5
+5,gray,3,Jain,25,2002 AquaSmart Product ,84,3,25,5,0.0,50,7.5
+5,gray,3,Jain,25,2002 AquaSmart Product ,85,3,25,5,0.0,55,7.5
+5,gray,3,Jain,25,2002 AquaSmart Product ,86,3,25,5,0.0,60,7.4
+7,green,3,Jain,25,2002 AquaSmart Product ,105,3,25,7,0.0,20,14.7
+7,green,3,Jain,25,2002 AquaSmart Product ,106,3,25,7,0.0,25,14.5
+7,green,3,Jain,25,2002 AquaSmart Product ,107,3,25,7,0.0,30,14.5
+7,green,3,Jain,25,2002 AquaSmart Product ,108,3,25,7,0.0,35,14.6
+7,green,3,Jain,25,2002 AquaSmart Product ,109,3,25,7,0.0,40,14.8
+7,green,3,Jain,25,2002 AquaSmart Product ,110,3,25,7,0.0,45,15.0
+7,green,3,Jain,25,2002 AquaSmart Product ,111,3,25,7,0.0,50,15.1
+7,green,3,Jain,25,2002 AquaSmart Product ,112,3,25,7,0.0,55,15.1
+7,green,3,Jain,25,2002 AquaSmart Product ,113,3,25,7,0.0,60,15.0
+20,ivory xl,3,Jain,25,2002 AquaSmart Product ,148,3,25,20,0.0,25,12.2
+20,ivory xl,3,Jain,25,2002 AquaSmart Product ,149,3,25,20,0.0,30,12.4
+20,ivory xl,3,Jain,25,2002 AquaSmart Product ,150,3,25,20,0.0,35,12.0
+20,ivory xl,3,Jain,25,2002 AquaSmart Product ,151,3,25,20,0.0,40,12.3
+20,ivory xl,3,Jain,25,2002 AquaSmart Product ,152,3,25,20,0.0,45,12.6
+20,ivory xl,3,Jain,25,2002 AquaSmart Product ,153,3,25,20,0.0,50,13.0
+20,ivory xl,3,Jain,25,2002 AquaSmart Product ,154,3,25,20,0.0,55,13.0
+20,ivory xl,3,Jain,25,2002 AquaSmart Product ,155,3,25,20,0.0,60,13.1
+3,orange,3,Jain,25,2002 AquaSmart Product ,114,3,25,3,0.0,20,19.1
+3,orange,3,Jain,25,2002 AquaSmart Product ,115,3,25,3,0.0,25,18.9
+3,orange,3,Jain,25,2002 AquaSmart Product ,116,3,25,3,0.0,30,18.4
+3,orange,3,Jain,25,2002 AquaSmart Product ,117,3,25,3,0.0,35,18.5
+3,orange,3,Jain,25,2002 AquaSmart Product ,118,3,25,3,0.0,40,18.6
+3,orange,3,Jain,25,2002 AquaSmart Product ,119,3,25,3,0.0,45,18.7
+3,orange,3,Jain,25,2002 AquaSmart Product ,120,3,25,3,0.0,50,18.7
+3,orange,3,Jain,25,2002 AquaSmart Product ,121,3,25,3,0.0,55,18.6
+3,orange,3,Jain,25,2002 AquaSmart Product ,122,3,25,3,0.0,60,18.5
+18,red xl,3,Jain,25,2002 AquaSmart Product ,132,3,25,18,0.0,25,8.6
+18,red xl,3,Jain,25,2002 AquaSmart Product ,133,3,25,18,0.0,30,9.0
+18,red xl,3,Jain,25,2002 AquaSmart Product ,134,3,25,18,0.0,35,8.8
+18,red xl,3,Jain,25,2002 AquaSmart Product ,135,3,25,18,0.0,40,8.8
+18,red xl,3,Jain,25,2002 AquaSmart Product ,136,3,25,18,0.0,45,8.7
+18,red xl,3,Jain,25,2002 AquaSmart Product ,137,3,25,18,0.0,50,8.8
+18,red xl,3,Jain,25,2002 AquaSmart Product ,138,3,25,18,0.0,55,8.9
+18,red xl,3,Jain,25,2002 AquaSmart Product ,139,3,25,18,0.0,60,8.9
+6,violet,3,Jain,25,2002 AquaSmart Product ,69,3,25,6,0.0,20,5.2
+6,violet,3,Jain,25,2002 AquaSmart Product ,70,3,25,6,0.0,25,5.2
+6,violet,3,Jain,25,2002 AquaSmart Product ,71,3,25,6,0.0,30,5.3
+6,violet,3,Jain,25,2002 AquaSmart Product ,72,3,25,6,0.0,35,5.4
+6,violet,3,Jain,25,2002 AquaSmart Product ,73,3,25,6,0.0,40,5.5
+6,violet,3,Jain,25,2002 AquaSmart Product ,74,3,25,6,0.0,45,5.5
+6,violet,3,Jain,25,2002 AquaSmart Product ,75,3,25,6,0.0,50,5.6
+6,violet,3,Jain,25,2002 AquaSmart Product ,76,3,25,6,0.0,55,5.5
+6,violet,3,Jain,25,2002 AquaSmart Product ,77,3,25,6,0.0,60,5.5
+15,yellow,3,Jain,25,2002 AquaSmart Product ,123,3,25,15,0.0,20,25.3
+15,yellow,3,Jain,25,2002 AquaSmart Product ,124,3,25,15,0.0,25,25.0
+15,yellow,3,Jain,25,2002 AquaSmart Product ,125,3,25,15,0.0,30,25.0
+15,yellow,3,Jain,25,2002 AquaSmart Product ,126,3,25,15,0.0,35,25.0
+15,yellow,3,Jain,25,2002 AquaSmart Product ,127,3,25,15,0.0,40,25.1
+15,yellow,3,Jain,25,2002 AquaSmart Product ,128,3,25,15,0.0,45,25.3
+15,yellow,3,Jain,25,2002 AquaSmart Product ,129,3,25,15,0.0,50,25.1
+15,yellow,3,Jain,25,2002 AquaSmart Product ,130,3,25,15,0.0,55,25.0
+15,yellow,3,Jain,25,2002 AquaSmart Product ,131,3,25,15,0.0,60,25.0
+2,black,3,Jain,26,2005 AquaMaster Product ,186,3,26,2,0.0,20,34.8
+2,black,3,Jain,26,2005 AquaMaster Product ,187,3,26,2,0.0,25,39.3
+2,black,3,Jain,26,2005 AquaMaster Product ,188,3,26,2,0.0,30,44.4
+2,black,3,Jain,26,2005 AquaMaster Product ,189,3,26,2,0.0,35,47.3
+2,black,3,Jain,26,2005 AquaMaster Product ,190,3,26,2,0.0,40,49.5
+2,black,3,Jain,26,2005 AquaMaster Product ,191,3,26,2,0.0,45,52.6
+4,blue,3,Jain,26,2005 AquaMaster Product ,192,3,26,4,0.0,20,43.5
+4,blue,3,Jain,26,2005 AquaMaster Product ,193,3,26,4,0.0,25,49.2
+4,blue,3,Jain,26,2005 AquaMaster Product ,194,3,26,4,0.0,30,55.5
+4,blue,3,Jain,26,2005 AquaMaster Product ,195,3,26,4,0.0,35,56.1
+4,blue,3,Jain,26,2005 AquaMaster Product ,196,3,26,4,0.0,40,61.8
+4,blue,3,Jain,26,2005 AquaMaster Product ,197,3,26,4,0.0,45,65.8
+1,brown,3,Jain,26,2005 AquaMaster Product ,162,3,26,1,0.0,20,10.9
+1,brown,3,Jain,26,2005 AquaMaster Product ,163,3,26,1,0.0,25,12.3
+1,brown,3,Jain,26,2005 AquaMaster Product ,164,3,26,1,0.0,30,13.9
+1,brown,3,Jain,26,2005 AquaMaster Product ,165,3,26,1,0.0,35,14.8
+1,brown,3,Jain,26,2005 AquaMaster Product ,166,3,26,1,0.0,40,15.5
+1,brown,3,Jain,26,2005 AquaMaster Product ,167,3,26,1,0.0,45,16.4
+5,gray,3,Jain,26,2005 AquaMaster Product ,168,3,26,5,0.0,20,15.2
+5,gray,3,Jain,26,2005 AquaMaster Product ,169,3,26,5,0.0,25,17.2
+5,gray,3,Jain,26,2005 AquaMaster Product ,170,3,26,5,0.0,30,19.4
+5,gray,3,Jain,26,2005 AquaMaster Product ,171,3,26,5,0.0,35,20.7
+5,gray,3,Jain,26,2005 AquaMaster Product ,172,3,26,5,0.0,40,21.6
+5,gray,3,Jain,26,2005 AquaMaster Product ,173,3,26,5,0.0,45,23.0
+7,green,3,Jain,26,2005 AquaMaster Product ,174,3,26,7,0.0,20,22.8
+7,green,3,Jain,26,2005 AquaMaster Product ,175,3,26,7,0.0,25,25.8
+7,green,3,Jain,26,2005 AquaMaster Product ,176,3,26,7,0.0,30,29.1
+7,green,3,Jain,26,2005 AquaMaster Product ,177,3,26,7,0.0,35,31.0
+7,green,3,Jain,26,2005 AquaMaster Product ,178,3,26,7,0.0,40,32.5
+7,green,3,Jain,26,2005 AquaMaster Product ,179,3,26,7,0.0,45,34.5
+3,orange,3,Jain,26,2005 AquaMaster Product ,180,3,26,3,0.0,20,26.1
+3,orange,3,Jain,26,2005 AquaMaster Product ,181,3,26,3,0.0,25,29.5
+3,orange,3,Jain,26,2005 AquaMaster Product ,182,3,26,3,0.0,30,33.3
+3,orange,3,Jain,26,2005 AquaMaster Product ,183,3,26,3,0.0,35,35.4
+3,orange,3,Jain,26,2005 AquaMaster Product ,184,3,26,3,0.0,40,37.1
+3,orange,3,Jain,26,2005 AquaMaster Product ,185,3,26,3,0.0,45,39.5
+16,red,3,Jain,26,2005 AquaMaster Product ,204,3,26,16,0.0,20,65.2
+16,red,3,Jain,26,2005 AquaMaster Product ,205,3,26,16,0.0,25,73.8
+16,red,3,Jain,26,2005 AquaMaster Product ,206,3,26,16,0.0,30,83.2
+16,red,3,Jain,26,2005 AquaMaster Product ,207,3,26,16,0.0,35,88.6
+16,red,3,Jain,26,2005 AquaMaster Product ,208,3,26,16,0.0,40,92.7
+16,red,3,Jain,26,2005 AquaMaster Product ,209,3,26,16,0.0,45,98.7
+6,violet,3,Jain,26,2005 AquaMaster Product ,156,3,26,6,0.0,20,7.6
+6,violet,3,Jain,26,2005 AquaMaster Product ,157,3,26,6,0.0,25,8.6
+6,violet,3,Jain,26,2005 AquaMaster Product ,158,3,26,6,0.0,30,9.7
+6,violet,3,Jain,26,2005 AquaMaster Product ,159,3,26,6,0.0,35,10.3
+6,violet,3,Jain,26,2005 AquaMaster Product ,160,3,26,6,0.0,40,10.8
+6,violet,3,Jain,26,2005 AquaMaster Product ,161,3,26,6,0.0,45,11.5
+15,yellow,3,Jain,26,2005 AquaMaster Product ,198,3,26,15,0.0,20,54.4
+15,yellow,3,Jain,26,2005 AquaMaster Product ,199,3,26,15,0.0,25,61.5
+15,yellow,3,Jain,26,2005 AquaMaster Product ,200,3,26,15,0.0,30,69.4
+15,yellow,3,Jain,26,2005 AquaMaster Product ,201,3,26,15,0.0,35,73.8
+15,yellow,3,Jain,26,2005 AquaMaster Product ,202,3,26,15,0.0,40,77.3
+15,yellow,3,Jain,26,2005 AquaMaster Product ,203,3,26,15,0.0,45,82.2
+8,#30 black,3,Jain,27,Jet ,210,3,27,8,0.0,10,4.4
+8,#30 black,3,Jain,27,Jet ,211,3,27,8,0.0,15,5.2
+8,#30 black,3,Jain,27,Jet ,212,3,27,8,0.0,20,6.0
+8,#30 black,3,Jain,27,Jet ,213,3,27,8,0.0,25,6.7
+8,#30 black,3,Jain,27,Jet ,214,3,27,8,0.0,30,7.4
+9,#35 orange,3,Jain,27,Jet ,215,3,27,9,0.0,10,5.9
+9,#35 orange,3,Jain,27,Jet ,216,3,27,9,0.0,15,7.3
+9,#35 orange,3,Jain,27,Jet ,217,3,27,9,0.0,20,8.4
+9,#35 orange,3,Jain,27,Jet ,218,3,27,9,0.0,25,9.4
+9,#35 orange,3,Jain,27,Jet ,219,3,27,9,0.0,30,10.3
+10,#40 blue,3,Jain,27,Jet ,220,3,27,10,0.0,10,7.5
+10,#40 blue,3,Jain,27,Jet ,221,3,27,10,0.0,15,9.3
+10,#40 blue,3,Jain,27,Jet ,222,3,27,10,0.0,20,10.7
+10,#40 blue,3,Jain,27,Jet ,223,3,27,10,0.0,25,12.0
+10,#40 blue,3,Jain,27,Jet ,224,3,27,10,0.0,30,13.1
+11,#45 violet,3,Jain,27,Jet ,225,3,27,11,0.0,10,10.0
+11,#45 violet,3,Jain,27,Jet ,226,3,27,11,0.0,15,12.2
+11,#45 violet,3,Jain,27,Jet ,227,3,27,11,0.0,20,14.1
+11,#45 violet,3,Jain,27,Jet ,228,3,27,11,0.0,25,15.8
+11,#45 violet,3,Jain,27,Jet ,229,3,27,11,0.0,30,17.3
+12,#50 green,3,Jain,27,Jet ,230,3,27,12,0.0,10,11.8
+12,#50 green,3,Jain,27,Jet ,231,3,27,12,0.0,15,14.4
+12,#50 green,3,Jain,27,Jet ,232,3,27,12,0.0,20,16.7
+12,#50 green,3,Jain,27,Jet ,233,3,27,12,0.0,25,18.6
+12,#50 green,3,Jain,27,Jet ,234,3,27,12,0.0,30,20.4
+13,#55 yellow,3,Jain,27,Jet ,235,3,27,13,0.0,10,13.7
+13,#55 yellow,3,Jain,27,Jet ,236,3,27,13,0.0,15,17.8
+13,#55 yellow,3,Jain,27,Jet ,237,3,27,13,0.0,20,20.5
+13,#55 yellow,3,Jain,27,Jet ,238,3,27,13,0.0,25,22.9
+13,#55 yellow,3,Jain,27,Jet ,239,3,27,13,0.0,30,25.1
+14,#60 red,3,Jain,27,Jet ,240,3,27,14,0.0,10,17.0
+14,#60 red,3,Jain,27,Jet ,241,3,27,14,0.0,15,20.8
+14,#60 red,3,Jain,27,Jet ,242,3,27,14,0.0,20,24.0
+14,#60 red,3,Jain,27,Jet ,243,3,27,14,0.0,25,26.8
+14,#60 red,3,Jain,27,Jet ,244,3,27,14,0.0,30,29.4
+2,black,3,Jain,28,Modular Group (7000-8000 Series) ,253,3,28,2,0.0,29,79.3
+4,blue,3,Jain,28,Modular Group (7000-8000 Series) ,249,3,28,4,0.0,29,52.8
+1,brown,3,Jain,28,Modular Group (7000-8000 Series) ,245,3,28,1,0.0,29,11.4
+7,green,3,Jain,28,Modular Group (7000-8000 Series) ,247,3,28,7,0.0,29,27.7
+22,grey,3,Jain,28,Modular Group (7000-8000 Series) ,254,3,28,22,0.0,29,18.5
+21,ivory,3,Jain,28,Modular Group (7000-8000 Series) ,246,3,28,21,0.0,29,62.1
+3,orange,3,Jain,28,Modular Group (7000-8000 Series) ,248,3,28,3,0.0,29,31.7
+16,red,3,Jain,28,Modular Group (7000-8000 Series) ,252,3,28,16,0.0,29,68.7
+6,violet,3,Jain,28,Modular Group (7000-8000 Series) ,250,3,28,6,0.0,29,9.2
+15,yellow,3,Jain,28,Modular Group (7000-8000 Series) ,251,3,28,15,0.0,29,42.3
+2,black,3,Jain,23,Smart Jet ,57,3,23,2,0.0,20,5.9
+4,blue,3,Jain,23,Smart Jet ,59,3,23,4,0.0,20,10.7
+7,green,3,Jain,23,Smart Jet ,61,3,23,7,0.0,20,17.1
+3,orange,3,Jain,23,Smart Jet ,58,3,23,3,0.0,20,8.8
+16,red,3,Jain,23,Smart Jet ,63,3,23,16,0.0,20,24.3
+6,violet,3,Jain,23,Smart Jet ,60,3,23,6,0.0,20,14.6
+15,yellow,3,Jain,23,Smart Jet ,62,3,23,15,0.0,20,21.4
+2,black,3,Jain,24,Smart Jet PC ,64,3,24,2,0.0,20,5.0
+4,blue,3,Jain,24,Smart Jet PC ,66,3,24,4,0.0,20,9.2
+7,green,3,Jain,24,Smart Jet PC ,68,3,24,7,0.0,20,14.5
+3,orange,3,Jain,24,Smart Jet PC ,65,3,24,3,0.0,20,7.4
+6,violet,3,Jain,24,Smart Jet PC ,67,3,24,6,0.0,20,12.1
+30,Dk. Green #50,4,Nelson,32,R10 P2,323,4,32,30,0.0,25,21.6
+30,Dk. Green #50,4,Nelson,32,R10 P2,324,4,32,30,0.0,30,23.4
+30,Dk. Green #50,4,Nelson,32,R10 P2,325,4,32,30,0.0,35,25.8
+30,Dk. Green #50,4,Nelson,32,R10 P2,326,4,32,30,0.0,40,27.6
+30,Dk. Green #50,4,Nelson,32,R10 P2,327,4,32,30,0.0,45,28.8
+30,Dk. Green #50,4,Nelson,32,R10 P2,328,4,32,30,0.0,50,30.6
+28,Lt. Blue #40,4,Nelson,32,R10 P2,313,4,32,28,0.0,35,16.8
+28,Lt. Blue #40,4,Nelson,32,R10 P2,314,4,32,28,0.0,40,18.0
+28,Lt. Blue #40,4,Nelson,32,R10 P2,315,4,32,28,0.0,45,19.2
+28,Lt. Blue #40,4,Nelson,32,R10 P2,316,4,32,28,0.0,50,20.4
+29,Lt. Purple #45,4,Nelson,32,R10 P2,317,4,32,29,0.0,25,17.4
+29,Lt. Purple #45,4,Nelson,32,R10 P2,318,4,32,29,0.0,30,19.2
+29,Lt. Purple #45,4,Nelson,32,R10 P2,319,4,32,29,0.0,35,21.0
+29,Lt. Purple #45,4,Nelson,32,R10 P2,320,4,32,29,0.0,40,22.2
+29,Lt. Purple #45,4,Nelson,32,R10 P2,321,4,32,29,0.0,45,23.4
+29,Lt. Purple #45,4,Nelson,32,R10 P2,322,4,32,29,0.0,50,25.2
+30,Dk. Green #50,4,Nelson,33,R10 P4,329,4,33,30,0.0,35,25.8
+30,Dk. Green #50,4,Nelson,33,R10 P4,330,4,33,30,0.0,40,27.6
+30,Dk. Green #50,4,Nelson,33,R10 P4,331,4,33,30,0.0,45,28.8
+30,Dk. Green #50,4,Nelson,33,R10 P4,332,4,33,30,0.0,50,30.6
+32,Lt. Red #60,4,Nelson,33,R10 P4,339,4,33,32,0.0,25,30.6
+32,Lt. Red #60,4,Nelson,33,R10 P4,340,4,33,32,0.0,30,33.6
+32,Lt. Red #60,4,Nelson,33,R10 P4,341,4,33,32,0.0,35,36.6
+32,Lt. Red #60,4,Nelson,33,R10 P4,342,4,33,32,0.0,40,39.0
+32,Lt. Red #60,4,Nelson,33,R10 P4,343,4,33,32,0.0,45,41.4
+32,Lt. Red #60,4,Nelson,33,R10 P4,344,4,33,32,0.0,50,43.8
+31,Lt. Yellow #55,4,Nelson,33,R10 P4,333,4,33,31,0.0,25,26.4
+31,Lt. Yellow #55,4,Nelson,33,R10 P4,334,4,33,31,0.0,30,28.8
+31,Lt. Yellow #55,4,Nelson,33,R10 P4,335,4,33,31,0.0,35,31.2
+31,Lt. Yellow #55,4,Nelson,33,R10 P4,336,4,33,31,0.0,40,33.0
+31,Lt. Yellow #55,4,Nelson,33,R10 P4,337,4,33,31,0.0,45,35.4
+31,Lt. Yellow #55,4,Nelson,33,R10 P4,338,4,33,31,0.0,50,37.2
+35,Dk. Blue #78,4,Nelson,34,R10 P6,357,4,34,35,0.0,25,52.8
+35,Dk. Blue #78,4,Nelson,34,R10 P6,358,4,34,35,0.0,30,58.2
+35,Dk. Blue #78,4,Nelson,34,R10 P6,359,4,34,35,0.0,35,63.0
+35,Dk. Blue #78,4,Nelson,34,R10 P6,360,4,34,35,0.0,40,67.2
+35,Dk. Blue #78,4,Nelson,34,R10 P6,361,4,34,35,0.0,45,71.4
+35,Dk. Blue #78,4,Nelson,34,R10 P6,362,4,34,35,0.0,50,75.0
+33,Gray #65,4,Nelson,34,R10 P6,345,4,34,33,0.0,25,36.6
+33,Gray #65,4,Nelson,34,R10 P6,346,4,34,33,0.0,30,40.2
+33,Gray #65,4,Nelson,34,R10 P6,347,4,34,33,0.0,35,43.2
+33,Gray #65,4,Nelson,34,R10 P6,348,4,34,33,0.0,40,46.2
+33,Gray #65,4,Nelson,34,R10 P6,349,4,34,33,0.0,45,49.2
+33,Gray #65,4,Nelson,34,R10 P6,350,4,34,33,0.0,50,51.6
+34,White #70,4,Nelson,34,R10 P6,351,4,34,34,0.0,25,42.0
+34,White #70,4,Nelson,34,R10 P6,352,4,34,34,0.0,30,46.2
+34,White #70,4,Nelson,34,R10 P6,353,4,34,34,0.0,35,49.8
+34,White #70,4,Nelson,34,R10 P6,354,4,34,34,0.0,40,53.4
+34,White #70,4,Nelson,34,R10 P6,355,4,34,34,0.0,45,56.4
+34,White #70,4,Nelson,34,R10 P6,356,4,34,34,0.0,50,60.0
+35,Dk. Blue #78,4,Nelson,35,R10 P8,381,4,35,35,0.0,30,58.2
+35,Dk. Blue #78,4,Nelson,35,R10 P8,382,4,35,35,0.0,35,63.0
+35,Dk. Blue #78,4,Nelson,35,R10 P8,383,4,35,35,0.0,40,67.2
+35,Dk. Blue #78,4,Nelson,35,R10 P8,384,4,35,35,0.0,45,71.4
+35,Dk. Blue #78,4,Nelson,35,R10 P8,385,4,35,35,0.0,50,75.0
+36,Orange #86,4,Nelson,35,R10 P8,363,4,35,36,0.0,25,64.2
+36,Orange #86,4,Nelson,35,R10 P8,364,4,35,36,0.0,30,70.2
+36,Orange #86,4,Nelson,35,R10 P8,365,4,35,36,0.0,35,76.2
+36,Orange #86,4,Nelson,35,R10 P8,366,4,35,36,0.0,40,81.6
+36,Orange #86,4,Nelson,35,R10 P8,367,4,35,36,0.0,45,87.0
+36,Orange #86,4,Nelson,35,R10 P8,368,4,35,36,0.0,50,91.8
+37,Purple #94,4,Nelson,35,R10 P8,369,4,35,37,0.0,25,76.2
+37,Purple #94,4,Nelson,35,R10 P8,370,4,35,37,0.0,30,83.4
+37,Purple #94,4,Nelson,35,R10 P8,371,4,35,37,0.0,35,90.0
+37,Purple #94,4,Nelson,35,R10 P8,372,4,35,37,0.0,40,96.6
+37,Purple #94,4,Nelson,35,R10 P8,373,4,35,37,0.0,45,102.0
+37,Purple #94,4,Nelson,35,R10 P8,374,4,35,37,0.0,50,108.0
+38,Yellow #102,4,Nelson,35,R10 P8,375,4,35,38,0.0,25,90.0
+38,Yellow #102,4,Nelson,35,R10 P8,376,4,35,38,0.0,30,98.4
+38,Yellow #102,4,Nelson,35,R10 P8,377,4,35,38,0.0,35,106.8
+38,Yellow #102,4,Nelson,35,R10 P8,378,4,35,38,0.0,40,114.0
+38,Yellow #102,4,Nelson,35,R10 P8,379,4,35,38,0.0,45,121.2
+38,Yellow #102,4,Nelson,35,R10 P8,380,4,35,38,0.0,50,127.8
+30,Dk. Green #50,4,Nelson,36,R10T P2,396,4,36,30,0.0,25,21.6
+30,Dk. Green #50,4,Nelson,36,R10T P2,397,4,36,30,0.0,30,23.4
+30,Dk. Green #50,4,Nelson,36,R10T P2,398,4,36,30,0.0,35,25.8
+30,Dk. Green #50,4,Nelson,36,R10T P2,399,4,36,30,0.0,40,27.6
+30,Dk. Green #50,4,Nelson,36,R10T P2,400,4,36,30,0.0,45,28.8
+30,Dk. Green #50,4,Nelson,36,R10T P2,401,4,36,30,0.0,50,30.6
+28,Lt. Blue #40,4,Nelson,36,R10T P2,386,4,36,28,0.0,35,16.8
+28,Lt. Blue #40,4,Nelson,36,R10T P2,387,4,36,28,0.0,40,18.0
+28,Lt. Blue #40,4,Nelson,36,R10T P2,388,4,36,28,0.0,45,19.2
+28,Lt. Blue #40,4,Nelson,36,R10T P2,389,4,36,28,0.0,50,20.4
+29,Lt. Purple #45,4,Nelson,36,R10T P2,390,4,36,29,0.0,25,17.4
+29,Lt. Purple #45,4,Nelson,36,R10T P2,391,4,36,29,0.0,30,19.2
+29,Lt. Purple #45,4,Nelson,36,R10T P2,392,4,36,29,0.0,35,21.0
+29,Lt. Purple #45,4,Nelson,36,R10T P2,393,4,36,29,0.0,40,22.2
+29,Lt. Purple #45,4,Nelson,36,R10T P2,394,4,36,29,0.0,45,23.4
+29,Lt. Purple #45,4,Nelson,36,R10T P2,395,4,36,29,0.0,50,25.2
+30,Dk. Green #50,4,Nelson,37,R10T P4,402,4,37,30,0.0,35,25.8
+30,Dk. Green #50,4,Nelson,37,R10T P4,403,4,37,30,0.0,40,27.6
+30,Dk. Green #50,4,Nelson,37,R10T P4,404,4,37,30,0.0,45,28.8
+30,Dk. Green #50,4,Nelson,37,R10T P4,405,4,37,30,0.0,50,30.6
+32,Lt. Red #60,4,Nelson,37,R10T P4,412,4,37,32,0.0,25,30.6
+32,Lt. Red #60,4,Nelson,37,R10T P4,413,4,37,32,0.0,30,33.6
+32,Lt. Red #60,4,Nelson,37,R10T P4,414,4,37,32,0.0,35,36.6
+32,Lt. Red #60,4,Nelson,37,R10T P4,415,4,37,32,0.0,40,39.0
+32,Lt. Red #60,4,Nelson,37,R10T P4,416,4,37,32,0.0,45,41.4
+32,Lt. Red #60,4,Nelson,37,R10T P4,417,4,37,32,0.0,50,43.8
+31,Lt. Yellow #55,4,Nelson,37,R10T P4,406,4,37,31,0.0,25,26.4
+31,Lt. Yellow #55,4,Nelson,37,R10T P4,407,4,37,31,0.0,30,28.8
+31,Lt. Yellow #55,4,Nelson,37,R10T P4,408,4,37,31,0.0,35,31.2
+31,Lt. Yellow #55,4,Nelson,37,R10T P4,409,4,37,31,0.0,40,33.0
+31,Lt. Yellow #55,4,Nelson,37,R10T P4,410,4,37,31,0.0,45,35.4
+31,Lt. Yellow #55,4,Nelson,37,R10T P4,411,4,37,31,0.0,50,37.2
+35,Dk. Blue #78,4,Nelson,38,R10T P6,430,4,38,35,0.0,25,52.8
+35,Dk. Blue #78,4,Nelson,38,R10T P6,431,4,38,35,0.0,30,58.2
+35,Dk. Blue #78,4,Nelson,38,R10T P6,432,4,38,35,0.0,35,63.0
+35,Dk. Blue #78,4,Nelson,38,R10T P6,433,4,38,35,0.0,40,67.2
+35,Dk. Blue #78,4,Nelson,38,R10T P6,434,4,38,35,0.0,45,71.4
+35,Dk. Blue #78,4,Nelson,38,R10T P6,435,4,38,35,0.0,50,75.0
+33,Gray #65,4,Nelson,38,R10T P6,418,4,38,33,0.0,25,36.6
+33,Gray #65,4,Nelson,38,R10T P6,419,4,38,33,0.0,30,40.2
+33,Gray #65,4,Nelson,38,R10T P6,420,4,38,33,0.0,35,43.2
+33,Gray #65,4,Nelson,38,R10T P6,421,4,38,33,0.0,40,46.2
+33,Gray #65,4,Nelson,38,R10T P6,422,4,38,33,0.0,45,49.2
+33,Gray #65,4,Nelson,38,R10T P6,423,4,38,33,0.0,50,51.6
+34,White #70,4,Nelson,38,R10T P6,424,4,38,34,0.0,25,42.0
+34,White #70,4,Nelson,38,R10T P6,425,4,38,34,0.0,30,46.2
+34,White #70,4,Nelson,38,R10T P6,426,4,38,34,0.0,35,49.8
+34,White #70,4,Nelson,38,R10T P6,427,4,38,34,0.0,40,53.4
+34,White #70,4,Nelson,38,R10T P6,428,4,38,34,0.0,45,56.4
+34,White #70,4,Nelson,38,R10T P6,429,4,38,34,0.0,50,60.0
+35,Dk. Blue #78,4,Nelson,39,R10T P8,454,4,39,35,0.0,30,58.2
+35,Dk. Blue #78,4,Nelson,39,R10T P8,455,4,39,35,0.0,35,63.0
+35,Dk. Blue #78,4,Nelson,39,R10T P8,456,4,39,35,0.0,40,67.2
+35,Dk. Blue #78,4,Nelson,39,R10T P8,457,4,39,35,0.0,45,71.4
+35,Dk. Blue #78,4,Nelson,39,R10T P8,458,4,39,35,0.0,50,75.0
+36,Orange #86,4,Nelson,39,R10T P8,436,4,39,36,0.0,25,64.2
+36,Orange #86,4,Nelson,39,R10T P8,437,4,39,36,0.0,30,70.2
+36,Orange #86,4,Nelson,39,R10T P8,438,4,39,36,0.0,35,76.2
+36,Orange #86,4,Nelson,39,R10T P8,439,4,39,36,0.0,40,81.6
+36,Orange #86,4,Nelson,39,R10T P8,440,4,39,36,0.0,45,87.0
+36,Orange #86,4,Nelson,39,R10T P8,441,4,39,36,0.0,50,91.8
+37,Purple #94,4,Nelson,39,R10T P8,442,4,39,37,0.0,25,76.2
+37,Purple #94,4,Nelson,39,R10T P8,443,4,39,37,0.0,30,83.4
+37,Purple #94,4,Nelson,39,R10T P8,444,4,39,37,0.0,35,90.0
+37,Purple #94,4,Nelson,39,R10T P8,445,4,39,37,0.0,40,96.6
+37,Purple #94,4,Nelson,39,R10T P8,446,4,39,37,0.0,45,102.0
+37,Purple #94,4,Nelson,39,R10T P8,447,4,39,37,0.0,50,108.0
+38,Yellow #102,4,Nelson,39,R10T P8,448,4,39,38,0.0,25,90.0
+38,Yellow #102,4,Nelson,39,R10T P8,449,4,39,38,0.0,30,98.4
+38,Yellow #102,4,Nelson,39,R10T P8,450,4,39,38,0.0,35,106.8
+38,Yellow #102,4,Nelson,39,R10T P8,451,4,39,38,0.0,40,114.0
+38,Yellow #102,4,Nelson,39,R10T P8,452,4,39,38,0.0,45,121.2
+38,Yellow #102,4,Nelson,39,R10T P8,453,4,39,38,0.0,50,127.8
+9,#35 orange,4,Nelson,29,R5 BLUE LOW PRESSURE upright mount,255,4,29,9,0.0,25,9.5
+9,#35 orange,4,Nelson,29,R5 BLUE LOW PRESSURE upright mount,256,4,29,9,0.0,30,10.5
+9,#35 orange,4,Nelson,29,R5 BLUE LOW PRESSURE upright mount,257,4,29,9,0.0,35,11.4
+9,#35 orange,4,Nelson,29,R5 BLUE LOW PRESSURE upright mount,258,4,29,9,0.0,40,12.1
+10,#40 blue,4,Nelson,29,R5 BLUE LOW PRESSURE upright mount,259,4,29,10,0.0,20,10.8
+10,#40 blue,4,Nelson,29,R5 BLUE LOW PRESSURE upright mount,260,4,29,10,0.0,25,12.2
+10,#40 blue,4,Nelson,29,R5 BLUE LOW PRESSURE upright mount,261,4,29,10,0.0,30,13.3
+10,#40 blue,4,Nelson,29,R5 BLUE LOW PRESSURE upright mount,262,4,29,10,0.0,35,14.4
+25,#45 Purple,4,Nelson,29,R5 BLUE LOW PRESSURE upright mount,263,4,29,25,0.0,15,11.7
+25,#45 Purple,4,Nelson,29,R5 BLUE LOW PRESSURE upright mount,264,4,29,25,0.0,20,13.7
+25,#45 Purple,4,Nelson,29,R5 BLUE LOW PRESSURE upright mount,265,4,29,25,0.0,25,15.4
+25,#45 Purple,4,Nelson,29,R5 BLUE LOW PRESSURE upright mount,266,4,29,25,0.0,30,16.8
+25,#45 Purple,4,Nelson,29,R5 BLUE LOW PRESSURE upright mount,267,4,29,25,0.0,35,18.2
+12,#50 green,4,Nelson,29,R5 BLUE LOW PRESSURE upright mount,268,4,29,12,0.0,15,14.3
+12,#50 green,4,Nelson,29,R5 BLUE LOW PRESSURE upright mount,269,4,29,12,0.0,20,16.8
+12,#50 green,4,Nelson,29,R5 BLUE LOW PRESSURE upright mount,270,4,29,12,0.0,25,18.8
+12,#50 green,4,Nelson,29,R5 BLUE LOW PRESSURE upright mount,271,4,29,12,0.0,30,20.6
+12,#50 green,4,Nelson,29,R5 BLUE LOW PRESSURE upright mount,272,4,29,12,0.0,35,22.3
+13,#55 yellow,4,Nelson,29,R5 BLUE LOW PRESSURE upright mount,273,4,29,13,0.0,15,17.4
+13,#55 yellow,4,Nelson,29,R5 BLUE LOW PRESSURE upright mount,274,4,29,13,0.0,20,20.3
+13,#55 yellow,4,Nelson,29,R5 BLUE LOW PRESSURE upright mount,275,4,29,13,0.0,25,22.8
+13,#55 yellow,4,Nelson,29,R5 BLUE LOW PRESSURE upright mount,276,4,29,13,0.0,30,25.0
+9,#35 orange,4,Nelson,30,R5 GREEN HIGH PRESSURE upright mount,277,4,30,9,0.0,30,10.5
+9,#35 orange,4,Nelson,30,R5 GREEN HIGH PRESSURE upright mount,278,4,30,9,0.0,35,11.4
+9,#35 orange,4,Nelson,30,R5 GREEN HIGH PRESSURE upright mount,279,4,30,9,0.0,40,12.1
+10,#40 blue,4,Nelson,30,R5 GREEN HIGH PRESSURE upright mount,280,4,30,10,0.0,30,13.3
+10,#40 blue,4,Nelson,30,R5 GREEN HIGH PRESSURE upright mount,281,4,30,10,0.0,35,14.4
+10,#40 blue,4,Nelson,30,R5 GREEN HIGH PRESSURE upright mount,282,4,30,10,0.0,40,15.5
+25,#45 Purple,4,Nelson,30,R5 GREEN HIGH PRESSURE upright mount,283,4,30,25,0.0,25,15.4
+25,#45 Purple,4,Nelson,30,R5 GREEN HIGH PRESSURE upright mount,284,4,30,25,0.0,30,16.8
+25,#45 Purple,4,Nelson,30,R5 GREEN HIGH PRESSURE upright mount,285,4,30,25,0.0,35,18.2
+25,#45 Purple,4,Nelson,30,R5 GREEN HIGH PRESSURE upright mount,286,4,30,25,0.0,40,19.6
+12,#50 green,4,Nelson,30,R5 GREEN HIGH PRESSURE upright mount,287,4,30,12,0.0,25,18.8
+12,#50 green,4,Nelson,30,R5 GREEN HIGH PRESSURE upright mount,288,4,30,12,0.0,30,20.6
+12,#50 green,4,Nelson,30,R5 GREEN HIGH PRESSURE upright mount,289,4,30,12,0.0,35,22.3
+12,#50 green,4,Nelson,30,R5 GREEN HIGH PRESSURE upright mount,290,4,30,12,0.0,40,23.9
+13,#55 yellow,4,Nelson,30,R5 GREEN HIGH PRESSURE upright mount,291,4,30,13,0.0,25,22.8
+13,#55 yellow,4,Nelson,30,R5 GREEN HIGH PRESSURE upright mount,292,4,30,13,0.0,30,25.0
+13,#55 yellow,4,Nelson,30,R5 GREEN HIGH PRESSURE upright mount,293,4,30,13,0.0,35,27.0
+13,#55 yellow,4,Nelson,30,R5 GREEN HIGH PRESSURE upright mount,294,4,30,13,0.0,40,29.0
+9,#35 orange,4,Nelson,31,R5 WINE inverted mount,295,4,31,9,0.0,25,9.5
+9,#35 orange,4,Nelson,31,R5 WINE inverted mount,296,4,31,9,0.0,30,10.5
+9,#35 orange,4,Nelson,31,R5 WINE inverted mount,297,4,31,9,0.0,35,11.4
+9,#35 orange,4,Nelson,31,R5 WINE inverted mount,298,4,31,9,0.0,40,12.1
+10,#40 blue,4,Nelson,31,R5 WINE inverted mount,299,4,31,10,0.0,20,10.8
+10,#40 blue,4,Nelson,31,R5 WINE inverted mount,300,4,31,10,0.0,25,12.2
+10,#40 blue,4,Nelson,31,R5 WINE inverted mount,301,4,31,10,0.0,30,13.3
+10,#40 blue,4,Nelson,31,R5 WINE inverted mount,302,4,31,10,0.0,35,14.4
+10,#40 blue,4,Nelson,31,R5 WINE inverted mount,303,4,31,10,0.0,40,15.5
+25,#45 Purple,4,Nelson,31,R5 WINE inverted mount,304,4,31,25,0.0,15,11.7
+25,#45 Purple,4,Nelson,31,R5 WINE inverted mount,305,4,31,25,0.0,20,13.7
+25,#45 Purple,4,Nelson,31,R5 WINE inverted mount,306,4,31,25,0.0,25,15.4
+25,#45 Purple,4,Nelson,31,R5 WINE inverted mount,307,4,31,25,0.0,30,16.8
+25,#45 Purple,4,Nelson,31,R5 WINE inverted mount,308,4,31,25,0.0,35,18.2
+12,#50 green,4,Nelson,31,R5 WINE inverted mount,309,4,31,12,0.0,15,14.3
+12,#50 green,4,Nelson,31,R5 WINE inverted mount,310,4,31,12,0.0,20,16.8
+12,#50 green,4,Nelson,31,R5 WINE inverted mount,311,4,31,12,0.0,25,18.8
+12,#50 green,4,Nelson,31,R5 WINE inverted mount,312,4,31,12,0.0,30,20.6
+4,blue,5,Netafirm,40,MegaNet ,483,5,40,4,0.0,10,65.0
+4,blue,5,Netafirm,40,MegaNet ,484,5,40,4,0.0,15,80.0
+4,blue,5,Netafirm,40,MegaNet ,485,5,40,4,0.0,20,92.0
+4,blue,5,Netafirm,40,MegaNet ,486,5,40,4,0.0,25,103.0
+4,blue,5,Netafirm,40,MegaNet ,487,5,40,4,0.0,30,113.0
+4,blue,5,Netafirm,40,MegaNet ,488,5,40,4,0.0,35,122.0
+4,blue,5,Netafirm,40,MegaNet ,489,5,40,4,0.0,40,130.0
+4,blue,5,Netafirm,40,MegaNet ,490,5,40,4,0.0,45,138.0
+1,brown,5,Netafirm,40,MegaNet ,491,5,40,1,0.0,10,78.0
+1,brown,5,Netafirm,40,MegaNet ,492,5,40,1,0.0,15,95.0
+1,brown,5,Netafirm,40,MegaNet ,493,5,40,1,0.0,20,110.0
+1,brown,5,Netafirm,40,MegaNet ,494,5,40,1,0.0,25,123.0
+1,brown,5,Netafirm,40,MegaNet ,495,5,40,1,0.0,30,135.0
+1,brown,5,Netafirm,40,MegaNet ,496,5,40,1,0.0,35,146.0
+1,brown,5,Netafirm,40,MegaNet ,497,5,40,1,0.0,40,156.0
+1,brown,5,Netafirm,40,MegaNet ,498,5,40,1,0.0,45,165.0
+7,green,5,Netafirm,40,MegaNet ,475,5,40,7,0.0,10,51.0
+7,green,5,Netafirm,40,MegaNet ,476,5,40,7,0.0,15,63.0
+7,green,5,Netafirm,40,MegaNet ,477,5,40,7,0.0,20,72.0
+7,green,5,Netafirm,40,MegaNet ,478,5,40,7,0.0,25,81.0
+7,green,5,Netafirm,40,MegaNet ,479,5,40,7,0.0,30,88.0
+7,green,5,Netafirm,40,MegaNet ,480,5,40,7,0.0,35,95.0
+7,green,5,Netafirm,40,MegaNet ,481,5,40,7,0.0,40,102.0
+7,green,5,Netafirm,40,MegaNet ,482,5,40,7,0.0,45,108.0
+3,orange,5,Netafirm,40,MegaNet ,499,5,40,3,0.0,10,96.0
+3,orange,5,Netafirm,40,MegaNet ,500,5,40,3,0.0,15,117.0
+3,orange,5,Netafirm,40,MegaNet ,501,5,40,3,0.0,20,135.0
+3,orange,5,Netafirm,40,MegaNet ,502,5,40,3,0.0,25,151.0
+3,orange,5,Netafirm,40,MegaNet ,503,5,40,3,0.0,30,165.0
+3,orange,5,Netafirm,40,MegaNet ,504,5,40,3,0.0,35,179.0
+3,orange,5,Netafirm,40,MegaNet ,505,5,40,3,0.0,40,191.0
+3,orange,5,Netafirm,40,MegaNet ,506,5,40,3,0.0,45,202.0
+39,purple,5,Netafirm,40,MegaNet ,467,5,40,39,0.0,10,37.0
+39,purple,5,Netafirm,40,MegaNet ,468,5,40,39,0.0,15,45.0
+39,purple,5,Netafirm,40,MegaNet ,469,5,40,39,0.0,20,52.0
+39,purple,5,Netafirm,40,MegaNet ,470,5,40,39,0.0,25,58.0
+39,purple,5,Netafirm,40,MegaNet ,471,5,40,39,0.0,30,63.0
+39,purple,5,Netafirm,40,MegaNet ,472,5,40,39,0.0,35,68.0
+39,purple,5,Netafirm,40,MegaNet ,473,5,40,39,0.0,40,73.0
+39,purple,5,Netafirm,40,MegaNet ,474,5,40,39,0.0,45,77.0
+16,red,5,Netafirm,40,MegaNet ,507,5,40,16,0.0,10,111.0
+16,red,5,Netafirm,40,MegaNet ,508,5,40,16,0.0,15,135.0
+16,red,5,Netafirm,40,MegaNet ,509,5,40,16,0.0,20,156.0
+16,red,5,Netafirm,40,MegaNet ,510,5,40,16,0.0,25,175.0
+16,red,5,Netafirm,40,MegaNet ,511,5,40,16,0.0,30,191.0
+16,red,5,Netafirm,40,MegaNet ,512,5,40,16,0.0,35,207.0
+16,red,5,Netafirm,40,MegaNet ,513,5,40,16,0.0,40,221.0
+16,red,5,Netafirm,40,MegaNet ,514,5,40,16,0.0,45,234.0
+15,yellow,5,Netafirm,40,MegaNet ,459,5,40,15,0.0,10,30.0
+15,yellow,5,Netafirm,40,MegaNet ,460,5,40,15,0.0,15,37.0
+15,yellow,5,Netafirm,40,MegaNet ,461,5,40,15,0.0,20,42.0
+15,yellow,5,Netafirm,40,MegaNet ,462,5,40,15,0.0,25,47.0
+15,yellow,5,Netafirm,40,MegaNet ,463,5,40,15,0.0,30,52.0
+15,yellow,5,Netafirm,40,MegaNet ,464,5,40,15,0.0,35,56.0
+15,yellow,5,Netafirm,40,MegaNet ,465,5,40,15,0.0,40,60.0
+15,yellow,5,Netafirm,40,MegaNet ,466,5,40,15,0.0,45,63.0
+2,black,5,Netafirm,44,NetJet ,559,5,44,2,0.03,10,4.8
+2,black,5,Netafirm,44,NetJet ,560,5,44,2,0.03,15,6.0
+2,black,5,Netafirm,44,NetJet ,561,5,44,2,0.03,20,6.8
+2,black,5,Netafirm,44,NetJet ,562,5,44,2,0.03,25,7.7
+2,black,5,Netafirm,44,NetJet ,563,5,44,2,0.03,30,8.5
+4,blue,5,Netafirm,44,NetJet ,574,5,44,4,0.04,10,7.6
+4,blue,5,Netafirm,44,NetJet ,575,5,44,4,0.04,15,9.7
+4,blue,5,Netafirm,44,NetJet ,576,5,44,4,0.04,20,11.1
+4,blue,5,Netafirm,44,NetJet ,577,5,44,4,0.04,25,12.6
+4,blue,5,Netafirm,44,NetJet ,578,5,44,4,0.04,30,13.7
+1,brown,5,Netafirm,44,NetJet ,569,5,44,1,0.035,10,6.2
+1,brown,5,Netafirm,44,NetJet ,570,5,44,1,0.035,15,7.7
+1,brown,5,Netafirm,44,NetJet ,571,5,44,1,0.035,20,8.7
+1,brown,5,Netafirm,44,NetJet ,572,5,44,1,0.035,25,9.8
+1,brown,5,Netafirm,44,NetJet ,573,5,44,1,0.035,30,10.9
+5,gray,5,Netafirm,44,NetJet ,584,5,44,5,0.048,10,10.7
+5,gray,5,Netafirm,44,NetJet ,585,5,44,5,0.048,15,13.5
+5,gray,5,Netafirm,44,NetJet ,586,5,44,5,0.048,20,15.3
+5,gray,5,Netafirm,44,NetJet ,587,5,44,5,0.048,25,17.3
+5,gray,5,Netafirm,44,NetJet ,588,5,44,5,0.048,30,18.8
+7,green,5,Netafirm,44,NetJet ,589,5,44,7,0.05,10,12.5
+7,green,5,Netafirm,44,NetJet ,590,5,44,7,0.05,15,15.6
+7,green,5,Netafirm,44,NetJet ,591,5,44,7,0.05,20,17.7
+7,green,5,Netafirm,44,NetJet ,592,5,44,7,0.05,25,20.1
+7,green,5,Netafirm,44,NetJet ,593,5,44,7,0.05,30,22.1
+58,Olive,5,Netafirm,44,NetJet ,594,5,44,58,0.059,10,15.5
+58,Olive,5,Netafirm,44,NetJet ,595,5,44,58,0.059,15,19.4
+58,Olive,5,Netafirm,44,NetJet ,596,5,44,58,0.059,20,22.1
+58,Olive,5,Netafirm,44,NetJet ,597,5,44,58,0.059,25,24.9
+58,Olive,5,Netafirm,44,NetJet ,598,5,44,58,0.059,30,27.2
+3,orange,5,Netafirm,44,NetJet ,564,5,44,3,0.034,10,5.3
+3,orange,5,Netafirm,44,NetJet ,565,5,44,3,0.034,15,6.7
+3,orange,5,Netafirm,44,NetJet ,566,5,44,3,0.034,20,7.6
+3,orange,5,Netafirm,44,NetJet ,567,5,44,3,0.034,25,8.6
+3,orange,5,Netafirm,44,NetJet ,568,5,44,3,0.034,30,9.5
+39,purple,5,Netafirm,44,NetJet ,579,5,44,39,0.045,10,9.1
+39,purple,5,Netafirm,44,NetJet ,580,5,44,39,0.045,15,11.5
+39,purple,5,Netafirm,44,NetJet ,581,5,44,39,0.045,20,13.1
+39,purple,5,Netafirm,44,NetJet ,582,5,44,39,0.045,25,14.7
+39,purple,5,Netafirm,44,NetJet ,583,5,44,39,0.045,30,16.2
+16,red,5,Netafirm,44,NetJet ,599,5,44,16,0.06,10,16.2
+16,red,5,Netafirm,44,NetJet ,600,5,44,16,0.06,15,20.2
+16,red,5,Netafirm,44,NetJet ,601,5,44,16,0.06,20,22.9
+16,red,5,Netafirm,44,NetJet ,602,5,44,16,0.06,25,26.0
+16,red,5,Netafirm,44,NetJet ,603,5,44,16,0.06,30,28.6
+42,#30 brown,5,Netafirm,42,SuperNet Jet spray,524,5,42,42,0.045,25-50,8.2
+43,#35 sky blue,5,Netafirm,42,SuperNet Jet spray,525,5,42,43,0.047,25-50,9.2
+10,#40 blue,5,Netafirm,42,SuperNet Jet spray,526,5,42,10,0.05,25-50,10.6
+12,#50 green,5,Netafirm,42,SuperNet Jet spray,527,5,42,12,0.056,25-50,13.2
+44,#58 gray,5,Netafirm,42,SuperNet Jet spray,528,5,42,44,0.0,25-50,15.3
+45,#70 black,5,Netafirm,42,SuperNet Jet spray,529,5,42,45,0.0,25-50,18.5
+46,#90 orange,5,Netafirm,42,SuperNet Jet spray,530,5,42,46,0.0,25-50,23.8
+50,#120 Red,5,Netafirm,43,SuperNet Jr. ,551,5,43,50,0.063,15,24.7
+50,#120 Red,5,Netafirm,43,SuperNet Jr. ,552,5,43,50,0.063,20,28.6
+50,#120 Red,5,Netafirm,43,SuperNet Jr. ,553,5,43,50,0.063,25,31.9
+50,#120 Red,5,Netafirm,43,SuperNet Jr. ,554,5,43,50,0.063,30,35.0
+51,#150 Sky Blue,5,Netafirm,43,SuperNet Jr. ,555,5,43,51,0.071,15,30.9
+51,#150 Sky Blue,5,Netafirm,43,SuperNet Jr. ,556,5,43,51,0.071,20,35.7
+51,#150 Sky Blue,5,Netafirm,43,SuperNet Jr. ,557,5,43,51,0.071,25,39.9
+51,#150 Sky Blue,5,Netafirm,43,SuperNet Jr. ,558,5,43,51,0.071,30,43.7
+47,#28 Brown,5,Netafirm,43,SuperNet Jr. ,531,5,43,47,0.03,15,5.6
+47,#28 Brown,5,Netafirm,43,SuperNet Jr. ,532,5,43,47,0.03,20,6.4
+47,#28 Brown,5,Netafirm,43,SuperNet Jr. ,533,5,43,47,0.03,25,7.2
+47,#28 Brown,5,Netafirm,43,SuperNet Jr. ,534,5,43,47,0.03,30,7.9
+10,#40 blue,5,Netafirm,43,SuperNet Jr. ,535,5,43,10,0.035,15,8.2
+10,#40 blue,5,Netafirm,43,SuperNet Jr. ,536,5,43,10,0.035,20,9.5
+10,#40 blue,5,Netafirm,43,SuperNet Jr. ,537,5,43,10,0.035,25,10.6
+10,#40 blue,5,Netafirm,43,SuperNet Jr. ,538,5,43,10,0.035,30,11.7
+44,#58 gray,5,Netafirm,43,SuperNet Jr. ,539,5,43,44,0.043,15,12.0
+44,#58 gray,5,Netafirm,43,SuperNet Jr. ,540,5,43,44,0.043,20,13.8
+44,#58 gray,5,Netafirm,43,SuperNet Jr. ,541,5,43,44,0.043,25,15.4
+44,#58 gray,5,Netafirm,43,SuperNet Jr. ,542,5,43,44,0.043,30,16.9
+45,#70 black,5,Netafirm,43,SuperNet Jr. ,543,5,43,45,0.047,15,14.4
+45,#70 black,5,Netafirm,43,SuperNet Jr. ,544,5,43,45,0.047,20,16.7
+45,#70 black,5,Netafirm,43,SuperNet Jr. ,545,5,43,45,0.047,25,18.6
+45,#70 black,5,Netafirm,43,SuperNet Jr. ,546,5,43,45,0.047,30,20.4
+46,#90 orange,5,Netafirm,43,SuperNet Jr. ,547,5,43,46,0.055,15,18.5
+46,#90 orange,5,Netafirm,43,SuperNet Jr. ,548,5,43,46,0.055,20,21.4
+46,#90 orange,5,Netafirm,43,SuperNet Jr. ,549,5,43,46,0.055,25,23.9
+46,#90 orange,5,Netafirm,43,SuperNet Jr. ,550,5,43,46,0.055,30,26.2
+40,#20 Purple,5,Netafirm,41,SuperNet Swivel spray,515,5,41,40,0.035,25-50,5.3
+41,#28 light green,5,Netafirm,41,SuperNet Swivel spray,516,5,41,41,0.045,25-50,7.4
+42,#30 brown,5,Netafirm,41,SuperNet Swivel spray,517,5,41,42,0.045,25-50,8.2
+43,#35 sky blue,5,Netafirm,41,SuperNet Swivel spray,518,5,41,43,0.047,25-50,9.2
+10,#40 blue,5,Netafirm,41,SuperNet Swivel spray,519,5,41,10,0.05,25-50,10.6
+12,#50 green,5,Netafirm,41,SuperNet Swivel spray,520,5,41,12,0.056,25-50,13.2
+44,#58 gray,5,Netafirm,41,SuperNet Swivel spray,521,5,41,44,0.0,25-50,15.3
+45,#70 black,5,Netafirm,41,SuperNet Swivel spray,522,5,41,45,0.0,25-50,18.5
+46,#90 orange,5,Netafirm,41,SuperNet Swivel spray,523,5,41,46,0.0,25-50,23.8
+2,black,6,Olson,47,Mini-sprinkler ,686,6,47,2,0.03,10,4.4
+2,black,6,Olson,47,Mini-sprinkler ,687,6,47,2,0.03,15,5.0
+2,black,6,Olson,47,Mini-sprinkler ,688,6,47,2,0.03,20,6.0
+2,black,6,Olson,47,Mini-sprinkler ,689,6,47,2,0.03,25,6.8
+2,black,6,Olson,47,Mini-sprinkler ,690,6,47,2,0.03,30,7.3
+4,blue,6,Olson,47,Mini-sprinkler ,691,6,47,4,0.04,10,7.0
+4,blue,6,Olson,47,Mini-sprinkler ,692,6,47,4,0.04,15,8.9
+4,blue,6,Olson,47,Mini-sprinkler ,693,6,47,4,0.04,20,10.4
+4,blue,6,Olson,47,Mini-sprinkler ,694,6,47,4,0.04,25,11.7
+4,blue,6,Olson,47,Mini-sprinkler ,695,6,47,4,0.04,30,14.5
+7,green,6,Olson,47,Mini-sprinkler ,696,6,47,7,0.05,10,11.8
+7,green,6,Olson,47,Mini-sprinkler ,697,6,47,7,0.05,15,15.3
+7,green,6,Olson,47,Mini-sprinkler ,698,6,47,7,0.05,20,16.7
+7,green,6,Olson,47,Mini-sprinkler ,699,6,47,7,0.05,25,19.5
+7,green,6,Olson,47,Mini-sprinkler ,700,6,47,7,0.05,30,21.6
+16,red,6,Olson,47,Mini-sprinkler ,701,6,47,16,0.06,10,10.2
+16,red,6,Olson,47,Mini-sprinkler ,702,6,47,16,0.06,15,21.6
+16,red,6,Olson,47,Mini-sprinkler ,703,6,47,16,0.06,20,24.0
+16,red,6,Olson,47,Mini-sprinkler ,704,6,47,16,0.06,25,27.4
+16,red,6,Olson,47,Mini-sprinkler ,705,6,47,16,0.06,30,30.5
+2,black,6,Olson,46,O-Jet low volume spray ,644,6,46,2,0.03,5,3.8
+2,black,6,Olson,46,O-Jet low volume spray ,645,6,46,2,0.03,10,4.4
+2,black,6,Olson,46,O-Jet low volume spray ,646,6,46,2,0.03,15,5.0
+2,black,6,Olson,46,O-Jet low volume spray ,647,6,46,2,0.03,20,6.0
+2,black,6,Olson,46,O-Jet low volume spray ,648,6,46,2,0.03,25,6.8
+2,black,6,Olson,46,O-Jet low volume spray ,649,6,46,2,0.03,30,7.3
+4,blue,6,Olson,46,O-Jet low volume spray ,656,6,46,4,0.04,5,5.0
+4,blue,6,Olson,46,O-Jet low volume spray ,657,6,46,4,0.04,10,7.0
+4,blue,6,Olson,46,O-Jet low volume spray ,658,6,46,4,0.04,15,8.9
+4,blue,6,Olson,46,O-Jet low volume spray ,659,6,46,4,0.04,20,10.4
+4,blue,6,Olson,46,O-Jet low volume spray ,660,6,46,4,0.04,25,11.7
+4,blue,6,Olson,46,O-Jet low volume spray ,661,6,46,4,0.04,30,12.6
+7,green,6,Olson,46,O-Jet low volume spray ,668,6,46,7,0.05,5,8.9
+7,green,6,Olson,46,O-Jet low volume spray ,669,6,46,7,0.05,10,11.8
+7,green,6,Olson,46,O-Jet low volume spray ,670,6,46,7,0.05,15,15.3
+7,green,6,Olson,46,O-Jet low volume spray ,671,6,46,7,0.05,20,16.7
+7,green,6,Olson,46,O-Jet low volume spray ,672,6,46,7,0.05,25,19.5
+7,green,6,Olson,46,O-Jet low volume spray ,673,6,46,7,0.05,30,21.6
+3,orange,6,Olson,46,O-Jet low volume spray ,650,6,46,3,0.035,5,4.8
+3,orange,6,Olson,46,O-Jet low volume spray ,651,6,46,3,0.035,10,5.9
+3,orange,6,Olson,46,O-Jet low volume spray ,652,6,46,3,0.035,15,7.2
+3,orange,6,Olson,46,O-Jet low volume spray ,653,6,46,3,0.035,20,8.3
+3,orange,6,Olson,46,O-Jet low volume spray ,654,6,46,3,0.035,25,9.3
+3,orange,6,Olson,46,O-Jet low volume spray ,655,6,46,3,0.035,30,10.4
+16,red,6,Olson,46,O-Jet low volume spray ,680,6,46,16,0.06,5,15.0
+16,red,6,Olson,46,O-Jet low volume spray ,681,6,46,16,0.06,10,18.2
+16,red,6,Olson,46,O-Jet low volume spray ,682,6,46,16,0.06,15,21.6
+16,red,6,Olson,46,O-Jet low volume spray ,683,6,46,16,0.06,20,24.0
+16,red,6,Olson,46,O-Jet low volume spray ,684,6,46,16,0.06,25,27.4
+16,red,6,Olson,46,O-Jet low volume spray ,685,6,46,16,0.06,30,30.5
+6,violet,6,Olson,46,O-Jet low volume spray ,662,6,46,6,0.045,5,8.0
+6,violet,6,Olson,46,O-Jet low volume spray ,663,6,46,6,0.045,10,10.2
+6,violet,6,Olson,46,O-Jet low volume spray ,664,6,46,6,0.045,15,12.9
+6,violet,6,Olson,46,O-Jet low volume spray ,665,6,46,6,0.045,20,14.3
+6,violet,6,Olson,46,O-Jet low volume spray ,666,6,46,6,0.045,25,16.8
+6,violet,6,Olson,46,O-Jet low volume spray ,667,6,46,6,0.045,30,18.3
+15,yellow,6,Olson,46,O-Jet low volume spray ,674,6,46,15,0.055,5,10.2
+15,yellow,6,Olson,46,O-Jet low volume spray ,675,6,46,15,0.055,10,14.7
+15,yellow,6,Olson,46,O-Jet low volume spray ,676,6,46,15,0.055,15,18.8
+15,yellow,6,Olson,46,O-Jet low volume spray ,677,6,46,15,0.055,20,20.4
+15,yellow,6,Olson,46,O-Jet low volume spray ,678,6,46,15,0.055,25,24.3
+15,yellow,6,Olson,46,O-Jet low volume spray ,679,6,46,15,0.055,30,26.5
+2,black,6,Olson,45,Ultra-Jet 6900 series,604,6,45,2,0.03,10,4.5
+2,black,6,Olson,45,Ultra-Jet 6900 series,605,6,45,2,0.03,15,5.5
+2,black,6,Olson,45,Ultra-Jet 6900 series,606,6,45,2,0.03,20,6.3
+2,black,6,Olson,45,Ultra-Jet 6900 series,607,6,45,2,0.03,25,7.0
+2,black,6,Olson,45,Ultra-Jet 6900 series,608,6,45,2,0.03,30,7.7
+4,blue,6,Olson,45,Ultra-Jet 6900 series,614,6,45,4,0.04,10,6.8
+4,blue,6,Olson,45,Ultra-Jet 6900 series,615,6,45,4,0.04,15,8.4
+4,blue,6,Olson,45,Ultra-Jet 6900 series,616,6,45,4,0.04,20,9.7
+4,blue,6,Olson,45,Ultra-Jet 6900 series,617,6,45,4,0.04,25,10.7
+4,blue,6,Olson,45,Ultra-Jet 6900 series,618,6,45,4,0.04,30,11.7
+5,gray,6,Olson,45,Ultra-Jet 6900 series,619,6,45,5,0.045,10,8.1
+5,gray,6,Olson,45,Ultra-Jet 6900 series,620,6,45,5,0.045,15,10.8
+5,gray,6,Olson,45,Ultra-Jet 6900 series,621,6,45,5,0.045,20,12.6
+5,gray,6,Olson,45,Ultra-Jet 6900 series,622,6,45,5,0.045,25,14.9
+5,gray,6,Olson,45,Ultra-Jet 6900 series,623,6,45,5,0.045,30,16.0
+7,green,6,Olson,45,Ultra-Jet 6900 series,629,6,45,7,0.055,10,11.2
+7,green,6,Olson,45,Ultra-Jet 6900 series,630,6,45,7,0.055,15,13.6
+7,green,6,Olson,45,Ultra-Jet 6900 series,631,6,45,7,0.055,20,15.6
+7,green,6,Olson,45,Ultra-Jet 6900 series,632,6,45,7,0.055,25,18.0
+7,green,6,Olson,45,Ultra-Jet 6900 series,633,6,45,7,0.055,30,19.8
+3,orange,6,Olson,45,Ultra-Jet 6900 series,609,6,45,3,0.035,10,5.6
+3,orange,6,Olson,45,Ultra-Jet 6900 series,610,6,45,3,0.035,15,6.9
+3,orange,6,Olson,45,Ultra-Jet 6900 series,611,6,45,3,0.035,20,8.1
+3,orange,6,Olson,45,Ultra-Jet 6900 series,612,6,45,3,0.035,25,8.9
+3,orange,6,Olson,45,Ultra-Jet 6900 series,613,6,45,3,0.035,30,9.7
+16,red,6,Olson,45,Ultra-Jet 6900 series,639,6,45,16,0.065,10,17.6
+16,red,6,Olson,45,Ultra-Jet 6900 series,640,6,45,16,0.065,15,21.4
+16,red,6,Olson,45,Ultra-Jet 6900 series,641,6,45,16,0.065,20,24.6
+16,red,6,Olson,45,Ultra-Jet 6900 series,642,6,45,16,0.065,25,27.3
+16,red,6,Olson,45,Ultra-Jet 6900 series,643,6,45,16,0.065,30,30.4
+6,violet,6,Olson,45,Ultra-Jet 6900 series,624,6,45,6,0.05,10,10.3
+6,violet,6,Olson,45,Ultra-Jet 6900 series,625,6,45,6,0.05,15,12.7
+6,violet,6,Olson,45,Ultra-Jet 6900 series,626,6,45,6,0.05,20,14.5
+6,violet,6,Olson,45,Ultra-Jet 6900 series,627,6,45,6,0.05,25,16.8
+6,violet,6,Olson,45,Ultra-Jet 6900 series,628,6,45,6,0.05,30,18.2
+15,yellow,6,Olson,45,Ultra-Jet 6900 series,634,6,45,15,0.06,10,15.2
+15,yellow,6,Olson,45,Ultra-Jet 6900 series,635,6,45,15,0.06,15,19.0
+15,yellow,6,Olson,45,Ultra-Jet 6900 series,636,6,45,15,0.06,20,21.8
+15,yellow,6,Olson,45,Ultra-Jet 6900 series,637,6,45,15,0.06,25,24.4
+15,yellow,6,Olson,45,Ultra-Jet 6900 series,638,6,45,15,0.06,30,26.9
+4,blue,7,Rainbird,49,Micro-bird ,741,7,49,4,0.039,15,10.1
+4,blue,7,Rainbird,49,Micro-bird ,742,7,49,4,0.039,20,11.6
+4,blue,7,Rainbird,49,Micro-bird ,743,7,49,4,0.039,25,12.9
+4,blue,7,Rainbird,49,Micro-bird ,744,7,49,4,0.039,30,14.1
+4,blue,7,Rainbird,49,Micro-bird ,745,7,49,4,0.039,35,15.3
+4,blue,7,Rainbird,49,Micro-bird ,746,7,49,4,0.039,40,16.3
+7,green,7,Rainbird,49,Micro-bird ,747,7,49,7,0.048,15,15.1
+7,green,7,Rainbird,49,Micro-bird ,748,7,49,7,0.048,20,17.4
+7,green,7,Rainbird,49,Micro-bird ,749,7,49,7,0.048,25,19.4
+7,green,7,Rainbird,49,Micro-bird ,750,7,49,7,0.048,30,21.2
+7,green,7,Rainbird,49,Micro-bird ,751,7,49,7,0.048,35,22.8
+7,green,7,Rainbird,49,Micro-bird ,752,7,49,7,0.048,40,24.2
+3,orange,7,Rainbird,49,Micro-bird ,759,7,49,3,0.068,15,28.9
+3,orange,7,Rainbird,49,Micro-bird ,760,7,49,3,0.068,20,33.4
+3,orange,7,Rainbird,49,Micro-bird ,761,7,49,3,0.068,25,37.2
+3,orange,7,Rainbird,49,Micro-bird ,762,7,49,3,0.068,30,40.5
+3,orange,7,Rainbird,49,Micro-bird ,763,7,49,3,0.068,35,43.3
+3,orange,7,Rainbird,49,Micro-bird ,764,7,49,3,0.068,40,45.8
+16,red,7,Rainbird,49,Micro-bird ,753,7,49,16,0.057,15,20.9
+16,red,7,Rainbird,49,Micro-bird ,754,7,49,16,0.057,20,24.1
+16,red,7,Rainbird,49,Micro-bird ,755,7,49,16,0.057,25,26.9
+16,red,7,Rainbird,49,Micro-bird ,756,7,49,16,0.057,30,29.3
+16,red,7,Rainbird,49,Micro-bird ,757,7,49,16,0.057,35,31.4
+16,red,7,Rainbird,49,Micro-bird ,758,7,49,16,0.057,40,33.3
+2,black,7,Rainbird,48,Micro-quick ,706,7,48,2,0.026,10,3.7
+2,black,7,Rainbird,48,Micro-quick ,707,7,48,2,0.026,15,4.5
+2,black,7,Rainbird,48,Micro-quick ,708,7,48,2,0.026,20,5.2
+2,black,7,Rainbird,48,Micro-quick ,709,7,48,2,0.026,25,5.9
+2,black,7,Rainbird,48,Micro-quick ,710,7,48,2,0.026,30,6.5
+4,blue,7,Rainbird,48,Micro-quick ,716,7,48,4,0.038,10,7.3
+4,blue,7,Rainbird,48,Micro-quick ,717,7,48,4,0.038,15,9.1
+4,blue,7,Rainbird,48,Micro-quick ,718,7,48,4,0.038,20,10.6
+4,blue,7,Rainbird,48,Micro-quick ,719,7,48,4,0.038,25,11.8
+4,blue,7,Rainbird,48,Micro-quick ,720,7,48,4,0.038,30,13.2
+7,green,7,Rainbird,48,Micro-quick ,726,7,48,7,0.048,10,10.7
+7,green,7,Rainbird,48,Micro-quick ,727,7,48,7,0.048,15,13.3
+7,green,7,Rainbird,48,Micro-quick ,728,7,48,7,0.048,20,15.5
+7,green,7,Rainbird,48,Micro-quick ,729,7,48,7,0.048,25,17.4
+7,green,7,Rainbird,48,Micro-quick ,730,7,48,7,0.048,30,19.1
+3,orange,7,Rainbird,48,Micro-quick ,711,7,48,3,0.033,10,5.6
+3,orange,7,Rainbird,48,Micro-quick ,712,7,48,3,0.033,15,6.9
+3,orange,7,Rainbird,48,Micro-quick ,713,7,48,3,0.033,20,8.0
+3,orange,7,Rainbird,48,Micro-quick ,714,7,48,3,0.033,25,9.2
+3,orange,7,Rainbird,48,Micro-quick ,715,7,48,3,0.033,30,10.0
+16,red,7,Rainbird,48,Micro-quick ,731,7,48,16,0.057,10,14.2
+16,red,7,Rainbird,48,Micro-quick ,732,7,48,16,0.057,15,17.3
+16,red,7,Rainbird,48,Micro-quick ,733,7,48,16,0.057,20,20.1
+16,red,7,Rainbird,48,Micro-quick ,734,7,48,16,0.057,25,22.4
+16,red,7,Rainbird,48,Micro-quick ,735,7,48,16,0.057,30,26.0
+6,violet,7,Rainbird,48,Micro-quick ,721,7,48,6,0.044,10,9.7
+6,violet,7,Rainbird,48,Micro-quick ,722,7,48,6,0.044,15,11.8
+6,violet,7,Rainbird,48,Micro-quick ,723,7,48,6,0.044,20,13.7
+6,violet,7,Rainbird,48,Micro-quick ,724,7,48,6,0.044,25,15.5
+6,violet,7,Rainbird,48,Micro-quick ,725,7,48,6,0.044,30,17.2
+60,whilte,7,Rainbird,48,Micro-quick ,736,7,48,60,0.068,10,17.2
+60,whilte,7,Rainbird,48,Micro-quick ,737,7,48,60,0.068,15,21.0
+60,whilte,7,Rainbird,48,Micro-quick ,738,7,48,60,0.068,20,25.2
+60,whilte,7,Rainbird,48,Micro-quick ,739,7,48,60,0.068,25,27.9
+60,whilte,7,Rainbird,48,Micro-quick ,740,7,48,60,0.068,30,30.6
+63,light blue,2,Toro,59,Micro-Sprinkler PC MS7PC12,794,2,59,63,0.042,20,11.6
+63,light blue,2,Toro,59,Micro-Sprinkler PC MS7PC12,795,2,59,63,0.042,30,13.2
+63,light blue,2,Toro,59,Micro-Sprinkler PC MS7PC12,796,2,59,63,0.042,40,12.2
+63,light blue,2,Toro,59,Micro-Sprinkler PC MS7PC12,797,2,59,63,0.042,50,12.4
+63,light blue,2,Toro,59,Micro-Sprinkler PC MS7PC12,798,2,59,63,0.042,60,12.7
+61,white,2,Toro,60,Micro-Sprinkler PC MS7PC15,799,2,60,61,0.046,20,13.7
+61,white,2,Toro,60,Micro-Sprinkler PC MS7PC15,800,2,60,61,0.046,30,15.3
+61,white,2,Toro,60,Micro-Sprinkler PC MS7PC15,801,2,60,61,0.046,40,14.8
+61,white,2,Toro,60,Micro-Sprinkler PC MS7PC15,802,2,60,61,0.046,50,15.6
+61,white,2,Toro,60,Micro-Sprinkler PC MS7PC15,803,2,60,61,0.046,60,15.9
+62,maroon,2,Toro,61,Micro-Sprinkler PC MS7PC20,804,2,61,62,0.053,20,18.8
+62,maroon,2,Toro,61,Micro-Sprinkler PC MS7PC20,805,2,61,62,0.053,30,20.3
+62,maroon,2,Toro,61,Micro-Sprinkler PC MS7PC20,806,2,61,62,0.053,40,19.3
+62,maroon,2,Toro,61,Micro-Sprinkler PC MS7PC20,807,2,61,62,0.053,50,19.6
+62,maroon,2,Toro,61,Micro-Sprinkler PC MS7PC20,808,2,61,62,0.053,60,20.1
+7,green,2,Toro,62,Micro-Sprinkler PC MS7PC26,809,2,62,7,0.06,20,24.6
+7,green,2,Toro,62,Micro-Sprinkler PC MS7PC26,810,2,62,7,0.06,30,26.2
+7,green,2,Toro,62,Micro-Sprinkler PC MS7PC26,811,2,62,7,0.06,40,24.8
+7,green,2,Toro,62,Micro-Sprinkler PC MS7PC26,812,2,62,7,0.06,50,25.6
+7,green,2,Toro,62,Micro-Sprinkler PC MS7PC26,813,2,62,7,0.06,60,26.7
+39,purple,2,Toro,63,Micro-Sprinkler PC MS7PC31,814,2,63,39,0.071,20,30.6
+39,purple,2,Toro,63,Micro-Sprinkler PC MS7PC31,815,2,63,39,0.071,30,30.9
+39,purple,2,Toro,63,Micro-Sprinkler PC MS7PC31,816,2,63,39,0.071,40,29.3
+39,purple,2,Toro,63,Micro-Sprinkler PC MS7PC31,817,2,63,39,0.071,50,30.4
+39,purple,2,Toro,63,Micro-Sprinkler PC MS7PC31,818,2,63,39,0.071,60,31.4
+4,blue,2,Toro,64,Micro-Sprinkler PC MS7PC35,819,2,64,4,0.071,20,34.3
+4,blue,2,Toro,64,Micro-Sprinkler PC MS7PC35,820,2,64,4,0.071,30,36.2
+4,blue,2,Toro,64,Micro-Sprinkler PC MS7PC35,821,2,64,4,0.071,40,33.8
+4,blue,2,Toro,64,Micro-Sprinkler PC MS7PC35,822,2,64,4,0.071,50,35.1
+4,blue,2,Toro,64,Micro-Sprinkler PC MS7PC35,823,2,64,4,0.071,60,36.5
+22,grey,2,Toro,65,Micro-Sprinkler PC MS7PC40,824,2,65,22,0.075,20,38.6
+22,grey,2,Toro,65,Micro-Sprinkler PC MS7PC40,825,2,65,22,0.075,30,40.7
+22,grey,2,Toro,65,Micro-Sprinkler PC MS7PC40,826,2,65,22,0.075,40,38.0
+22,grey,2,Toro,65,Micro-Sprinkler PC MS7PC40,827,2,65,22,0.075,50,39.1
+22,grey,2,Toro,65,Micro-Sprinkler PC MS7PC40,828,2,65,22,0.075,60,40.7
+2,black,2,Toro,58,Micro-Sprinkler PC MS7PC9,789,2,58,2,0.036,20,9.0
+2,black,2,Toro,58,Micro-Sprinkler PC MS7PC9,790,2,58,2,0.036,30,9.8
+2,black,2,Toro,58,Micro-Sprinkler PC MS7PC9,791,2,58,2,0.036,40,9.2
+2,black,2,Toro,58,Micro-Sprinkler PC MS7PC9,792,2,58,2,0.036,50,9.5
+2,black,2,Toro,58,Micro-Sprinkler PC MS7PC9,793,2,58,2,0.036,60,9.8
+2,black,2,Toro,50,Micro-Sprinkler VI classic SAM-610,765,2,50,2,0.039,15,7.9
+2,black,2,Toro,50,Micro-Sprinkler VI classic SAM-610,766,2,50,2,0.039,20,9.1
+2,black,2,Toro,50,Micro-Sprinkler VI classic SAM-610,767,2,50,2,0.039,25,10.2
+61,white,2,Toro,51,Micro-Sprinkler VI classic SAM-613,768,2,51,61,0.041,15,11.8
+61,white,2,Toro,51,Micro-Sprinkler VI classic SAM-613,769,2,51,61,0.041,20,13.7
+61,white,2,Toro,51,Micro-Sprinkler VI classic SAM-613,770,2,51,61,0.041,25,15.3
+62,maroon,2,Toro,52,Micro-Sprinkler VI classic SAM-614,771,2,52,62,0.049,15,16.5
+62,maroon,2,Toro,52,Micro-Sprinkler VI classic SAM-614,772,2,52,62,0.049,20,19.0
+62,maroon,2,Toro,52,Micro-Sprinkler VI classic SAM-614,773,2,52,62,0.049,25,21.2
+7,green,2,Toro,53,Micro-Sprinkler VI classic SAM-616,774,2,53,7,0.055,15,21.5
+7,green,2,Toro,53,Micro-Sprinkler VI classic SAM-616,775,2,53,7,0.055,20,24.8
+7,green,2,Toro,53,Micro-Sprinkler VI classic SAM-616,776,2,53,7,0.055,25,27.8
+4,blue,2,Toro,54,Micro-Sprinkler VI classic SAM-620,777,2,54,4,0.065,15,29.2
+4,blue,2,Toro,54,Micro-Sprinkler VI classic SAM-620,778,2,54,4,0.065,20,33.7
+4,blue,2,Toro,54,Micro-Sprinkler VI classic SAM-620,779,2,54,4,0.065,25,37.7
+22,grey,2,Toro,55,Micro-Sprinkler VI classic SAM-622,780,2,55,22,0.071,15,33.8
+22,grey,2,Toro,55,Micro-Sprinkler VI classic SAM-622,781,2,55,22,0.071,20,39.0
+22,grey,2,Toro,55,Micro-Sprinkler VI classic SAM-622,782,2,55,22,0.071,25,43.6
+15,yellow,2,Toro,56,Micro-Sprinkler VI classic SAM-624,783,2,56,15,0.079,15,41.7
+15,yellow,2,Toro,56,Micro-Sprinkler VI classic SAM-624,784,2,56,15,0.079,20,48.1
+15,yellow,2,Toro,56,Micro-Sprinkler VI classic SAM-624,785,2,56,15,0.079,25,53.8
+16,red,2,Toro,57,Micro-Sprinkler VI classic SAM-628,786,2,57,16,0.091,15,56.4
+16,red,2,Toro,57,Micro-Sprinkler VI classic SAM-628,787,2,57,16,0.091,20,65.1
+16,red,2,Toro,57,Micro-Sprinkler VI classic SAM-628,788,2,57,16,0.091,25,72.8
+64,30 black,2,Toro,66,Snap-Jet II SSJ30x,829,2,66,64,0.0,10,4.2
+64,30 black,2,Toro,66,Snap-Jet II SSJ30x,830,2,66,64,0.0,15,5.2
+64,30 black,2,Toro,66,Snap-Jet II SSJ30x,831,2,66,64,0.0,20,6.0
+64,30 black,2,Toro,66,Snap-Jet II SSJ30x,832,2,66,64,0.0,25,6.7
+64,30 black,2,Toro,66,Snap-Jet II SSJ30x,833,2,66,64,0.0,30,7.3
+65,35 orange,2,Toro,67,Snap-Jet II SSJ35x,834,2,67,65,0.0,10,5.9
+65,35 orange,2,Toro,67,Snap-Jet II SSJ35x,835,2,67,65,0.0,15,7.3
+65,35 orange,2,Toro,67,Snap-Jet II SSJ35x,836,2,67,65,0.0,20,8.4
+65,35 orange,2,Toro,67,Snap-Jet II SSJ35x,837,2,67,65,0.0,25,9.4
+65,35 orange,2,Toro,67,Snap-Jet II SSJ35x,838,2,67,65,0.0,30,10.3
+66,40 blue,2,Toro,68,Snap-Jet II SSJ40x,839,2,68,66,0.0,10,7.6
+66,40 blue,2,Toro,68,Snap-Jet II SSJ40x,840,2,68,66,0.0,15,9.3
+66,40 blue,2,Toro,68,Snap-Jet II SSJ40x,841,2,68,66,0.0,20,10.7
+66,40 blue,2,Toro,68,Snap-Jet II SSJ40x,842,2,68,66,0.0,25,12.0
+66,40 blue,2,Toro,68,Snap-Jet II SSJ40x,843,2,68,66,0.0,30,13.1
+67,45 purple,2,Toro,69,Snap-Jet II SSJ45x,844,2,69,67,0.0,10,10.0
+67,45 purple,2,Toro,69,Snap-Jet II SSJ45x,845,2,69,67,0.0,15,12.2
+67,45 purple,2,Toro,69,Snap-Jet II SSJ45x,846,2,69,67,0.0,20,14.1
+67,45 purple,2,Toro,69,Snap-Jet II SSJ45x,847,2,69,67,0.0,25,15.8
+67,45 purple,2,Toro,69,Snap-Jet II SSJ45x,848,2,69,67,0.0,30,17.3
+68,50 green,2,Toro,70,Snap-Jet II SSJ50x,849,2,70,68,0.0,10,11.8
+68,50 green,2,Toro,70,Snap-Jet II SSJ50x,850,2,70,68,0.0,15,14.5
+68,50 green,2,Toro,70,Snap-Jet II SSJ50x,851,2,70,68,0.0,20,16.7
+68,50 green,2,Toro,70,Snap-Jet II SSJ50x,852,2,70,68,0.0,25,18.7
+68,50 green,2,Toro,70,Snap-Jet II SSJ50x,853,2,70,68,0.0,30,20.5
+69,55 yellow,2,Toro,71,Snap-Jet II SSJ55x,854,2,71,69,0.0,10,14.5
+69,55 yellow,2,Toro,71,Snap-Jet II SSJ55x,855,2,71,69,0.0,15,17.8
+69,55 yellow,2,Toro,71,Snap-Jet II SSJ55x,856,2,71,69,0.0,20,20.5
+69,55 yellow,2,Toro,71,Snap-Jet II SSJ55x,857,2,71,69,0.0,25,22.9
+69,55 yellow,2,Toro,71,Snap-Jet II SSJ55x,858,2,71,69,0.0,30,25.1
+70,60 red,2,Toro,72,Snap-Jet II SSJ60x,859,2,72,70,0.0,10,17.0
+70,60 red,2,Toro,72,Snap-Jet II SSJ60x,860,2,72,70,0.0,15,20.8
+70,60 red,2,Toro,72,Snap-Jet II SSJ60x,861,2,72,70,0.0,20,24.0
+70,60 red,2,Toro,72,Snap-Jet II SSJ60x,862,2,72,70,0.0,25,26.8
+70,60 red,2,Toro,72,Snap-Jet II SSJ60x,863,2,72,70,0.0,30,29.4

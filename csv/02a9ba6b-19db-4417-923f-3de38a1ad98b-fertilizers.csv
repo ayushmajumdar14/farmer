@@ -1,0 +1,4 @@
+Editable,PercentageN,PoundsPerGallons,Usage,Nutrients,Description,FormulationType_Id,FormulationType_Name,LbsPerGallon,OwnerRanchId,IsPrivate,Id,Name
+False,0.0,,0,,,2,Wet,11.9,,False,24,0-0-24
+False,0.0,,0,,,1,Dry,0.0,,False,44,0-0-50
+False,0.0,,0,,,2,Wet,9.4,1508.0,False,453,0-0-12

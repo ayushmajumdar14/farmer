@@ -1,0 +1,170 @@
+[
+    {
+        "Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308",
+        "CommodityId": 17
+    },
+    {
+        "Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308",
+        "CommodityId": 18
+    },
+    {
+        "Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308",
+        "CommodityId": 36
+    },
+    {
+        "Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308",
+        "CommodityId": 31
+    },
+    {
+        "0_Id": 6361,
+        "0_Name": "Arugula baby green (Hawaii/Untested)",
+        "0_UptakeFactor": 0.0,
+        "0_UptakeConstant": 0.0,
+        "0_IsNDependent": true,
+        "0_IsSelected": true,
+        "0_PlantingsCount": 2,
+        "0_Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308",
+        "0_CommodityId": 21,
+        "1_Id": 6346,
+        "1_Name": "Red Russian Kale baby green (Hawaii/Untested)",
+        "1_UptakeFactor": 0.0,
+        "1_UptakeConstant": 0.0,
+        "1_IsNDependent": true,
+        "1_IsSelected": true,
+        "1_PlantingsCount": 2,
+        "1_Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308",
+        "1_CommodityId": 21
+    },
+    {
+        "Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308",
+        "CommodityId": 2
+    },
+    {
+        "Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308",
+        "CommodityId": 19
+    },
+    {
+        "Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308",
+        "CommodityId": 7
+    },
+    {
+        "Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308",
+        "CommodityId": 12
+    },
+    {
+        "Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308",
+        "CommodityId": 38
+    },
+    {
+        "Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308",
+        "CommodityId": 5
+    },
+    {
+        "Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308",
+        "CommodityId": 4
+    },
+    {
+        "Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308",
+        "CommodityId": 37
+    },
+    {
+        "Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308",
+        "CommodityId": 20
+    },
+    {
+        "Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308",
+        "CommodityId": 8
+    },
+    {
+        "Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308",
+        "CommodityId": 27
+    },
+    {
+        "Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308",
+        "CommodityId": 28
+    },
+    {
+        "Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308",
+        "CommodityId": 25
+    },
+    {
+        "Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308",
+        "CommodityId": 40
+    },
+    {
+        "Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308",
+        "CommodityId": 39
+    },
+    {
+        "0_Id": 23,
+        "0_Name": "Lettuce - Iceberg 3 row, 42-inch bed",
+        "0_UptakeFactor": 0.0,
+        "0_UptakeConstant": 0.0,
+        "0_IsNDependent": true,
+        "0_IsSelected": true,
+        "0_PlantingsCount": 0,
+        "0_Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308",
+        "0_CommodityId": 1,
+        "1_Id": 3716,
+        "1_Name": "Lettuce-Baby (green) 80-inch bed",
+        "1_UptakeFactor": 0.0,
+        "1_UptakeConstant": 0.0,
+        "1_IsNDependent": true,
+        "1_IsSelected": true,
+        "1_PlantingsCount": 0,
+        "1_Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308",
+        "1_CommodityId": 1
+    },
+    {
+        "Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308",
+        "CommodityId": 22
+    },
+    {
+        "Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308",
+        "CommodityId": 9
+    },
+    {
+        "Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308",
+        "CommodityId": 24
+    },
+    {
+        "Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308",
+        "CommodityId": 35
+    },
+    {
+        "Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308",
+        "CommodityId": 10
+    },
+    {
+        "Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308",
+        "CommodityId": 32
+    },
+    {
+        "Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308",
+        "CommodityId": 34
+    },
+    {
+        "Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308",
+        "CommodityId": 3
+    },
+    {
+        "Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308",
+        "CommodityId": 23
+    },
+    {
+        "Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308",
+        "CommodityId": 6
+    },
+    {
+        "Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308",
+        "CommodityId": 11
+    },
+    {
+        "Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308",
+        "CommodityId": 33
+    },
+    {
+        "Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308",
+        "CommodityId": 26
+    }
+]

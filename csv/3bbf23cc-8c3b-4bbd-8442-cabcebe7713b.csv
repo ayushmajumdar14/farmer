@@ -1,0 +1,2 @@
+RanchName,Acres,Coordinates,RanchOwner,RanchOwnerFullName,RanchOwnerEmail,UseSpatialCIMIS,UseCIMISAverageMode,SpatialETAvailable,WeatherAPI_Id,Id,Ranch_External_GUID
+UCCE 6,50.0,"36.268816,-121.190645",94FAC096-0509-4805-BB50-6FF7F893D6AB,Michael Cahn,mdcahn@ucdavis.edu,False,False,True,1,4482,3bbf23cc-8c3b-4bbd-8442-cabcebe7713b

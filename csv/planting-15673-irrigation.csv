@@ -1,0 +1,4 @@
+AverageReferenceET,ReferenceET,AvailableSoilMoisture,CanopyCover,AvgCanopy,CropCoefficient,TotalCropET,CropStage,CummulativeWaterAppliedAndRainfall,EventDate,IsOnWetDate,Id,IrrigationInterval,IrrigationMethod,Rainfall,ContributingRainfall,Ratio,WaterApplied,PlantingId
+0.0,0.0,0.0,0.18881209351106085,0.0,1.15,0.0,,0.0,6/1/2024,True,8403509,N/A,Germination Sprinkler,0.0,1.2,0.28,,15673
+0.22,0.22,0.27455428088505035,0.22001475387985533,1.15,1.15,0.253,,0.56,6/2/2024,False,8403510,1,Germination Sprinkler,0.0,0.0,0.28,0.56,15673
+0.235,0.47,0.27455428088505035,0.2986805933196293,0.905,1.15,0.42535,,1.288,6/4/2024,False,8403530,2,Germination Sprinkler,0.0,0.0,0.28,0.728,15673

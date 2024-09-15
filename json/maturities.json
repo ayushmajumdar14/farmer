@@ -1,0 +1,27 @@
+[
+    {
+        "Id": 1,
+        "Name": "Pre-Bud",
+        "DisplayOrder": 1
+    },
+    {
+        "Id": 2,
+        "Name": "Mid-Bud",
+        "DisplayOrder": 2
+    },
+    {
+        "Id": 3,
+        "Name": "10% Bloom",
+        "DisplayOrder": 3
+    },
+    {
+        "Id": 4,
+        "Name": "50% Bloom",
+        "DisplayOrder": 4
+    },
+    {
+        "Id": 5,
+        "Name": "100% Bloom",
+        "DisplayOrder": 5
+    }
+]

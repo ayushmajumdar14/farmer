@@ -1,0 +1,13 @@
+[
+    {
+        "Id": 54,
+        "External_Id": "116",
+        "Name": "Salinas North",
+        "Distance": 1,
+        "NearestCity": "Salinas",
+        "County": "Monterey",
+        "Priority": 1,
+        "ActiveStation_Id": 54,
+        "ActiveStation_Active": true
+    }
+]

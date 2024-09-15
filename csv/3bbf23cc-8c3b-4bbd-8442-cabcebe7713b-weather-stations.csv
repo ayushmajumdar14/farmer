@@ -1,0 +1,3 @@
+Id,External_Id,Name,Distance,NearestCity,County,Priority,ActiveStation_Id,ActiveStation_Active
+52,113,King City-Oasis Rd.,12,King City,Monterey,1,52,True
+53,114,Arroyo Seco,8,Soledad,Monterey,2,53,True

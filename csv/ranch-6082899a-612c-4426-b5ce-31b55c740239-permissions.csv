@@ -1,0 +1,2 @@
+RanchName,RanchExternalGuid,UserIsRanchOwner,UserCanEditPlanting,UserCanEditFertilizationEvent,UserCanEditIrrigationEvent,UserCanEditSoilSampleEvent,UserCanEditRanch,UserCanDataExport,HasActivePlantings
+Dressing,6082899a-612c-4426-b5ce-31b55c740239,True,True,True,True,True,True,True,False

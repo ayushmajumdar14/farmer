@@ -1,0 +1,35 @@
+Id,Name,IconPath,HarvestOnce,IsActive,CommodityTypeCalculator
+17,Alfalfa,alfalfa-200x200.jpg,True,False,CropManage.Calculations.Calculators.Alfalfa
+18,Almond,almond-tree-200x200.jpg,False,False,CropManage.Calculations.Calculators.Almond
+36,Artichoke,thumbnail-commodity-lettuce.jpg,True,False,CropManage.Calculations.Calculators.Broccoli
+31,Asian Greens,chinese-cabbage-200x200.jpg,True,False,CropManage.Calculations.Calculators.Lettuce
+21,Baby Salad Greens,baby-salad-greens-200x200.jpg,True,False,CropManage.Calculations.Calculators.Lettuce
+2,Broccoli,thumbnail-commodity-broccoli.jpg,False,False,CropManage.Calculations.Calculators.Broccoli
+19,Brussels Sprouts,brussels-sprout-200x200.jpg,True,False,CropManage.Calculations.Calculators.BrusselSprouts
+7,Cabbage,thumbnail-commodity-cabbage.jpg,False,False,CropManage.Calculations.Calculators.Cabbage
+12,Caneberry,thumbnail-commodity-caneberry.jpg,False,False,CropManage.Calculations.Calculators.Caneberry
+38,Carrot,thumbnail-commodity-lettuce.jpg,True,False,CropManage.Calculations.Calculators.Lettuce
+5,Cauliflower,thumbnail-commodity-cauliflower.jpg,False,False,CropManage.Calculations.Calculators.Cauliflower
+4,Celery,celery-200x200.jpg,True,False,CropManage.Calculations.Calculators.Celery
+37,Chicory,thumbnail-commodity-lettuce.jpg,True,False,CropManage.Calculations.Calculators.Lettuce
+20,Chinese Cabbage,chinese-cabbage-200x200.jpg,True,False,CropManage.Calculations.Calculators.Lettuce
+8,Cilantro,thumbnail-commodity-cilantro.jpg,True,False,CropManage.Calculations.Calculators.Cilantro
+27,Cucumber,cucumber-200x200.jpg,True,False,CropManage.Calculations.Calculators.ProcessingTomato
+28,Edible Hibiscus,edible-hibiscus-200x200.jpg,True,False,CropManage.Calculations.Calculators.Caneberry
+25,Eggplant,eggplant-200x200.jpg,True,False,CropManage.Calculations.Calculators.ProcessingTomato
+40,Fennel,thumbnail-commodity-lettuce.jpg,True,False,CropManage.Calculations.Calculators.Lettuce
+39,Grape,table-grape-80x80.jpg,False,False,CropManage.Calculations.Calculators.Pistachio
+1,Lettuce,thumbnail-commodity-lettuce.jpg,True,False,CropManage.Calculations.Calculators.Lettuce
+22,Maize,maize-200x200.jpg,True,False,CropManage.Calculations.Calculators.ProcessingTomato
+9,Mizuna,thumbnail-commodity-mizuna.jpg,True,False,CropManage.Calculations.Calculators.Mizuna
+24,Onion,onion-200x200.jpg,True,False,CropManage.Calculations.Calculators.ProcessingTomato
+35,Pear,pear-tree-200x200.jpg,False,False,CropManage.Calculations.Calculators.Walnut
+10,Peppers,thumbnail-commodity-pepper.jpg,False,False,CropManage.Calculations.Calculators.Peppers
+32,Pistachio,pistachio-tree-200x200.jpg,False,False,CropManage.Calculations.Calculators.Pistachio
+34,Prune,prune-tree-200x200.jpg,False,False,CropManage.Calculations.Calculators.Walnut
+3,Spinach,thumbnail-commodity-spinach.jpg,True,False,CropManage.Calculations.Calculators.Spinach
+23,Squash,squash-200x200.jpg,True,False,CropManage.Calculations.Calculators.ProcessingTomato
+6,Strawberry,thumbnail-commodity-strawberry.jpg,False,False,CropManage.Calculations.Calculators.Strawberry
+11,Tomato,thumbnail-commodity-processing_tomato.jpg,True,False,CropManage.Calculations.Calculators.ProcessingTomato
+33,Walnut,walnut-tree-200x200.jpg,False,False,CropManage.Calculations.Calculators.Walnut
+26,Watermelon,watermelon-200x200.jpg,True,False,CropManage.Calculations.Calculators.ProcessingTomato

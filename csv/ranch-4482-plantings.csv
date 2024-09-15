@@ -1,0 +1,2 @@
+Id,Name,ActiveEvents,CommodityTypeId,CommodityTypeName,HarvestDate,WetDate,HasSoilMoistureFileName,HasFlowMeterFileName,RanchLot_Id,RanchLot_Name,IsNDependent,Ranch_External_GUID
+15673,Lettuce Romaine,6/29/2024,1,Lettuce,2024-08-14T00:00:00,2024-06-01T00:00:00,False,False,9487,4,True,3bbf23cc-8c3b-4bbd-8442-cabcebe7713b

@@ -1,0 +1,190 @@
+[
+    {
+        "Ranch_External_GUID": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b",
+        "CommodityId": 17
+    },
+    {
+        "Ranch_External_GUID": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b",
+        "CommodityId": 18
+    },
+    {
+        "Ranch_External_GUID": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b",
+        "CommodityId": 36
+    },
+    {
+        "Ranch_External_GUID": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b",
+        "CommodityId": 31
+    },
+    {
+        "Ranch_External_GUID": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b",
+        "CommodityId": 21
+    },
+    {
+        "Ranch_External_GUID": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b",
+        "CommodityId": 2
+    },
+    {
+        "Ranch_External_GUID": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b",
+        "CommodityId": 19
+    },
+    {
+        "Ranch_External_GUID": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b",
+        "CommodityId": 7
+    },
+    {
+        "Ranch_External_GUID": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b",
+        "CommodityId": 12
+    },
+    {
+        "Ranch_External_GUID": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b",
+        "CommodityId": 38
+    },
+    {
+        "Ranch_External_GUID": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b",
+        "CommodityId": 5
+    },
+    {
+        "Ranch_External_GUID": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b",
+        "CommodityId": 4
+    },
+    {
+        "Ranch_External_GUID": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b",
+        "CommodityId": 37
+    },
+    {
+        "Ranch_External_GUID": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b",
+        "CommodityId": 20
+    },
+    {
+        "Ranch_External_GUID": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b",
+        "CommodityId": 8
+    },
+    {
+        "Ranch_External_GUID": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b",
+        "CommodityId": 27
+    },
+    {
+        "Ranch_External_GUID": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b",
+        "CommodityId": 28
+    },
+    {
+        "Ranch_External_GUID": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b",
+        "CommodityId": 25
+    },
+    {
+        "Ranch_External_GUID": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b",
+        "CommodityId": 40
+    },
+    {
+        "Ranch_External_GUID": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b",
+        "CommodityId": 39
+    },
+    {
+        "0_Id": 3716,
+        "0_Name": "Lettuce-Baby (green) 80-inch bed",
+        "0_UptakeFactor": 0.0,
+        "0_UptakeConstant": 0.0,
+        "0_IsNDependent": true,
+        "0_IsSelected": true,
+        "0_PlantingsCount": 0,
+        "0_Ranch_External_GUID": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b",
+        "0_CommodityId": 1,
+        "1_Id": 3714,
+        "1_Name": "Lettuce-Baby (red) 80-inch bed",
+        "1_UptakeFactor": 0.0,
+        "1_UptakeConstant": 0.0,
+        "1_IsNDependent": true,
+        "1_IsSelected": true,
+        "1_PlantingsCount": 0,
+        "1_Ranch_External_GUID": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b",
+        "1_CommodityId": 1,
+        "2_Id": 10768,
+        "2_Name": "Lettuce-Green Leaf, 5 row, 80-inch bed",
+        "2_UptakeFactor": 0.0,
+        "2_UptakeConstant": 0.0,
+        "2_IsNDependent": true,
+        "2_IsSelected": true,
+        "2_PlantingsCount": 0,
+        "2_Ranch_External_GUID": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b",
+        "2_CommodityId": 1,
+        "3_Id": 5,
+        "3_Name": "Lettuce-Iceberg, 2 row, 40-inch bed",
+        "3_UptakeFactor": 0.0,
+        "3_UptakeConstant": 0.0,
+        "3_IsNDependent": true,
+        "3_IsSelected": true,
+        "3_PlantingsCount": 0,
+        "3_Ranch_External_GUID": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b",
+        "3_CommodityId": 1,
+        "4_Id": 1,
+        "4_Name": "Lettuce-Romaine, 2 row, 40-inch bed",
+        "4_UptakeFactor": 0.0,
+        "4_UptakeConstant": 0.0,
+        "4_IsNDependent": true,
+        "4_IsSelected": true,
+        "4_PlantingsCount": 1,
+        "4_Ranch_External_GUID": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b",
+        "4_CommodityId": 1,
+        "5_Id": 11,
+        "5_Name": "Lettuce-Romaine, 5 row, 80-inch bed",
+        "5_UptakeFactor": 0.0,
+        "5_UptakeConstant": 0.0,
+        "5_IsNDependent": true,
+        "5_IsSelected": true,
+        "5_PlantingsCount": 0,
+        "5_Ranch_External_GUID": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b",
+        "5_CommodityId": 1
+    },
+    {
+        "Ranch_External_GUID": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b",
+        "CommodityId": 22
+    },
+    {
+        "Ranch_External_GUID": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b",
+        "CommodityId": 9
+    },
+    {
+        "Ranch_External_GUID": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b",
+        "CommodityId": 24
+    },
+    {
+        "Ranch_External_GUID": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b",
+        "CommodityId": 35
+    },
+    {
+        "Ranch_External_GUID": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b",
+        "CommodityId": 10
+    },
+    {
+        "Ranch_External_GUID": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b",
+        "CommodityId": 32
+    },
+    {
+        "Ranch_External_GUID": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b",
+        "CommodityId": 34
+    },
+    {
+        "Ranch_External_GUID": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b",
+        "CommodityId": 3
+    },
+    {
+        "Ranch_External_GUID": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b",
+        "CommodityId": 23
+    },
+    {
+        "Ranch_External_GUID": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b",
+        "CommodityId": 6
+    },
+    {
+        "Ranch_External_GUID": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b",
+        "CommodityId": 11
+    },
+    {
+        "Ranch_External_GUID": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b",
+        "CommodityId": 33
+    },
+    {
+        "Ranch_External_GUID": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b",
+        "CommodityId": 26
+    }
+]

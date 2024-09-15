@@ -1,0 +1,44 @@
+[
+    {
+        "Id": 5,
+        "External_Id": 5,
+        "Name": "Azmet                         ",
+        "API_URL": null
+    },
+    {
+        "Id": 1,
+        "External_Id": 1,
+        "Name": "CIMIS                         ",
+        "API_URL": "water.ca.gov"
+    },
+    {
+        "Id": 6,
+        "External_Id": 6,
+        "Name": "CropNet                       ",
+        "API_URL": null
+    },
+    {
+        "Id": 3,
+        "External_Id": 3,
+        "Name": "HOBOlink                      ",
+        "API_URL": null
+    },
+    {
+        "Id": 4,
+        "External_Id": 4,
+        "Name": "Invalid                       ",
+        "API_URL": null
+    },
+    {
+        "Id": 7,
+        "External_Id": 7,
+        "Name": "OpenET                        ",
+        "API_URL": null
+    },
+    {
+        "Id": 2,
+        "External_Id": 2,
+        "Name": "Western Weather Group         ",
+        "API_URL": null
+    }
+]

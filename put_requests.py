@@ -1,10 +1,15 @@
 import requests
+import os
+
+access_token = os.getenv("ACCESS_TOKEN")
+base_url_v2 = os.getenv("BASE_CROP_MANAGE_URL_V2")
+base_url_v3 = os.getenv("BASE_CROP_MANAGE_URL_V3")
 
 # (COULD NOT TEST)
 # PUT v2/fertilization-events/{id}.{ext}
 # Updates a fertilization event.
 def put_update_fertilization_event(access_token, id, fertilizationEvent, managerNRecommendation, managerFertilizationAmount, plantingId):
-    url = f"https://api.cropmanage.ucanr.edu/v2/fertilization-events/{id}." + "{ext}"
+    url = f"{base_url_v2}fertilization-events/{id}." + "{ext}"
 
     headers = {
         "Authorization": f"Bearer {access_token}",
@@ -27,7 +32,7 @@ def put_update_fertilization_event(access_token, id, fertilizationEvent, manager
 # PUT v3/irrigation-events/{id}.{ext}
 # Updates an irrigation event.
 def put_update_irrigation_event(access_token, id, eventDate, irrigationMethodId, managerAmountRecommendation, managerAmountRecommendationHours, waterApplied, waterAppliedHours, isCustomDeficitEnabled, customDeficit=None):
-    url = f"https://api.cropmanage.ucanr.edu/v3/irrigation-events/{id}." + "{ext}"
+    url = f"{base_url_v3}irrigation-events/{id}." + "{ext}"
 
     headers = {
         "Authorization": f"Bearer {access_token}",
@@ -65,7 +70,7 @@ def put_update_irrigation_event(access_token, id, eventDate, irrigationMethodId,
 # PUT v3/plantings/{plantingId}.json
 # Updates a planting.
 def put_update_planting(access_token, plantingId, defaultCropTypeId, name, wetDate, harvestDate, lotId, coordinates, acres, irrigationSettings, advancedSettings=None, macroTunnelSettings=None, stressSettings=None, perennialCropSettings=None):
-    url = f"https://api.cropmanage.ucanr.edu/v3/plantings/{plantingId}.json"
+    url = f"{base_url_v3}plantings/{plantingId}.json"
 
     headers = {
         "Authorization": f"Bearer {access_token}",
@@ -96,7 +101,7 @@ def put_update_planting(access_token, plantingId, defaultCropTypeId, name, wetDa
 # PUT v3/ranches/{ranchGuid}.json
 # Updates ranch information.
 def put_update_ranch(access_token, ranchGuid, name, coordinates, acres):
-    url = f"https://api.cropmanage.ucanr.edu/v3/ranches/{ranchGuid}.json"
+    url = f"{base_url_v3}ranches/{ranchGuid}.json"
 
     headers = {
         "Authorization": f"Bearer {access_token}",
@@ -118,7 +123,7 @@ def put_update_ranch(access_token, ranchGuid, name, coordinates, acres):
 # PUT v3/lots/{id}.json
 # Updates a planting area.
 def put_update_planting_area(access_token, id, name, acres, coordinates, obstructionDepth):
-    url = f"https://api.cropmanage.ucanr.edu/v3/lots/{id}.json"
+    url = f"{base_url_v3}lots/{id}.json"
 
     headers = {
         "Authorization": f"Bearer {access_token}",
@@ -141,7 +146,7 @@ def put_update_planting_area(access_token, id, name, acres, coordinates, obstruc
 # PUT v2/ranches/{ranchGuid}/wells/{wellId}.json
 # Updates a well.
 def put_update_well(access_token, ranchGuid, wellId, id, name, electricalConductivity, nitrogenPPM):
-    url = f"https://api.cropmanage.ucanr.edu/v2/ranches/{ranchGuid}/wells/{wellId}.json"
+    url = f"{base_url_v2}ranches/{ranchGuid}/wells/{wellId}.json"
 
     headers = {
         "Authorization": f"Bearer {access_token}",
@@ -164,7 +169,7 @@ def put_update_well(access_token, ranchGuid, wellId, id, name, electricalConduct
 # PUT v2/soil-sample-events/{id}.{ext}
 # Updates a soil sample event.
 def put_update_planting_area(access_token, id, eventDate, sampleTypeId, sampleDepth, cropStageId, soilMoistureId, nitrogen, otherNutrients, dateOnly):
-    url = f"https://api.cropmanage.ucanr.edu/v2/soil-sample-events/{id}." + "{ext}"
+    url = f"{base_url_v2}soil-sample-events/{id}." + "{ext}"
 
     headers = {
         "Authorization": f"Bearer {access_token}",
@@ -192,7 +197,7 @@ def put_update_planting_area(access_token, id, eventDate, sampleTypeId, sampleDe
 # PUT v3/tissue-sample-events/{eventId}.{ext}
 # Update tissue sample event.
 def put_tissue_sample_event(access_token, eventId, eventDate, locationId, locationDetails, cropStageId, notes, tissueSampleNutrients):
-    url = f"https://api.cropmanage.ucanr.edu/v3/tissue-sample-events/{eventId}." + "{ext}"
+    url = f"{base_url_v3}tissue-sample-events/{eventId}." + "{ext}"
 
     headers = {
         "Authorization": f"Bearer {access_token}",

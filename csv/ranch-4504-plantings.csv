@@ -1,0 +1,5 @@
+Id,Name,ActiveEvents,CommodityTypeId,CommodityTypeName,HarvestDate,WetDate,HasSoilMoistureFileName,HasFlowMeterFileName,RanchLot_Id,RanchLot_Name,IsNDependent,Ranch_External_GUID
+15715,Lettuce,7/18/2024,21,Baby Salad Greens,2024-07-20T00:00:00,2024-07-17T00:00:00,False,False,9508,Lettuce plantation ,True,dac8275a-edc6-4d82-adc3-f0e398537308
+15716,Strawberry,7/18/2024,21,Baby Salad Greens,2024-07-20T00:00:00,2024-07-17T00:00:00,False,False,9509,Strawberries Plantation,True,dac8275a-edc6-4d82-adc3-f0e398537308
+15718,Corn,,21,Baby Salad Greens,2024-07-31T00:00:00,2024-07-01T00:00:00,False,False,9510,Corn Field,True,dac8275a-edc6-4d82-adc3-f0e398537308
+15717,Cabbage,,21,Baby Salad Greens,2024-07-27T00:00:00,2024-07-07T00:00:00,False,False,9511,Cabbage Plantation ,True,dac8275a-edc6-4d82-adc3-f0e398537308

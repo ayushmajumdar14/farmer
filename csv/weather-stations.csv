@@ -1,0 +1,237 @@
+Id,Name,External_Id,API_Id,NearestCity,County,Coordinates,Lat,Lng,Distance,UcIpmName,WeatherAPI_Id,Active,AllowToDeactivate,AllowToDelete,RegionId,RegionName,MissingRecords
+203,Aguila,507,,Wickenburg,Maricopa,"33.946192,-113.186508",33.946192,-113.186508,0.0,,5,True,False,False,22,Arizona,0
+184,ALOUN HELEMANO HOBO,412,21356106,Wahiawa,O'ahu,"21.297,-157.817",21.297,-157.817,0.0,,6,True,False,False,19,Hawaii -- O'ahu,0
+128,Alpaugh,203,,Alpaugh,Tulare,"35.86,-119.5",35.86,-119.5,0.0,Alpaugh.A,1,False,False,False,13,South San Joaquin Valley,180
+40,Alturas,090,,Alturas,Modoc,"41.43,-120.48",41.43,-120.48,0.0,ALTURAS.A,1,True,False,False,0,,0
+141,Arleta,216,,Arleta,Los Angeles,"34.26,-118.38",34.26,-118.38,0.0,Arleta.A,1,True,True,False,14,South Inland,0
+53,Arroyo Seco,114,,Soledad,Monterey,"36.36,-121.29",36.36,-121.29,0.0,ARYOSECO.A,1,True,False,False,4,Central Coast,0
+61,Arvin-Edison,125,,Arvin,Kern,"35.21,-118.78",35.21,-118.78,0.0,ARVIN.A,1,True,False,False,0,,0
+95,Atascadero,163,,Atascadero,San Luis Obispo,"35.47,-120.65",35.47,-120.65,0.0,ATASCADERO.A,1,True,False,False,4,Central Coast,0
+120,Auburn,195,,Auburn,Placer,"38.89,-121.1",38.89,-121.1,0.0,AUBURN.A,1,True,False,False,11,Sierra Foothills,0
+68,Barstow NE,134,,Barstow,San Bernardino,"34.88,-116.98",34.88,-116.98,0.0,BARSTOW_NE.A,1,False,True,False,0,,180
+80,Belridge,146,,Lost Hills,Kern,"35.5,-119.69",35.5,-119.69,0.0,LOST_HILLS.A,1,True,False,False,13,South San Joaquin Valley,0
+91,Bennett Valley,158,,Santa Rosa,Sonoma,"38.42,-122.66",38.42,-122.66,0.0,BENNETT_VALLEY.A,1,True,False,False,0,,0
+124,Big Bear Lake,199,,Big Bear Lake,San Bernardino,"34.24,-116.87",34.24,-116.87,0.0,BIG_BEAR_LAKE.A,1,True,False,False,14,South Inland,0
+191,Biggs,244,,Biggs,Butte,"39.386632,-121.835278",39.386632,-121.835278,0.0,,1,True,False,False,6,North Sacramento Valley,0
+13,Bishop,035,,Bishop,Inyo,"37.36,-118.4",37.36,-118.4,0.0,BISHOP.A,1,True,False,False,21,Sierra,0
+112,Black Point,187,,Novato,Marin,"38.09,-122.53",38.09,-122.53,0.0,BLACK_POINT.A,1,True,True,False,0,,0
+20,Blackwells Corner,054,,Blackwells Corne,Kern,"35.65,-119.96",35.65,-119.96,0.0,BLACKWLL.A,1,True,False,False,13,South San Joaquin Valley,180
+69,Blythe NE,135,,Blythe,Riverside,"33.56,-114.67",33.56,-114.67,0.0,BLYTHE_NE.A,1,True,False,False,12,Desert Region,0
+204,Bonita,509,,Willcox,Graham,"32.477478,-109.932733",32.477478,-109.932733,0.0,,5,True,False,False,22,Arizona,0
+132,Borrego Springs,207,,Borrego Springs,San Diego,"33.27,-116.37",33.27,-116.37,0.0,BORREGO_SPRINGS.A,1,True,True,False,12,Desert Region,0
+205,Bowie,533,,Bowie,Cochise,"32.289091,-109.472073",32.289091,-109.472073,0.0,,5,True,True,False,22,Arizona,0
+18,Brentwood,047,,Brentwood,Contra Costa,"37.93,-121.66",37.93,-121.66,0.0,BRNTWOOD.A,1,True,False,False,8,Delta,0
+34,Browns Valley,084,,Marysville,Yuba,"39.27,-121.31",39.27,-121.31,0.0,BRWNSVLY.A,1,True,False,False,0,,0
+88,Bryte,155,,West Sacramento,Yolo,"38.6,-121.54",38.6,-121.54,0.0,BRYTE.A,1,True,False,False,0,,180
+206,Buckeye,526,,Palo Verde,Maricopa,"33.409193,-112.677836",33.409193,-112.677836,0.0,,5,True,False,False,22,Arizona,0
+22,Buntingville,057,,Susanville,Lassen,"40.29,-120.43",40.29,-120.43,0.0,BUNTNGVL.A,1,True,False,False,0,,180
+145,Cadiz Valley,221,,Chambless,San Bernardino,"34.51,-115.51",34.51,-115.51,0.0,Cadiz_Valley.A,1,True,False,False,12,Desert Region,0
+15,Calipatria/Mulberry,041,,Calipatria,Imperial,"33.04,-115.42",33.04,-115.42,0.0,BRAWLEY.A,1,True,False,False,12,Desert Region,0
+86,Camarillo,152,,Camarillo,Ventura,"34.23,-118.99",34.23,-118.99,0.0,CAMARILLO.A,1,True,False,False,3,South Coast,0
+7,Camino,013,,Placerville,El Dorado,"38.75,-120.73",38.75,-120.73,0.0,CAMINO.A,1,True,False,False,11,Sierra Foothills,0
+135,Carmel,210,,Carmel,Monterey,"36.54,-121.88",36.54,-121.88,0.0,CARMEL.A,1,True,False,False,4,Central Coast,0
+50,Carneros,109,,Napa,Napa,"38.22,-122.35",38.22,-122.35,0.0,NAPA.A,1,True,False,False,15,North Bay,180
+9,Castroville,019,,Castroville,Monterey,"36.77,-121.77",36.77,-121.77,0.0,CASTROVL.A,1,False,False,False,4,Central Coast,180
+56,Cathedral City,118,,Cathedral City,Riverside,"33.84,-116.48",33.84,-116.48,0.0,CATHEDRL.A,1,False,True,False,12,Desert Region,180
+140,Chatsworth,215,,Chatsworth,Los Angeles,"34.29,-118.59",34.29,-118.59,0.0,Chatsworth.A,1,True,False,False,14,South Inland,0
+170,Chino,255,,Chino,San Bernadino,"33.98535,-117.656528",33.98535,-117.656528,0.0,,1,True,False,False,14,South Inland,180
+130,Coalinga,205,,Coalinga,Fresno,"36.18,-120.36",36.18,-120.36,0.0,COALINGA.A,1,True,False,False,13,South San Joaquin Valley,0
+12,Colusa,032,,Colusa,Colusa,"39.23,-122.02",39.23,-122.02,0.0,COLUSA.A,1,False,False,False,7,South Sacramento Valley,180
+100,Concord,170,,Concord,Contra Costa,"38,-122.02",38.0,-122.02,0.0,CONCORD.A,1,True,False,False,9,Bay Area,0
+207,Coolidge,505,,Blackwater,Pinal,"32.979989,-111.605677",32.979989,-111.605677,0.0,,5,True,False,False,22,Arizona,0
+192,Coto de Caza,245,,Coto de Caza,Orange,"33.621667,-117.585278",33.621667,-117.585278,0.0,,1,True,False,False,3,South Coast,0
+38,Cuyama,088,,Cuyama,Santa Barbara,"34.93,-119.6",34.93,-119.6,0.0,CUYAMA.A,1,True,False,False,3,South Coast,0
+3,Davis,006,,Davis,Yolo,"38.54,-121.78",38.54,-121.78,0.0,DAVIS.A,1,True,False,False,7,South Sacramento Valley,0
+46,De Laveaga,104,,Santa Cruz,Santa Cruz,"37,-122",37.0,-122.0,0.0,SNTACRUZ.A,1,True,False,False,4,Central Coast,0
+108,Delano,182,,Delano,Tulare,"35.83,-119.26",35.83,-119.26,0.0,Delano.A,1,True,False,False,13,South San Joaquin Valley,0
+131,Denair,206,,Denair,Stanislaus,"37.55,-120.75",37.55,-120.75,0.0,Denair_II.A,1,True,False,False,10,North San Joaquin Valley,0
+208,Desert Ridge,527,,Windsong,Maricopa (north),"33.688202,-111.963449",33.688202,-111.963449,0.0,,5,True,True,False,22,Arizona,0
+150,Diamond Springs,228,,Diamond Springs,El Dorado,"38.64,-120.79",38.64,-120.79,0.0,Diamond_Springs.A,1,True,False,False,11,Sierra Foothills,0
+57,Dixon,121,,Dixon,Solano,"38.42,-121.79",38.42,-121.79,0.0,DIXON.A,1,True,False,False,8,Delta,180
+6,Durham,012,,Chico,Butte,"39.61,-121.82",39.61,-121.82,0.0,DURHAM.A,1,True,False,False,6,North Sacramento Valley,0
+138,El Cerrito,213,,El Cerrito,Contra Costa,"37.93,-122.3",37.93,-122.3,0.0,,1,True,False,False,9,Bay Area,0
+87,Escondido SPV,153,,Escondido,San Diego,"33.08,-116.98",33.08,-116.98,0.0,ESCONDIDO_SPV.A,1,True,False,False,3,South Coast,0
+121,Esparto,196,,Esparto,Yolo,"38.69,-122.14",38.69,-122.14,0.0,ESPARTO.A,1,False,False,False,7,South Sacramento Valley,180
+66,Fair Oaks,131,,Fair Oaks,Sacramento,"38.65,-121.22",38.65,-121.22,0.0,FAIR_OAKS.A,1,True,False,False,7,South Sacramento Valley,0
+72,Famoso,138,,Macfarland,Kern,"35.6,-119.21",35.6,-119.21,0.0,FAMOSO.A,1,False,False,False,13,South San Joaquin Valley,180
+197,Ferndale Plain,259,,Ferndale,Humboldt,"40.604467,-124.243186",40.604467,-124.243186,0.0,,1,True,False,False,2,North Coast,0
+4,Firebaugh/Telles,007,,Firebaugh,Fresno,"36.85,-120.59",36.85,-120.59,0.0,FIREBAGH.A,1,True,False,False,13,South San Joaquin Valley,0
+115,Five Points South West,190,,Five Points,Fresno,"36.39,-120.24",36.39,-120.24,0.0,Five_Points_SW.A,1,False,False,False,13,South San Joaquin Valley,180
+1,FivePoints/WSFS USDA,002,,Five Points,Fresno,"36.34,-120.11",36.34,-120.11,0.0,FIVE_PTS.A,1,True,False,False,13,South San Joaquin Valley,0
+32,Fresno State,080,,Fresno,Fresno,"36.82,-119.74",36.82,-119.74,0.0,FRESNO.A,1,True,False,False,13,South San Joaquin Valley,0
+209,"Ft. Mohave, CA",540,,Fort Mohave Reservation,Mohave (west central),"34.969092,-114.645041",34.969092,-114.645041,0.0,,5,True,False,False,22,Arizona,0
+199,Gazelle,261,,Gazelle,Siskiyou,"41.533989,-122.532279",41.533989,-122.532279,0.0,,1,True,True,False,1,North Mountain Region,0
+5,Gerber,008,,Gerber,Tehama,"40.04,-122.16",40.04,-122.16,0.0,GERBER.A,1,False,False,False,6,North Sacramento Valley,180
+146,Gerber South,222,,Gerber,Tehama,"40.028778,-122.15575",40.028778,-122.15575,0.0,,1,True,False,False,6,North Sacramento Valley,0
+136,Gilroy,211,,Gilroy,Santa Clara,"37.01,-121.54",37.01,-121.54,0.0,GILROY.A,1,True,False,False,4,Central Coast,0
+67,Glendale,133,,Glendale,Los Angeles,"34.2,-118.23",34.2,-118.23,0.0,GLENDALE.A,1,False,True,False,14,South Inland,180
+43,Goleta Foothills,094,,Goleta,Santa Barbara,"34.47,-119.87",34.47,-119.87,0.0,GOLETAHL.A,1,False,False,False,3,South Coast,180
+51,Green Valley Road,111,,Watsonville,Santa Cruz,"36.94,-121.77",36.94,-121.77,0.0,FREEDOM.A,1,False,True,False,4,Central Coast,180
+210,Harquahala,523,,Wintersburg,Maricopa (west),"33.4877,-113.1186",33.4877,-113.1186,0.0,,5,True,True,False,22,Arizona,0
+58,Hastings Tract,122,,Dixon,Solano,"38.28,-121.79",38.28,-121.79,0.0,HASTINGS.A,1,False,True,False,8,Delta,180
+137,Hastings Tract East,212,,Dixon,Solano,"38.28,-121.74",38.28,-121.74,0.0,HASTINGS_TRACT_EAST.A,1,True,False,False,8,Delta,0
+190,Hemet,239,,Hemet,Riverside,"33.664747,-116.955121",33.664747,-116.955121,0.0,,1,True,False,False,14,South Inland,0
+194,Highland,251,HIghland,Highland,San Bernadino,"34.112042,-117.1857",34.112042,-117.1857,0.0,,1,True,True,False,14,South Inland,0
+180,HIRAKO HOBO,408,21356099,Big Island,Big Island,"20.0036,-155.6864",20.0036,-155.6864,0.0,,6,True,False,False,16,Hawaii -- Big Island,0
+162,Holt,248,,Holt,San Joaquin,"37.9362813941819,-121.422474156428",37.936281394181904,-121.42247415642834,0.0,,1,True,False,False,8,Delta,0
+35,Hopland FS,085,,Hopland,Mendocino,"39.01,-123.08",39.01,-123.08,0.0,HOPLAND.A,1,False,False,False,2,North Coast,180
+125,Indio 2,200,,Indio,Riverside,"33.75,-116.26",33.75,-116.26,0.0,Indio_2.A,1,True,False,False,12,Desert Region,0
+29,Irvine,075,,Irvine,Orange,"33.69,-117.72",33.69,-117.72,0.0,SNTA_ANA.A,1,True,False,False,3,South Coast,0
+165,Jersey Island,247,,Oakley,Contra Costa,"38.033386,-121.701247",38.033386,-121.701247,0.0,,1,True,False,False,8,Delta,0
+235,Johnstonville,267,,Johnstonville,Lassen,"40.364578,-120.559397",40.364578,-120.559397,0.0,,1,True,False,False,1,North Mountain Region,0
+155,Joshua Tree,233,,Joshua Tree,San Bernardino,"34.05,-116.58",34.05,-116.58,0.0,,1,True,True,False,12,Desert Region,0
+238,Kemoo,416,KMO,Waialua,Kemoo,"21.554427954801,-158.111447873854",21.554427954800957,-158.11144787385368,0.0,,6,True,True,False,19,Hawaii -- O'ahu,0
+42,Kesterson,092,,Gustine,Merced,"37.03,-120.88",37.03,-120.88,0.0,KESTERSN.A,1,True,False,False,10,North San Joaquin Valley,180
+10,Kettleman,021,,Kettleman City,Kings,"35.87,-119.89",35.87,-119.89,0.0,KETTLMAN.A,1,False,False,False,13,South San Joaquin Valley,180
+52,King City-Oasis Rd.,113,,King City,Monterey,"36.12,-121.08",36.12,-121.08,0.0,KINGCTY2.A,1,True,False,False,4,Central Coast,0
+178,KULA AG PARK HOBO,406,21356104,Pukalani,Maui,"20.7975,-156.3704",20.7975,-156.3704,0.0,,6,True,False,False,20,Hawaii -- Maui,0
+102,La Jolla,173,,La Jolla,San Diego,"32.9,-117.25",32.9,-117.25,0.0,LA_JOLLA.A,1,True,False,False,3,South Coast,0
+133,La Quinta II,208,,La Quinta,Riverside,"33.68,-116.27",33.68,-116.27,0.0,La_Quinta_II.A,1,True,False,False,12,Desert Region,0
+151,Laguna Seca,229,,Monterey,Monterey ,"36.57,-121.79",36.57,-121.79,0.0,,1,True,False,False,4,Central Coast,0
+117,Lake Arrowhead,192,,Lake Arrowhead,San Bernardino,"34.26,-117.22",34.26,-117.22,0.0,Lake Arrowhead,1,True,False,False,14,South Inland,0
+169,Lancaster,256,,Lancaster,Los Angeles,"34.759475,-117.991997",34.759475,-117.991997,0.0,,1,True,False,False,12,Desert Region,0
+171,Lemon Cove,258,,Lemon Cove,Tulare,"36.376917,-119.037972",36.376917,-119.037972,0.0,,1,True,False,False,13,South San Joaquin Valley,0
+36,Lindcove,086,,Lindcove,Tulare,"36.36,-119.06",36.36,-119.06,0.0,LINDCOVE.A,1,False,False,False,13,South San Joaquin Valley,180
+200,Linden,262,,Linden,San Joaquin,"38.065692,-121.071747",38.065692,-121.071747,0.0,,1,True,False,False,10,North San Joaquin Valley,0
+97,Lodi West,166,,Lodi,San Joaquin,"38.13,-121.38",38.13,-121.38,0.0,LODI_WEST.A,1,False,False,False,10,North San Joaquin Valley,180
+153,Lompoc,231,,Lompoc,Santa Barbara,"34.67,-120.51",34.67,-120.51,0.0,Lompoc.A,1,True,False,False,4,Central Coast,0
+103,Long Beach,174,,Long Beach,Los Angeles,"33.8,-118.09",33.8,-118.09,0.0,LONG_BEACH.A,1,True,True,False,3,South Coast,0
+21,Los Banos,056,,Los Banos,Merced,"37.01,-120.76",37.01,-120.76,0.0,LOSBANOS.A,1,True,False,False,10,North San Joaquin Valley,180
+189,Macdoel II,236,,Macdoel,Siskiyou,"41.802476,-121.996159",41.802476,-121.996159,0.0,,1,True,False,False,1,North Mountain Region,0
+79,Madera,145,,Madera,Madera,"37.02,-120.19",37.02,-120.19,0.0,MADERA.A,1,False,False,False,10,North San Joaquin Valley,180
+113,Madera II,188,,Madera,Madera,"37.02,-120.15",37.02,-120.15,0.0,,1,False,False,False,10,North San Joaquin Valley,180
+172,MALAEIMI HOBO,400,20121047,Alao,American Samoa,"-14.320684,-170.7403",-14.320684,-170.7403,0.0,,3,False,True,False,17,American Samoa,180
+174,MALOJLOJ MEDA HOBO,402,20121046,Malojloj,Malojloj,"13.31893,144.76374",13.31893,144.76374,0.0,,3,False,False,False,18,Guam,180
+27,Manteca,070,,Manteca,San Joaquin,"37.84,-121.22",37.84,-121.22,0.0,MANTECA.A,1,True,False,False,10,North San Joaquin Valley,0
+183,MA'O HOBO,411,21356101,Waianae,O'ahu,"21.4505,-158.1582",21.4505,-158.1582,0.0,,6,True,False,False,19,Hawaii -- O'ahu,0
+211,Maricopa,506,,Maricopa,Pinal (northwest),"33.068941,-111.972244",33.068941,-111.972244,0.0,,5,True,False,False,22,Arizona,0
+193,Markleeville,246,,Markleeville,Alpine,"38.773409,-119.79193",38.773409,-119.79193,0.0,,1,True,False,False,1,North Mountain Region,0
+16,McArthur,043,,Glenburn,Shasta,"41.06,-121.45",41.06,-121.45,0.0,MCARTHUR.A,1,True,False,False,1,North Mountain Region,0
+75,Mecca,141,,Mecca,Riverside,"33.54,-115.99",33.54,-115.99,0.0,MECCA.A,1,False,True,False,12,Desert Region,180
+37,Meloland,087,,El Centro,Imperial,"32.81,-115.45",32.81,-115.45,0.0,ELCENTRO.A,1,True,False,False,12,Desert Region,0
+82,Merced,148,,Merced,Merced,"37.31,-120.39",37.31,-120.39,0.0,MERCED.A,1,True,False,False,10,North San Joaquin Valley,120
+84,Miramar,150,,La Jolla,San Diego,"32.89,-117.14",32.89,-117.14,0.0,MIRAMAR.A,1,True,False,False,3,South Coast,0
+28,Modesto,071,,Modesto,Stanislaus,"37.64,-121.19",37.64,-121.19,0.0,MODESTO.A,1,True,False,False,10,North San Joaquin Valley,0
+212,Mohave,520,,Fort Mohave Reservation,Mohave (west central),"34.967462,-114.611077",34.967462,-114.611077,0.0,,5,True,False,False,22,Arizona,0
+213,Mohave #2,528,,Arizona Village,Mohave,"34.878238,-114.566816",34.878238,-114.566816,0.0,,5,True,False,False,22,Arizona,0
+92,Monrovia,159,,Monrovia,Los Angeles,"34.14,-117.98",34.14,-117.98,0.0,MONROVIA.A,1,True,False,False,14,South Inland,0
+198,Montague,260,,Montague,Siskiyou,"41.798331,-122.463425",41.798331,-122.463425,0.0,,1,True,False,False,1,North Mountain Region,0
+230,Moorpark,217,,Moorpark,Ventura,"34.269031,-118.849319",34.269031,-118.849319,0.0,,1,True,False,False,5,South-central Coast,0
+105,Moraga,178,,Moraga,Contra Costa,"37.84,-122.14",37.84,-122.14,0.0,MORAGA.A,1,True,False,False,9,Bay Area,0
+158,Moreno Valley,238,,Moreno Valley,Riverside,"33.9,-117.17",33.9,-117.17,0.0,,1,False,True,False,12,Desert Region,180
+188,Newberry Springs II,234,,Newberry Springs,San Bernardino,"34.883472,-116.810247",34.883472,-116.810247,0.0,,1,True,False,False,14,South Inland,180
+11,Nicolaus,030,,Nicolaus,Sutter,"38.87,-121.54",38.87,-121.54,0.0,NICOLAUS.A,1,False,True,False,7,South Sacramento Valley,180
+127,Nipomo,202,,Nipomo,San Luis Obispo,"35.03,-120.56",35.03,-120.56,0.0,Nipomo.A,1,True,False,False,4,Central Coast,0
+186,North Hollywood,223,,Universal City,Los Angeles,"34.142911,-118.36632",34.142911,-118.36632,0.0,,1,True,False,False,3,South Coast,0
+119,Oakdale,194,,Oakdale,Stanislaus,"37.72,-120.85",37.72,-120.85,0.0,Oakdale.A,1,True,False,False,10,North San Joaquin Valley,0
+83,Oakland Foothills,149,,Oakland,Alameda,"37.78,-122.18",37.78,-122.18,0.0,OAKLAND_FOOTHILLS.A,1,False,True,False,0,,180
+195,Oakland Metro,254,,Oakland,Alameda,"37.718167,-122.197111",37.718167,-122.197111,0.0,,1,True,False,False,9,Bay Area,0
+30,Oakville,077,,Napa,Napa,"38.43,-122.41",38.43,-122.41,0.0,OAKVILLE.A,1,True,False,False,15,North Bay,0
+70,Oasis,136,,Oasis/Indio,Riverside,"33.52,-116.15",33.52,-116.15,0.0,OASIS.A,1,True,False,False,12,Desert Region,0
+76,Orange Cove,142,,Orange Cove,Fresno,"36.72,-119.39",36.72,-119.39,0.0,ORANGE_COVE.A,1,True,False,False,0,,180
+23,Orland,061,,Orland,Glenn,"39.69,-122.15",39.69,-122.15,0.0,ORLAND2.A,1,False,True,False,0,,180
+81,Otay Lake,147,,Chula Vista,San Diego,"32.63,-116.94",32.63,-116.94,0.0,OTAY_LAKE.A,1,True,False,False,0,,0
+109,Owens Lake North,183,,Keeler,Inyo,"36.49,-117.92",36.49,-117.92,0.0,Owens_Lake_North.A,1,True,False,False,0,,0
+114,Owens Lake South,189,,Cartago,Inyo,"36.36,-117.95",36.36,-117.95,0.0,Owens_Lake_South.A,1,True,False,False,0,,0
+89,Oxnard,156,,Oxnard,Ventura,"34.23,-119.2",34.23,-119.2,0.0,OXNARD.A,1,False,False,False,3,South Coast,180
+118,Pacific Grove,193,,Pacific Grove,Monterey,"36.63,-121.94",36.63,-121.94,0.0,PACIFIC_GROVE.A,1,True,False,False,4,Central Coast,0
+65,Pajaro,129,,Pajaro,Monterey,"36.9,-121.74",36.9,-121.74,0.0,PAJARO.A,1,True,False,False,4,Central Coast,0
+122,Palmdale,197,,Palmdale,Los Angeles,"34.62,-118.03",34.62,-118.03,0.0,Palmdale.A,1,True,False,False,14,South Inland,0
+144,Palmdale Central,220,,Palmdale,Los Angeles,"34.59,-118.13",34.59,-118.13,0.0,Palmdale_Central.A,1,True,False,False,14,South Inland,0
+104,Palo Verde II,175,,Palo Verde,Imperial,"33.39,-114.73",33.39,-114.73,0.0,PALO_VERDE_II.A,1,True,False,False,0,,0
+214,Paloma,519,,Theba,Maricopa (southwest),"32.927149,-112.896735",32.927149,-112.896735,0.0,,5,True,False,False,22,Arizona,0
+60,Panoche,124,,Firebaugh,Fresno,"36.89,-120.73",36.89,-120.73,0.0,PANOCHE.A,1,True,False,False,0,,0
+215,Parker #1,508,,Poston,La Paz (northwest),"33.964296,-114.485501",33.964296,-114.485501,0.0,,5,True,True,False,22,Arizona,0
+216,Parker #2,535,,Poston,La Paz (northwest),"33.863015,-114.472974",33.863015,-114.472974,0.0,,5,True,True,False,22,Arizona,0
+14,Parlier,039,,Parlier,Fresno,"36.6,-119.5",36.6,-119.5,0.0,PARLIER.A,1,True,False,False,13,South San Joaquin Valley,0
+234,Paso Robles,265,,Paso Robles,San Luis Obispo,"35.692266,-120.64855",35.692266,-120.64855,0.0,,1,True,False,False,4,Central Coast,0
+94,Patterson,161,,Patterson,Stanislaus,"37.44,-121.14",37.44,-121.14,0.0,PATTERSON.A,1,False,False,False,0,,180
+217,Payson,532,,Payson,Gila (west),"34.232504,-111.345029",34.232504,-111.345029,0.0,,5,True,False,False,22,Arizona,0
+159,Perris,240,,Perris,Riverside,"33.76,-117.2",33.76,-117.2,0.0,,1,True,False,False,14,South Inland,0
+168,Pescadero,253,,Pescadero,San Mateo,"37.255333,-122.3708",37.255333,-122.3708,0.0,,1,True,False,False,4,Central Coast,0
+78,Petaluma East,144,,Petaluma,Sonoma,"38.27,-122.62",38.27,-122.62,0.0,PETALUMA_EAST.A,1,True,False,False,0,,0
+218,Phoenix Encanto,515,,Phoenix,Maricopa (northeast central),"33.478443,-112.098046",33.478443,-112.098046,0.0,,5,True,False,False,22,Arizona,0
+219,Phoenix Greenway,512,,Phoenix,Maricopa (northeast central),"33.623279,-112.107687",33.623279,-112.107687,0.0,,5,True,True,False,22,Arizona,0
+176,PIONEER CORN HOBO,404,20173020,Waialua,O'ahu,"21.5695,-158.1561",21.5695,-158.1561,0.0,,3,False,True,False,19,Hawaii -- O'ahu,180
+179,PIONEER GAY CAMPBELL,407,PH1,Waialua,O'ahu,"21.568543,-158.155975",21.568543,-158.155975,0.0,,6,True,False,False,19,Hawaii -- O'ahu,24
+182,PIONEER HELENANO CAMPBELL,410,PH2,Waialua,O'ahu,"21.565335,-158.097097",21.565335,-158.097097,0.0,,6,True,False,False,19,Hawaii -- O'ahu,0
+116,Pleasanton,191,,Pleasanton,Alameda,"37.66,-121.89",37.66,-121.89,0.0,Pleasanton,1,True,False,False,0,,0
+149,Plymouth,227,,Plymouth,Amador,"38.51,-120.8",38.51,-120.8,0.0,Plymouth.A,1,True,False,False,11,Sierra Foothills,0
+90,Point San Pedro,157,,San Rafael,Marin,"37.99,-122.47",37.99,-122.47,0.0,Point_San_Pedro.A,1,True,False,False,0,,0
+31,Pomona,078,,Pomona,Los Angeles,"34.06,-117.81",34.06,-117.81,0.0,POMONA.A,1,True,False,False,0,,0
+99,Porterville,169,,Porterville,Tulare,"36.08,-119.09",36.08,-119.09,0.0,PORTERVILLE.A,1,True,False,False,0,,180
+220,Queen Creek,522,,San Tan Valley,Maricopa(southeast),"33.193943,-111.532582",33.193943,-111.532582,0.0,,5,True,True,False,22,Arizona,0
+196,Ridgecrest,257,,Ridgecrest,Kern,"35.659128,-117.636925",35.659128,-117.636925,0.0,,1,True,False,False,13,South San Joaquin Valley,0
+85,Ripley,151,,Blythe,Riverside,"33.53,-114.63",33.53,-114.63,0.0,RIPLEY.A,1,True,False,False,12,Desert Region,0
+166,Ripon,249,,Manteca,San Joaquin,"37.755597,-121.266153",37.755597,-121.266153,0.0,,1,True,False,False,8,Delta,0
+221,Roll,524,,Roll,Yuma (central),"32.762855,-113.967463",32.762855,-113.967463,0.0,,5,True,True,False,22,Arizona,0
+164,Ryde,243,,Walnut Grove,Sacramento ,"38.249622,-121.555528",38.249622,-121.555528,0.0,,1,True,False,False,8,Delta,0
+222,Safford,504,,Safford,Graham (southwest central),"32.812972,-109.679263",32.812972,-109.679263,0.0,,5,True,False,False,22,Arizona,0
+223,Sahuarita,538,,Sahuarita,Pima,"31.924618,-110.949831",31.924618,-110.949831,0.0,,5,True,False,False,22,Arizona,0
+54,Salinas North,116,,Salinas,Monterey,"36.72,-121.69",36.72,-121.69,0.0,NSALINAS.A,1,True,False,False,4,Central Coast,0
+39,Salinas South,089,,Salinas,Monterey,"36.61,-121.53",36.61,-121.53,0.0,SALINAS.A,1,False,False,False,4,Central Coast,180
+139,Salinas South II,214,,Salinas,Monterey,"36.625622974866,-121.537927858754",36.62562297486596,-121.53792785875372,0.0,,1,True,False,False,4,Central Coast,0
+224,Salome,541,,Weden,Weden,"33.848468,-113.539761",33.848468,-113.539761,0.0,,5,True,True,False,22,Arizona,0
+64,Salton Sea East,128,,Niland,Imperial,"33.22,-115.58",33.22,-115.58,0.0,NILAND.A,1,False,True,False,0,,180
+63,Salton Sea West,127,,Salton City,Imperial,"33.33,-115.95",33.33,-115.95,0.0,SALTNCTY.A,1,False,True,False,0,,180
+62,San Benito,126,,Hollister,San Benito,"36.85,-121.36",36.85,-121.36,0.0,HOLLISTR.A,1,True,False,False,4,Central Coast,0
+160,San Clemente,241,,San Clemente,Orange County,"33.4625,-117.586111",33.4625,-117.586111,0.0,none,1,True,False,False,3,South Coast,0
+110,San Diego II,184,,San Diego,San Diego,"32.73,-117.14",32.73,-117.14,0.0,SAN_DIEGO.A,1,True,False,False,0,,0
+77,San Juan Valley,143,,Hollister,San Benito,"36.82,-121.47",36.82,-121.47,0.0,SJ_VALLEY.A,1,True,False,False,4,Central Coast,0
+19,San Luis Obispo,052,,San Luis Obispo,San Luis Obispo,"35.31,-120.66",35.31,-120.66,0.0,SNLUIS_O.A,1,True,False,False,4,Central Coast,0
+93,San Luis Obispo West,160,,San Luis Obispo,San Luis Obispo,"35.34,-120.73",35.34,-120.73,0.0,SAN_LUIS_OBISPO_W.A,1,True,False,False,4,Central Coast,0
+225,San Simon,537,,San Simon,Cochise,"32.200129,-109.123893",32.200129,-109.123893,0.0,,5,True,False,False,22,Arizona,0
+48,Sanel Valley,106,,Hopland,Mendocino,"38.98,-123.09",38.98,-123.09,0.0,HOPLAND2.A,1,True,False,False,0,,0
+49,Santa Barbara,107,,Santa Barbara,Santa Barbara,"34.44,-119.74",34.44,-119.74,0.0,STBARBRA.A,1,True,False,False,3,South Coast,0
+152,Santa Barbara II,230,,Santa Barbara,Santa Barbara,"34.41,-119.72",34.41,-119.72,0.0,Santa_Barbara_II.A,1,False,False,False,3,South Coast,180
+129,Santa Clarita,204,,Santa Clarita,Los Angeles,"34.43,-118.52",34.43,-118.52,0.0,SANTA_CLARITA.A,1,True,False,False,14,South Inland,0
+154,Santa Maria II,232,,Santa Maria,Santa Barbara,"34.91,-120.46",34.91,-120.46,0.0,Santa_Maria_II.A,1,True,False,False,4,Central Coast,0
+44,Santa Monica,099,,Santa Monica,Los Angeles,"34.04,-118.48",34.04,-118.48,0.0,STMONICA.A,1,True,False,False,3,South Coast,0
+123,Santa Paula,198,,Santa Paula,Ventura,"34.33,-119.1",34.33,-119.1,0.0,SANTA_PAULA.A,1,True,False,False,3,South Coast,180
+33,Santa Rosa,083,,Santa Rosa,Sonoma,"38.4,-122.8",38.4,-122.8,0.0,SNTAROSA.A,1,True,False,False,0,,0
+25,Santa Ynez,064,,Santa Ynez,Santa Barbara,"34.58,-120.08",34.58,-120.08,0.0,SNTAYNEZ.A,1,True,False,False,3,South Coast,0
+187,Scott Valley,225,,Fort Jones,Siskiyou,"41.577778,-122.838125",41.577778,-122.838125,0.0,,1,True,False,False,1,North Mountain Region,0
+26,Seeley,068,,Seeley,Imperial,"32.76,-115.73",32.76,-115.73,0.0,SEELEY.A,1,True,False,False,12,Desert Region,0
+181,SEIZEN HOBO,409,21446538,Big Island,Big Island,"20.0264,-155.6535",20.0264,-155.6535,0.0,,6,True,True,False,16,Hawaii -- Big Island,0
+2,Shafter/USDA,005,,Shafter,Kern,"35.53,-119.28",35.53,-119.28,0.0,SHAFTER.A,1,True,False,False,13,South San Joaquin Valley,0
+232,Shandon,266,,Shandon,San Luis Obispo,"35.643787,-120.403229",35.643787,-120.403229,0.0,,1,True,False,False,4,Central Coast,0
+147,Shasta College,224,,Redding,Shasta,"40.62,-122.31",40.62,-122.31,0.0,,1,True,False,False,6,North Sacramento Valley,0
+202,Sierra Valley Center,264,,Portola,Plumas,"39.777452,-120.273609",39.777452,-120.273609,0.0,,1,True,False,False,1,North Mountain Region,0
+96,Sisquoc,165,,Santa Maria,Santa Barbara,"34.84,-120.21",34.84,-120.21,0.0,SISQUOC.A,1,True,False,False,3,South Coast,0
+201,Smith River,263,,Smith River,Del Norte,"41.894592,-124.165043",41.894592,-124.165043,0.0,,1,True,False,False,2,North Coast,0
+161,Soledad II,252,,Soledad,Monterey,"36.4567374202028,-121.344397148941",36.45673742020282,-121.34439714894093,0.0,none,1,True,False,False,4,Central Coast,0
+163,Staten Island,242,,Walnut Grove,San Joaquin,"38.192397,-121.510261",38.192397,-121.510261,0.0,242,1,True,False,False,8,Delta,0
+8,Stratford,015,,Stratford,Kings,"36.16,-119.85",36.16,-119.85,0.0,STRATFRD.A,1,True,False,False,13,South San Joaquin Valley,0
+59,Suisun Valley,123,,Cordelia,Solano,"38.23,-122.12",38.23,-122.12,0.0,SUISNVLY.A,1,False,True,False,0,,180
+173,TAFETA HOBO,401,20121048,Taputimu,Taputimu,"-14.32095,-170.754286",-14.32095,-170.754286,0.0,,3,True,False,False,17,American Samoa,180
+24,Temecula,062,,Rancho California,Riverside,"33.49,-117.22",33.49,-117.22,0.0,TEMECULA.A,1,True,False,False,14,South Inland,0
+71,Temecula East II,137,,Temecula,Riverside,"33.56,-117.03",33.56,-117.03,0.0,CALLOWAY_EAST.A,1,False,True,False,14,South Inland,180
+157,Temecula East III,237,,Temecula,Riverside,"33.55,-117.04",33.55,-117.04,0.0,,1,True,False,False,14,South Inland,0
+177,TEXEIRA HOBO,405,21356102,Pukalani,Maui,"20.7952,-156.3489",20.7952,-156.3489,0.0,,6,True,False,False,20,Hawaii -- Maui,0
+142,Thermal South,218,,Thermal,Riverside,"33.6,-116.16",33.6,-116.16,0.0,Thermal_South.A,1,True,False,False,12,Desert Region,0
+98,Tracy,167,,Tracy,San Joaquin,"37.73,-121.47",37.73,-121.47,0.0,TRACY.A,1,False,False,False,0,,180
+226,Tucson,501,,Tucson,Pima (northeastern),"32.280248,-110.938718",32.280248,-110.938718,0.0,,5,True,False,False,22,Arizona,0
+41,Tulelake FS,091,,Tulelake,Siskiyou,"41.96,-121.47",41.96,-121.47,0.0,TULELK2.A,1,True,False,False,0,,0
+74,Twitchell Island,140,,Rio Vista,Sacramento,"38.12,-121.66",38.12,-121.66,0.0,TWITCHELL_ISLAND.A,1,True,False,False,8,Delta,0
+17,U.C. Riverside,044,,Riverside,Riverside,"33.96,-117.34",33.96,-117.34,0.0,UC_RIVER.A,1,True,False,False,14,South Inland,0
+126,UC-Andrade,201,,Calexico,Imperial,"32.49,-115.04",32.49,-115.04,0.0,UC-ANDRADE.A,1,False,False,False,12,Desert Region,180
+111,UC-San Luis,186,,Calexico,Imperial,"32.49,-114.83",32.49,-114.83,0.0,UC-SAN_LUIS.A,1,False,False,False,12,Desert Region,180
+101,Union City,171,,Union City,Alameda,"37.6,-122.05",37.6,-122.05,0.0,UNION_CITY.A,1,True,False,False,0,,0
+156,Verona,235,,Nicolaus,Sutter,"38.8,-121.61",38.8,-121.61,0.0,Verona.A,1,True,False,False,7,South Sacramento Valley,0
+55,Victorville,117,,Victorville,San Bernardino,"34.48,-117.26",34.48,-117.26,0.0,VICTRVIL.A,1,True,True,False,0,,0
+185,Waialua Station,413,GR1,Waialua,O'ahu,"21.559798,-158.127436",21.559798,-158.127436,0.0,,6,True,True,False,19,Hawaii -- O'ahu,0
+236,WATSON HOBO,414,21356103,Waston,Waston,"13.32,144.761111",13.32,144.761111,0.0,,6,True,False,False,18,Guam,0
+134,Watsonville West II,209,,Watsonville,Santa Cruz,"36.91,-121.82",36.91,-121.82,0.0,Watsonville_West-2.A,1,True,False,False,4,Central Coast,0
+143,West Hills,219,,West Hills,Los Angeles,"34.21,-118.64",34.21,-118.64,0.0,West Hills.A,1,True,False,False,14,South Inland,0
+47,Westlands,105,,Tranquility,Fresno,"36.63,-120.38",36.63,-120.38,0.0,TRNQULTY.A,1,True,False,False,13,South San Joaquin Valley,0
+107,Westmorland  North,181,,Imperial,Imperial,"33.08,-115.66",33.08,-115.66,0.0,Westmorland_North.A,1,True,False,False,12,Desert Region,0
+227,Willcox Bench,539,,Cochise,Pima,"32.118059,-109.714546",32.118059,-109.714546,0.0,,5,True,False,False,22,Arizona,0
+167,Williams,250,,Williams,Colusa,"39.210667,-122.168889",39.210667,-122.168889,0.0,,1,True,False,False,7,South Sacramento Valley,0
+106,Winchester,179,,Winchester,Riverside,"33.66,-117.09",33.66,-117.09,0.0,WINCHESTER.A,1,True,False,False,14,South Inland,0
+45,Windsor,103,,Windsor,Sonoma,"38.53,-122.83",38.53,-122.83,0.0,WINDSOR.A,1,True,False,False,2,North Coast,0
+73,Winters,139,,Winters,Solano,"38.5,-121.97",38.5,-121.97,0.0,WINTERS.A,1,True,False,False,7,South Sacramento Valley,0
+148,Woodland,226,,Woodland,Yolo,"38.67,-121.81",38.67,-121.81,0.0,Woodland.A,1,True,False,False,7,South Sacramento Valley,0
+237,WUSSTIG HOBO,415,21356100,Wusstig,Wusstig,"13.546111,144.869167",13.546111,144.869167,0.0,,6,True,False,False,18,Guam,0
+175,YIGO WATSO HOBO,403,21356105,Guam,Guam,"13.531667,144.871667",13.531667,144.871667,0.0,,6,True,False,False,18,Guam,0
+228,Yuma South,536,,San Luis,Yuma (south),"32.565528,-114.743984",32.565528,-114.743984,0.0,,5,True,False,False,22,Arizona,0
+229,Yuma Valley,502,,Yuma,Yuma (western),"32.7117671,-114.7040895",32.7117671,-114.7040895,0.0,,5,True,False,False,22,Arizona,0

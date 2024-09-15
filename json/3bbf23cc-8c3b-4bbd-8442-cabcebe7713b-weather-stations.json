@@ -1,0 +1,24 @@
+[
+    {
+        "Id": 52,
+        "External_Id": "113",
+        "Name": "King City-Oasis Rd.",
+        "Distance": 12,
+        "NearestCity": "King City",
+        "County": "Monterey",
+        "Priority": 1,
+        "ActiveStation_Id": 52,
+        "ActiveStation_Active": true
+    },
+    {
+        "Id": 53,
+        "External_Id": "114",
+        "Name": "Arroyo Seco",
+        "Distance": 8,
+        "NearestCity": "Soledad",
+        "County": "Monterey",
+        "Priority": 2,
+        "ActiveStation_Id": 53,
+        "ActiveStation_Active": true
+    }
+]

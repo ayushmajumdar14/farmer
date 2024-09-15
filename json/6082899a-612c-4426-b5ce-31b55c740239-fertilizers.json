@@ -1,0 +1,32 @@
+[
+    {
+        "Editable": false,
+        "PercentageN": 0.0,
+        "PoundsPerGallons": null,
+        "Usage": 0,
+        "Nutrients": null,
+        "Description": null,
+        "FormulationType_Id": 2,
+        "FormulationType_Name": "Wet",
+        "LbsPerGallon": 11.9,
+        "OwnerRanchId": null,
+        "IsPrivate": false,
+        "Id": 24,
+        "Name": "0-0-24"
+    },
+    {
+        "Editable": false,
+        "PercentageN": 0.0,
+        "PoundsPerGallons": null,
+        "Usage": 0,
+        "Nutrients": null,
+        "Description": null,
+        "FormulationType_Id": 2,
+        "FormulationType_Name": "Wet",
+        "LbsPerGallon": 9.4,
+        "OwnerRanchId": 1508,
+        "IsPrivate": false,
+        "Id": 453,
+        "Name": "0-0-12"
+    }
+]

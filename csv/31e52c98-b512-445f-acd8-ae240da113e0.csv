@@ -1,0 +1,2 @@
+RanchName,Acres,Coordinates,RanchOwner,RanchOwnerFullName,RanchOwnerEmail,UseSpatialCIMIS,UseCIMISAverageMode,SpatialETAvailable,WeatherAPI_Id,Id,Ranch_External_GUID
+Kyle's Ranch,5.0,"38.559377,-123.248692",a7005d6f-6268-4c07-88af-d3f97add3617,Kyle Delmo,kyle.delmo@gmail.com,False,False,True,1,4510,31e52c98-b512-445f-acd8-ae240da113e0

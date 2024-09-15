@@ -1,0 +1,62 @@
+[
+    {
+        "Id": 15715,
+        "Name": "Lettuce",
+        "ActiveEvents": "7/18/2024",
+        "CommodityTypeId": 21,
+        "CommodityTypeName": "Baby Salad Greens",
+        "HarvestDate": "2024-07-20T00:00:00",
+        "WetDate": "2024-07-17T00:00:00",
+        "HasSoilMoistureFileName": false,
+        "HasFlowMeterFileName": false,
+        "RanchLot_Id": 9508,
+        "RanchLot_Name": "Lettuce plantation ",
+        "IsNDependent": true,
+        "Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308"
+    },
+    {
+        "Id": 15716,
+        "Name": "Strawberry",
+        "ActiveEvents": "7/18/2024",
+        "CommodityTypeId": 21,
+        "CommodityTypeName": "Baby Salad Greens",
+        "HarvestDate": "2024-07-20T00:00:00",
+        "WetDate": "2024-07-17T00:00:00",
+        "HasSoilMoistureFileName": false,
+        "HasFlowMeterFileName": false,
+        "RanchLot_Id": 9509,
+        "RanchLot_Name": "Strawberries Plantation",
+        "IsNDependent": true,
+        "Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308"
+    },
+    {
+        "Id": 15718,
+        "Name": "Corn",
+        "ActiveEvents": null,
+        "CommodityTypeId": 21,
+        "CommodityTypeName": "Baby Salad Greens",
+        "HarvestDate": "2024-07-31T00:00:00",
+        "WetDate": "2024-07-01T00:00:00",
+        "HasSoilMoistureFileName": false,
+        "HasFlowMeterFileName": false,
+        "RanchLot_Id": 9510,
+        "RanchLot_Name": "Corn Field",
+        "IsNDependent": true,
+        "Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308"
+    },
+    {
+        "Id": 15717,
+        "Name": "Cabbage",
+        "ActiveEvents": "",
+        "CommodityTypeId": 21,
+        "CommodityTypeName": "Baby Salad Greens",
+        "HarvestDate": "2024-07-27T00:00:00",
+        "WetDate": "2024-07-07T00:00:00",
+        "HasSoilMoistureFileName": false,
+        "HasFlowMeterFileName": false,
+        "RanchLot_Id": 9511,
+        "RanchLot_Name": "Cabbage Plantation ",
+        "IsNDependent": true,
+        "Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308"
+    }
+]

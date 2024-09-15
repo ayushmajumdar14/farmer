@@ -1,0 +1,2 @@
+StartDate,EndDate,WeatherStations_0,RainfallModel_0_EventDate,RainfallModel_0_RainfallAmount,RainfallModel_0_ET,RainfallModel_0_Source,AveragedDataMode,PlantingId
+2024-06-24T00:00:00,2024-11-29T00:00:00,Union City,2024-08-11T00:00:00-07:00,0.1,0.0,,False,15672

@@ -1,0 +1,115 @@
+{
+  "StationName": {
+    "0": "Salinas North",
+    "1": "San Juan Valley",
+    "2": "Salinas South II",
+    "3": "Laguna Seca"
+  },
+  "StationPriority": { "0": 1, "1": 2, "2": 3, "3": 4 },
+  "WeatherEvents": {
+    "0": [
+      {
+        "EventDate": "2024-07-17T00:00:00",
+        "RainfallAmount": 0.0,
+        "ET": 0.0,
+        "Source": null
+      },
+      {
+        "EventDate": "2024-07-18T00:00:00",
+        "RainfallAmount": 0.0,
+        "ET": 0.0,
+        "Source": null
+      },
+      {
+        "EventDate": "2024-07-19T00:00:00",
+        "RainfallAmount": 0.0,
+        "ET": 0.0,
+        "Source": null
+      },
+      {
+        "EventDate": "2024-07-20T00:00:00",
+        "RainfallAmount": 0.0,
+        "ET": 0.0,
+        "Source": null
+      }
+    ],
+    "1": [
+      {
+        "EventDate": "2024-07-17T00:00:00",
+        "RainfallAmount": 0.0,
+        "ET": 0.0,
+        "Source": null
+      },
+      {
+        "EventDate": "2024-07-18T00:00:00",
+        "RainfallAmount": 0.0,
+        "ET": 0.0,
+        "Source": null
+      },
+      {
+        "EventDate": "2024-07-19T00:00:00",
+        "RainfallAmount": 0.0,
+        "ET": 0.0,
+        "Source": null
+      },
+      {
+        "EventDate": "2024-07-20T00:00:00",
+        "RainfallAmount": 0.0,
+        "ET": 0.0,
+        "Source": null
+      }
+    ],
+    "2": [
+      {
+        "EventDate": "2024-07-17T00:00:00",
+        "RainfallAmount": 0.0,
+        "ET": 0.24,
+        "Source": null
+      },
+      {
+        "EventDate": "2024-07-18T00:00:00",
+        "RainfallAmount": 0.0,
+        "ET": 0.23,
+        "Source": null
+      },
+      {
+        "EventDate": "2024-07-19T00:00:00",
+        "RainfallAmount": 0.0,
+        "ET": 0.25,
+        "Source": null
+      },
+      {
+        "EventDate": "2024-07-20T00:00:00",
+        "RainfallAmount": 0.0,
+        "ET": 0.22,
+        "Source": null
+      }
+    ],
+    "3": [
+      {
+        "EventDate": "2024-07-17T00:00:00",
+        "RainfallAmount": 0.0,
+        "ET": 0.21,
+        "Source": null
+      },
+      {
+        "EventDate": "2024-07-18T00:00:00",
+        "RainfallAmount": 0.0,
+        "ET": 0.19,
+        "Source": null
+      },
+      {
+        "EventDate": "2024-07-19T00:00:00",
+        "RainfallAmount": 0.0,
+        "ET": 0.21,
+        "Source": null
+      },
+      {
+        "EventDate": "2024-07-20T00:00:00",
+        "RainfallAmount": 0.0,
+        "ET": 0.16,
+        "Source": null
+      }
+    ]
+  }
+}

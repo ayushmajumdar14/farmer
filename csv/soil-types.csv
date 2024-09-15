@@ -1,0 +1,418 @@
+Id,Name
+14,Chualar silty loam
+15,Chualar sandy loam
+16,Chualar loam
+17,Chualar clay loam
+18,Salinas loam
+20,Molera Test
+24,Mocho silt loam
+25,Pico fine sandy loam
+26,Metz complex
+27,Elder sandy loam
+28,Salinas clay loam
+29,Mocho silty clay loam
+30,Clear Lake clay
+31,Pacheco clay loam
+32,Placentia sandy loam
+33,Danville sandy clay loam
+34,Placentia sandy loam 2 to 9% slope
+35,Cropley silty clay
+36,Xerorthents loamy
+37,Xerothents sand
+38,Gregonio sandy loam
+39,Psamments
+40,"Chualar loam, 2 to 5 percent slopes"
+41,Arroyo Seco gravelly loam
+42,Danville sandy clay loam 2-9% slope
+43,Pacheco silt loam
+44,Pacheco fine sandy loam
+45,Antioch very fine sandy loam
+46,Metz Loamy Sand
+47,Metz Fine Sandy Loam
+57,"Boggs sandy loam, partially drained"
+58,"Antioch very fine sandy loam, 0 to 2 percent slopes"
+61,"Mocho silt loam, 0 to 2 percent slopes"
+65,"Danville sandy clay loam, 0 to 2 percent slopes"
+70,"Arroyo Seco gravelly loam, 0 to 2 percent slopes"
+71,"Elder sandy loam, 0 to 2 percent slopes"
+72,"Salinas clay loam, 0 to 2 percent slopes"
+73,Arnold loamy sand 9 to 15 percent slopes
+82,"Arroyo Seco gravelly sandy loam, 5 to 9 percent slopes"
+84,"Elkhorn fine sandy loam, thin surface variant, 15 to 30 percent slopes"
+86,"Sorrento silt loam, 0 to 2 percent slopes"
+88,"Sorrento silty clay loam, 0 to 2 percent slopes"
+93,"Yolo silty clay loam, 2 to 9 percent slopes"
+103,"Cropley silty clay, 0 to 2 percent slopes"
+109,"Mocho silty clay loam, 0 to 2 percent slopes"
+113,"Arburua-Contra Costa-Wisflat complex, 30 to 50 percent slopes"
+115,"Placentia sandy loam, 0 to 2 percent slopes"
+121,Capay silty clay
+129,"Arroyo Seco gravelly loam, 2 to 5 percent slopes"
+131,"Arroyo Seco gravelly sandy loam, 2 to 5 percent slopes"
+134,Camarillo loam
+137,"Arroyo Seco gravelly sandy loam, 0 to 2 percent slopes"
+139,"Placentia sandy loam, 2 to 9 percent slopes"
+155,"Chualar loam, 0 to 2 percent slopes"
+160,"Arnold loamy sand, 15 to 50 percent slopes"
+167,"Conejo clay loam, 0 to 2 percent slopes"
+168,"Baywood loamy sand, 15 to 30 percent slopes"
+169,"Arbuckle gravelly loam, 0 to 2 percent slopes"
+171,"Elkhorn sandy loam, 9 to 15 percent slopes"
+176,Indio silt loam
+188,"Rincon clay loam, 0 to 2 percent slope"
+190,"Brentwood clay loam, 0 to 2 percent slopes"
+197,"Mocho silty clay loam, 0 to 2 percent slopes, MLRA 14"
+198,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+218,"Clear Lake clay, hardpan substratum, drained, 0 to 1 percent slopes"
+230,"Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+273,"Placentia sandy loam, 2 to 9 percent slopes, MLRA 14"
+5532,"Oceano loamy sand, 2 to 15 percent slopes"
+5682,"Clear Lake clay, sandy substratum, drained, 0 to 1 percent slopes, MLRA 14"
+5880,"Placentia sandy loam, 0 to 2 percent slopes, MLRA 14"
+6534,"Clear Lake clay, 0 to 1 percent slopes, frequently flooded, MLRA 14"
+7992,"Rincon clay loam, 0 to 2 percent slopes, MLRA 14"
+8221,"Lockwood loam, 2 to 9 percent slopes"
+20543,"Danville sandy clay loam, 0 to 2 percent slopes"
+20546,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+20578,"Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+20579,"Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+20580,"Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+20581,"Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+20582,"Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+20583,"Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+20584,"Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+20585,"Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+21179,Salinas clay loam
+21180,Salinas clay loam
+21181,Salinas clay loam
+21182,Salinas clay loam
+21183,Salinas clay loam
+21184,Mocho silty clay loam
+21185,Mocho silty clay loam
+21187,Mocho silty clay loam
+21188,Mocho silty clay loam
+21189,Mocho silty clay loam
+21190,Mocho silty clay loam
+21195,"Antioch very fine sandy loam, 0 to 2 percent slopes"
+21200,Salinas clay loam
+21202,Salinas clay loam
+21203,Salinas clay loam
+21208,Mocho silty clay loam
+21209,Mocho silty clay loam
+21211,Mocho silt loam
+21213,Mocho silt loam
+21216,"Mocho silty clay loam, 0 to 2 percent slopes, MLRA 14"
+21217,"Mocho silty clay loam, 0 to 2 percent slopes, MLRA 14"
+21219,Mocho silt loam
+21221,Mocho silty clay loam
+21223,Mocho silt loam
+21225,Mocho silt loam
+21234,Mocho silty clay loam
+21258,Salinas clay loam
+21259,Salinas clay loam
+21265,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+21267,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+21474,"Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+21475,"Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+21476,"Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+21480,Salinas clay loam
+21481,Salinas clay loam
+21482,Salinas clay loam
+21483,Salinas clay loam
+21484,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+21485,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+21486,Salinas clay loam
+21495,Salinas clay loam
+21496,Salinas clay loam
+21507,Salinas clay loam
+21508,Salinas clay loam
+21509,Salinas clay loam
+21521,Salinas clay loam
+21522,Salinas clay loam
+21532,Salinas clay loam
+21533,Salinas clay loam
+21552,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+21553,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+21557,"Chualar loam, 0 to 2 percent slopes"
+21558,"Chualar loam, 0 to 2 percent slopes"
+21559,"Chualar loam, 0 to 2 percent slopes"
+21560,"Chualar loam, 0 to 2 percent slopes"
+21561,"Chualar loam, 0 to 2 percent slopes"
+21564,"Lockwood loam, 2 to 9 percent slopes"
+21574,"Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+21579,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+21580,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+21581,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+21585,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+21586,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+21587,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+21588,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+21589,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+21590,"Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+21591,"Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+21593,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+21594,"Placentia sandy loam, 2 to 9 percent slopes, MLRA 14"
+21596,Mocho silt loam
+21597,Mocho silt loam
+21598,Mocho silt loam
+21599,Mocho silt loam
+21602,Cropley silty clay
+21603,Cropley silty clay
+21604,Salinas clay loam
+21605,Salinas clay loam
+21609,"Mocho silty clay loam, 0 to 2 percent slopes, MLRA 14"
+21610,Salinas clay loam
+21611,Salinas clay loam
+21612,Salinas clay loam
+21614,Salinas clay loam
+21616,Mocho silt loam
+21617,Mocho silt loam
+21618,Mocho silt loam
+21621,Salinas clay loam
+21622,Salinas clay loam
+21623,Salinas clay loam
+21624,Salinas clay loam
+21625,Salinas clay loam
+21626,Salinas clay loam
+21627,Salinas clay loam
+21628,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+21629,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+21631,"Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+21633,Salinas clay loam
+21634,Salinas clay loam
+21636,Xerorthents loamy
+21637,Xerorthents loamy
+21638,Mocho silt loam
+21639,Mocho silt loam
+21640,"Cropley silty clay, 0 to 2 percent slopes"
+21641,"Cropley silty clay, 0 to 2 percent slopes"
+21642,"Cropley silty clay, 0 to 2 percent slopes"
+21656,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+21657,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+21658,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+21659,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+21661,Pacheco fine sandy loam
+21687,"Chualar loam, 0 to 2 percent slopes"
+21690,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+21691,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+21693,Metz Loamy Sand
+21694,Metz Loamy Sand
+21704,Mocho silt loam
+21705,Mocho silt loam
+21706,Mocho silt loam
+21707,Salinas clay loam
+21708,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+21709,Salinas clay loam
+21710,Mocho silt loam
+21711,Salinas clay loam
+21735,"Cropley silty clay, 0 to 2 percent slopes"
+21736,"Cropley silty clay, 0 to 2 percent slopes"
+21737,"Cropley silty clay, 0 to 2 percent slopes"
+21738,"Cropley silty clay, 0 to 2 percent slopes"
+21739,"Chualar loam, 0 to 2 percent slopes"
+21751,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+21754,"Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+21755,"Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+21760,Salinas clay loam
+21761,Salinas clay loam
+21771,Metz Fine Sandy Loam
+21772,Metz Fine Sandy Loam
+21773,Metz Fine Sandy Loam
+21774,Metz Fine Sandy Loam
+21784,"Yolo silt loam, 0 to 2 percent slopes, MLRA 17"
+21788,Mocho silt loam
+21789,Mocho silt loam
+21790,Mocho silt loam
+21791,Mocho silt loam
+21792,Mocho silt loam
+21793,Mocho silt loam
+21794,Salinas clay loam
+21795,Salinas clay loam
+21796,Salinas clay loam
+21797,Salinas clay loam
+21799,Mocho silt loam
+21800,Mocho silt loam
+21802,Salinas clay loam
+21804,Salinas clay loam
+21805,Salinas clay loam
+21806,Salinas clay loam
+21807,Mocho silt loam
+21808,Mocho silt loam
+21812,"Mocho silty clay loam, 0 to 2 percent slopes, MLRA 14"
+21815,"Placentia sandy loam, 2 to 9 percent slopes, MLRA 14"
+21816,"Placentia sandy loam, 2 to 9 percent slopes, MLRA 14"
+21818,Metz complex
+21820,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+21822,Pico fine sandy loam
+21823,"Placentia sandy loam, 2 to 9 percent slopes, MLRA 14"
+21824,"Placentia sandy loam, 2 to 9 percent slopes, MLRA 14"
+21825,"Mocho silty clay loam, 0 to 2 percent slopes, MLRA 14"
+21826,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+21834,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+21835,"Yolo silt loam, 0 to 2 percent slopes, MLRA 17"
+21836,"Yolo silt loam, 0 to 2 percent slopes, MLRA 17"
+21837,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+21858,"Chualar loam, 0 to 2 percent slopes"
+21860,"Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+21861,Salinas clay loam
+21862,Salinas clay loam
+21863,Salinas clay loam
+21864,Salinas clay loam
+21865,Salinas clay loam
+21866,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+21867,Salinas clay loam
+21868,Salinas clay loam
+21869,Salinas clay loam
+21870,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+21871,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+21872,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+21873,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+21874,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+21875,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+21876,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+21878,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+21879,Metz Fine Sandy Loam
+21887,"Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+21888,"Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+21889,Salinas clay loam
+21890,Cropley silty clay
+21891,Cropley silty clay
+21892,Salinas clay loam
+21893,Salinas clay loam
+21894,Elder sandy loam
+21895,Xerorthents loamy
+21896,Xerorthents loamy
+21897,Elder sandy loam
+21920,"Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+21922,"Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+21925,Metz Fine Sandy Loam
+21927,"Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+21930,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+21931,"Antioch very fine sandy loam, 0 to 2 percent slopes"
+21932,"Chualar loam, 0 to 2 percent slopes"
+21936,Salinas clay loam
+21937,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+21938,Salinas clay loam
+21939,Salinas clay loam
+21940,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+21941,Salinas clay loam
+21943,"Placentia sandy loam, 0 to 2 percent slopes, MLRA 14"
+21944,"Placentia sandy loam, 0 to 2 percent slopes, MLRA 14"
+21950,"Antioch very fine sandy loam, 0 to 2 percent slopes"
+21951,"Antioch very fine sandy loam, 0 to 2 percent slopes"
+21968,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+22016,"Arroyo Seco gravelly loam, 0 to 2 percent slopes"
+22018,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+22027,"Antioch very fine sandy loam, 0 to 2 percent slopes"
+22028,"Antioch very fine sandy loam, 0 to 2 percent slopes"
+22029,"Antioch very fine sandy loam, 0 to 2 percent slopes"
+22030,"Chualar loam, 0 to 2 percent slopes"
+22031,"Chualar loam, 0 to 2 percent slopes"
+22032,"Antioch very fine sandy loam, 0 to 2 percent slopes"
+22034,"Chualar loam, 0 to 2 percent slopes"
+22035,"Chualar loam, 0 to 2 percent slopes"
+22036,"Chualar loam, 0 to 2 percent slopes"
+22039,"Placentia sandy loam, 0 to 2 percent slopes, MLRA 14"
+22061,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+22065,"Arroyo Seco gravelly loam, 0 to 2 percent slopes"
+22084,"Elkhorn sandy loam, 9 to 15 percent slopes"
+22085,"Elkhorn sandy loam, 9 to 15 percent slopes"
+22086,"Placentia sandy loam, 2 to 9 percent slopes, MLRA 14"
+22087,"Chualar loam, 0 to 2 percent slopes"
+22088,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+22091,"Danville sandy clay loam, 0 to 2 percent slopes"
+22092,"Chualar loam, 0 to 2 percent slopes"
+22097,"Chualar loam, 0 to 2 percent slopes"
+22098,"Chualar loam, 0 to 2 percent slopes"
+22099,"Chualar loam, 0 to 2 percent slopes"
+22100,"Chualar loam, 0 to 2 percent slopes"
+22101,"Chualar loam, 0 to 2 percent slopes"
+22102,"Chualar loam, 0 to 2 percent slopes"
+22110,"Elkhorn sandy loam, 9 to 15 percent slopes"
+22111,"Elkhorn sandy loam, 9 to 15 percent slopes"
+22112,"Arroyo Seco gravelly loam, 0 to 2 percent slopes"
+22113,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+22116,"Cropley silty clay, 0 to 2 percent slopes"
+22127,"Rincon clay loam, 0 to 2 percent slopes, MLRA 14"
+22128,"Rincon clay loam, 0 to 2 percent slopes, MLRA 14"
+22130,"Rincon clay loam, 0 to 2 percent slopes, MLRA 14"
+22131,"Rincon clay loam, 0 to 2 percent slopes, MLRA 14"
+22152,Pico fine sandy loam
+22153,Pico fine sandy loam
+22154,Pico fine sandy loam
+22155,Pico fine sandy loam
+22156,Pico fine sandy loam
+22157,Pico fine sandy loam
+22158,Pico fine sandy loam
+22159,Pico fine sandy loam
+22160,Pico fine sandy loam
+22161,Pico fine sandy loam
+22162,Pico fine sandy loam
+22164,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+22165,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+22166,Pico fine sandy loam
+22167,Pico fine sandy loam
+22173,"Arroyo Seco gravelly loam, 0 to 2 percent slopes"
+22187,"Danville sandy clay loam, 0 to 2 percent slopes"
+22197,"Arroyo Seco gravelly loam, 0 to 2 percent slopes"
+22198,"Chualar loam, 0 to 2 percent slopes"
+22202,"Cropley silty clay, 0 to 2 percent slopes"
+22203,"Cropley silty clay, 0 to 2 percent slopes"
+22208,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+22233,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+22234,"Danville sandy clay loam, 0 to 2 percent slopes"
+22235,"Danville sandy clay loam, 0 to 2 percent slopes"
+22633,"Oceano loamy sand, 2 to 15 percent slopes"
+22739,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+22749,"Arroyo Seco gravelly loam, 0 to 2 percent slopes"
+22835,"Rincon clay loam, 0 to 2 percent slopes, MLRA 14"
+22836,"Rincon clay loam, 0 to 2 percent slopes, MLRA 14"
+22837,"Rincon clay loam, 0 to 2 percent slopes, MLRA 14"
+22884,"Mocho silt loam, 0 to 2 percent slopes, MLRA 14"
+22885,Mocho silt loam
+22887,Mocho silt loam
+22889,Mocho silt loam
+22890,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+22891,Xerorthents loamy
+22892,Xerorthents loamy
+22893,Mocho silt loam
+22894,Mocho silt loam
+22895,Mocho silt loam
+22896,Mocho silt loam
+22897,Salinas clay loam
+22898,Salinas clay loam
+22899,Salinas clay loam
+22900,Salinas clay loam
+22901,Salinas clay loam
+22902,Salinas clay loam
+22903,Salinas clay loam
+22904,Mocho silt loam
+22905,Cropley silty clay
+22906,Mocho silt loam
+22907,Cropley silty clay
+22911,Salinas clay loam
+22912,Salinas clay loam
+22913,Salinas clay loam
+22918,"Danville sandy clay loam, 0 to 2 percent slopes"
+22919,"Danville sandy clay loam, 0 to 2 percent slopes"
+22920,"Chualar loam, 0 to 2 percent slopes"
+22921,"Chualar loam, 0 to 2 percent slopes"
+22922,"Cropley silty clay, 0 to 2 percent slopes"
+22924,"Arroyo Seco gravelly loam, 0 to 2 percent slopes"
+22925,"Arroyo Seco gravelly loam, 0 to 2 percent slopes"
+22961,Pacheco fine sandy loam
+22981,Pacheco fine sandy loam
+22990,"Salinas clay loam, 0 to 2 percent slopes, MLRA 14"
+23011,"Salinas clay loam, 0 to 2 percent slopes"
+23044,Pacheco fine sandy loam
+23050,Pacheco fine sandy loam
+23054,Salinas clay loam
+23057,Cropley silty clay
+23058,Mocho silt loam
+23060,Cropley silty clay
+23061,Salinas clay loam
+23062,Salinas clay loam
+23407,"Arroyo Seco gravelly loam, 0 to 2 percent slopes"
+23506,"Yolo silt loam, 0 to 2 percent slopes, MLRA 17"
+23533,"Yolo silty clay loam, 2 to 9 percent slopes"
+23666,"Arroyo Seco gravelly loam, 0 to 2 percent slopes"

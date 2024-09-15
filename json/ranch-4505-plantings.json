@@ -1,0 +1,17 @@
+[
+    {
+        "Id": 15751,
+        "Name": "Corn",
+        "ActiveEvents": null,
+        "CommodityTypeId": 21,
+        "CommodityTypeName": "Baby Salad Greens",
+        "HarvestDate": "2024-08-05T00:00:00",
+        "WetDate": "2024-08-03T00:00:00",
+        "HasSoilMoistureFileName": false,
+        "HasFlowMeterFileName": false,
+        "RanchLot_Id": 9512,
+        "RanchLot_Name": "Corn Field",
+        "IsNDependent": true,
+        "Ranch_External_GUID": "02a9ba6b-19db-4417-923f-3de38a1ad98b"
+    }
+]

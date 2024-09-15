@@ -1,0 +1,4 @@
+UserFullName,UserId,Email,Role,IsOwner
+Andy  Hernandez,fe8ee7d9-5930-427a-9d37-98a0f24d94a1,andyboy420019@gmail.com,Owner,True
+Kyle Delmo,a7005d6f-6268-4c07-88af-d3f97add3617,kyle.delmo@gmail.com,User,False
+Madison Foletta,ce67680f-00b1-4922-b9c2-3fb00d5aca7e,foletta18@gmail.com,User,False

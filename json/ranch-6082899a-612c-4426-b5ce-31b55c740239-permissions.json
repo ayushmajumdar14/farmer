@@ -1,0 +1,14 @@
+[
+    {
+        "RanchName": "Dressing",
+        "RanchExternalGuid": "6082899a-612c-4426-b5ce-31b55c740239",
+        "UserIsRanchOwner": true,
+        "UserCanEditPlanting": true,
+        "UserCanEditFertilizationEvent": true,
+        "UserCanEditIrrigationEvent": true,
+        "UserCanEditSoilSampleEvent": true,
+        "UserCanEditRanch": true,
+        "UserCanDataExport": true,
+        "HasActivePlantings": false
+    }
+]

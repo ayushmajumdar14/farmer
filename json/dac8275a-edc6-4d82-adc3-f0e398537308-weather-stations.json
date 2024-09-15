@@ -1,0 +1,46 @@
+[
+    {
+        "Id": 54,
+        "External_Id": "116",
+        "Name": "Salinas North",
+        "Distance": 3,
+        "NearestCity": "Salinas",
+        "County": "Monterey",
+        "Priority": 1,
+        "ActiveStation_Id": 54,
+        "ActiveStation_Active": true
+    },
+    {
+        "Id": 77,
+        "External_Id": "143",
+        "Name": "San Juan Valley",
+        "Distance": 11,
+        "NearestCity": "Hollister",
+        "County": "San Benito",
+        "Priority": 2,
+        "ActiveStation_Id": 77,
+        "ActiveStation_Active": true
+    },
+    {
+        "Id": 139,
+        "External_Id": "214",
+        "Name": "Salinas South II",
+        "Distance": 9,
+        "NearestCity": "Salinas",
+        "County": "Monterey",
+        "Priority": 3,
+        "ActiveStation_Id": 139,
+        "ActiveStation_Active": true
+    },
+    {
+        "Id": 151,
+        "External_Id": "229",
+        "Name": "Laguna Seca",
+        "Distance": 14,
+        "NearestCity": "Monterey",
+        "County": "Monterey ",
+        "Priority": 4,
+        "ActiveStation_Id": 151,
+        "ActiveStation_Active": true
+    }
+]

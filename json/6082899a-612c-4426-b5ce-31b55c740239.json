@@ -1,0 +1,16 @@
+[
+    {
+        "RanchName": "Dressing",
+        "Acres": 5.0,
+        "Coordinates": "37.559377,-122.248692",
+        "RanchOwner": "a7005d6f-6268-4c07-88af-d3f97add3617",
+        "RanchOwnerFullName": "Kyle Delmo",
+        "RanchOwnerEmail": "kyle.delmo@gmail.com",
+        "UseSpatialCIMIS": false,
+        "UseCIMISAverageMode": false,
+        "SpatialETAvailable": true,
+        "WeatherAPI_Id": 1,
+        "Id": 4476,
+        "Ranch_External_GUID": "6082899a-612c-4426-b5ce-31b55c740239"
+    }
+]

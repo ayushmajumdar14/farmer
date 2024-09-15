@@ -1,0 +1,2 @@
+Id,External_Id,Name,Distance,NearestCity,County,Priority,ActiveStation_Id,ActiveStation_Active
+101,171,Union City,11,Union City,Alameda,1,101,True

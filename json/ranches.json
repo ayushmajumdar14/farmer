@@ -1,0 +1,72 @@
+[
+    {
+        "Id": 4476,
+        "Ranch_External_GUID": "6082899a-612c-4426-b5ce-31b55c740239",
+        "Name": "Dressing",
+        "ActivePlantings": 2,
+        "UserIsRanchOwner": true,
+        "UserCanEditRanch": true,
+        "UserCanEditPlanting": true,
+        "UserCanExportData": true,
+        "CreatedByUserId": "a7005d6f-6268-4c07-88af-d3f97add3617",
+        "CreatedByFullName": "Kyle Delmo",
+        "RanchOwnerId": "a7005d6f-6268-4c07-88af-d3f97add3617",
+        "RanchOwnerFullName": "Kyle Delmo"
+    },
+    {
+        "Id": 4510,
+        "Ranch_External_GUID": "31e52c98-b512-445f-acd8-ae240da113e0",
+        "Name": "Kyle's Ranch",
+        "ActivePlantings": 0,
+        "UserIsRanchOwner": true,
+        "UserCanEditRanch": true,
+        "UserCanEditPlanting": true,
+        "UserCanExportData": true,
+        "CreatedByUserId": "a7005d6f-6268-4c07-88af-d3f97add3617",
+        "CreatedByFullName": "Kyle Delmo",
+        "RanchOwnerId": "a7005d6f-6268-4c07-88af-d3f97add3617",
+        "RanchOwnerFullName": "Kyle Delmo"
+    },
+    {
+        "Id": 4505,
+        "Ranch_External_GUID": "02a9ba6b-19db-4417-923f-3de38a1ad98b",
+        "Name": "My Ranch 1",
+        "ActivePlantings": 1,
+        "UserIsRanchOwner": false,
+        "UserCanEditRanch": false,
+        "UserCanEditPlanting": true,
+        "UserCanExportData": true,
+        "CreatedByUserId": "c08bcfa1-f14f-43c5-b769-ec6a8a0533c2",
+        "CreatedByFullName": "Eel Cee",
+        "RanchOwnerId": "c08bcfa1-f14f-43c5-b769-ec6a8a0533c2",
+        "RanchOwnerFullName": "Eel Cee"
+    },
+    {
+        "Id": 4504,
+        "Ranch_External_GUID": "dac8275a-edc6-4d82-adc3-f0e398537308",
+        "Name": "Test Ranch",
+        "ActivePlantings": 4,
+        "UserIsRanchOwner": false,
+        "UserCanEditRanch": true,
+        "UserCanEditPlanting": true,
+        "UserCanExportData": true,
+        "CreatedByUserId": "fe8ee7d9-5930-427a-9d37-98a0f24d94a1",
+        "CreatedByFullName": "Andy  Hernandez",
+        "RanchOwnerId": "fe8ee7d9-5930-427a-9d37-98a0f24d94a1",
+        "RanchOwnerFullName": "Andy  Hernandez"
+    },
+    {
+        "Id": 4482,
+        "Ranch_External_GUID": "3bbf23cc-8c3b-4bbd-8442-cabcebe7713b",
+        "Name": "UCCE 6",
+        "ActivePlantings": 1,
+        "UserIsRanchOwner": false,
+        "UserCanEditRanch": true,
+        "UserCanEditPlanting": true,
+        "UserCanExportData": false,
+        "CreatedByUserId": "94FAC096-0509-4805-BB50-6FF7F893D6AB",
+        "CreatedByFullName": "Michael Cahn",
+        "RanchOwnerId": "94FAC096-0509-4805-BB50-6FF7F893D6AB",
+        "RanchOwnerFullName": "Michael Cahn"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "RanchName": "Kyle's Ranch",
+        "RanchExternalGuid": "31e52c98-b512-445f-acd8-ae240da113e0",
+        "UserIsRanchOwner": true,
+        "UserCanEditPlanting": true,
+        "UserCanEditFertilizationEvent": true,
+        "UserCanEditIrrigationEvent": true,
+        "UserCanEditSoilSampleEvent": true,
+        "UserCanEditRanch": true,
+        "UserCanDataExport": true,
+        "HasActivePlantings": false
+    }
+]

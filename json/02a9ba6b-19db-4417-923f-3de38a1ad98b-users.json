@@ -1,0 +1,16 @@
+[
+    {
+        "UserFullName": "Eel Cee",
+        "UserId": "c08bcfa1-f14f-43c5-b769-ec6a8a0533c2",
+        "Email": "eelcee@hotmail.com",
+        "Role": "Owner",
+        "IsOwner": true
+    },
+    {
+        "UserFullName": "Kyle Delmo",
+        "UserId": "a7005d6f-6268-4c07-88af-d3f97add3617",
+        "Email": "kyle.delmo@gmail.com",
+        "Role": "User",
+        "IsOwner": false
+    }
+]
